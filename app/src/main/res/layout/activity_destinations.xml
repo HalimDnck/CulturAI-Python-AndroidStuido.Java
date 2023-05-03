@@ -1,0 +1,1871 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical"
+    tools:context=".Main.DestinationsActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp">
+
+        <ImageView
+            android:id="@+id/go_back_btn"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/go_back"
+            app:tint="@color/main_green"
+            tools:ignore="ContentDescription,HardcodedText" />
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_centerInParent="true"
+            android:paddingTop="0dp"
+            android:src="@drawable/logo"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/main_info"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/info"
+            app:tint="@color/main_green"
+            tools:ignore="ContentDescription,HardcodedText" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/santralregular"
+        android:gravity="center"
+        android:text="@string/all_turkey_destinations"
+        android:textColor="@color/main_green"
+        android:textSize="24sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="SpeakableTextPresentCheck">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center">
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_gravity="center">
+
+                    <GridLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:columnCount="2"
+
+                        tools:ignore="RtlSymmetry"
+                        >
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp"
+                            >
+                            <ImageView
+                                android:src="@drawable/adana"
+                                android:id="@+id/adana"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Adana"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="20dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/adiyaman"
+                                android:id="@+id/adiyaman"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Adıyaman"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/aydin"
+                                android:id="@+id/aydin"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Aydın"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/antalya"
+                                android:id="@+id/antalya"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentBottom="true"
+                                android:paddingLeft="10dp"
+                                android:paddingBottom="10dp"
+                                android:text="Antalya"
+                                android:textColor="@color/white"
+                                android:textSize="16sp" />
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/amasya"
+                                android:id="@+id/amasya"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentBottom="true"
+                                android:paddingLeft="10dp"
+                                android:paddingBottom="10dp"
+
+                                android:text="Amasya"
+                                android:textColor="@color/white"
+                                android:textSize="16sp" />
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+
+                            <ImageView
+                                android:id="@+id/afyonkarahisar"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                android:src="@drawable/afyonkarahisar"
+                                tools:ignore="ContentDescription" />
+                            <TextView
+                                android:text="Afyonkarahisar"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:gravity="end"
+
+                                android:textColor="@color/white"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp"
+                            >
+                            <ImageView
+                                android:src="@drawable/aksaray"
+                                android:id="@+id/aksaray"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Aksaray"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/ankara"
+                                android:id="@+id/ankara"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Ankara"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/ardahan"
+                                android:id="@+id/ardahan"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Ardahan"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/artvin"
+                                android:id="@+id/artvin"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Artvin"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/agri"
+                                android:id="@+id/agri"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Ağrı"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/balikesir"
+                                android:id="@+id/balikesir"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Balıkesir"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/bartin"
+                                android:id="@+id/bartin"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Bartın"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/batman"
+                                android:id="@+id/batman"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Batman"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/bayburt"
+                                android:id="@+id/bayburt"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Bayburt"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/bilecik"
+                                android:id="@+id/bilecik"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Bilecik"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/bingol"
+                                android:id="@+id/bingol"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Bingöl"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/bitlis"
+                                android:id="@+id/bitlis"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Bitlis"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/bolu"
+                                android:id="@+id/bolu"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Bolu"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/burdur"
+                                android:id="@+id/burdur"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Burdur"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/bursa"
+                                android:id="@+id/bursa"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Bursa"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/canakkale"
+                                android:id="@+id/canakkale"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Çanakkale"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/cankiri"
+                                android:id="@+id/cankiri"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Çankırı"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/corum"
+                                android:id="@+id/corum"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Çorum"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/denizli"
+                                android:id="@+id/denizli"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Denizli"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/diyarbakir"
+                                android:id="@+id/diyarbakir"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Diyarbakır"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/duzce"
+                                android:id="@+id/duzce"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Düzce"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/edirne"
+                                android:id="@+id/edirne"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Edirne"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/elazig"
+                                android:id="@+id/elazig"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Elazığ"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/erzincan"
+                                android:id="@+id/erzincan"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Erzincan"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/erzurum"
+                                android:id="@+id/erzurum"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Erzurum"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/eskisehir"
+                                android:id="@+id/eskisehir"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Eskişehir"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/gaziantep"
+                                android:id="@+id/gaziantep"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Gaziantep"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/giresun"
+                                android:id="@+id/giresun"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Giresun"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/gumushane"
+                                android:id="@+id/gumushane"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Gümüşhane"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/hakkari"
+                                android:id="@+id/hakkari"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Hakkari"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/hatay"
+                                android:id="@+id/hatay"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Hatay"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/igdir"
+                                android:id="@+id/igdir"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Iğdır"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/isparta"
+                                android:id="@+id/isparta"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Isparta"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/izmir"
+                                android:id="@+id/izmir"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="İzmir"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/kahramanmaras"
+                                android:id="@+id/kahramanmaras"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Kahramanmaraş"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/karabuk"
+                                android:id="@+id/karabuk"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Karabük"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/karaman"
+                                android:id="@+id/karaman"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Karaman"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/kars"
+                                android:id="@+id/kars"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Kars"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/kastamonu"
+                                android:id="@+id/kastamonu"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Kastamonu"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/kayseri"
+                                android:id="@+id/kayseri"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Kayseri"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/kirklareli"
+                                android:id="@+id/kirklareli"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Kırklareli"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/kirikkale"
+                                android:id="@+id/kirikkale"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Kırıkkale"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/kirsehir"
+                                android:id="@+id/kirsehir"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Kırşehir"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/kilis"
+                                android:id="@+id/kilis"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Kilis"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/kocaeli"
+                                android:id="@+id/kocaeli"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Kocaeli"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/konya"
+                                android:id="@+id/konya"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Konya"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/kutahya"
+                                android:id="@+id/kutahya"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Kütahya"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/malatya"
+                                android:id="@+id/malatya"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Malatya"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/manisa"
+                                android:id="@+id/manisa"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Manisa"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/mardin"
+                                android:id="@+id/mardin"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Mardin"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/mersin"
+                                android:id="@+id/mersin"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Mersin"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/mugla"
+                                android:id="@+id/mugla"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Muğla"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/mus"
+                                android:id="@+id/mus"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Muş"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/nevsehir"
+                                android:id="@+id/nevsehir"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Nevşehir"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/nigde"
+                                android:id="@+id/nigde"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Niğde"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/ordu"
+                                android:id="@+id/ordu"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Ordu"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/osmaniye"
+                                android:id="@+id/osmaniye"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Osmaniye"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/rize"
+                                android:id="@+id/rize"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Rize"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/sakarya"
+                                android:id="@+id/sakarya"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Sakarya"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/samsun"
+                                android:id="@+id/samsun"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Samsun"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/siirt"
+                                android:id="@+id/siirt"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Siirt"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/sinop"
+                                android:id="@+id/sinop"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Sinop"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/sivas"
+                                android:id="@+id/sivas"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Sivas"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/sanliurfa"
+                                android:id="@+id/sanliurfa"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Şanlıurfa"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/sirnak"
+                                android:id="@+id/sirnak"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Şırnak"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/tekirdag"
+                                android:id="@+id/tekirdag"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Tekirdağ"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/tokat"
+                                android:id="@+id/tokat"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Tokat"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/trabzon"
+                                android:id="@+id/trabzon"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Trabzon"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/tunceli"
+                                android:id="@+id/tunceli"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Tunceli"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/usak"
+                                android:id="@+id/usak"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Uşak"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/van"
+                                android:id="@+id/van"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Van"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/yalova"
+                                android:id="@+id/yalova"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Yalova"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:paddingTop="20dp">
+                            <ImageView
+                                android:src="@drawable/yozgat"
+                                android:id="@+id/yozgat"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Yozgat"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp">
+                            <ImageView
+                                android:src="@drawable/zonguldak"
+                                android:id="@+id/zonguldak"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                tools:ignore="ContentDescription"/>
+                            <TextView
+                                android:text="Zonguldak"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp"
+                                android:paddingLeft="10dp"
+                                android:textColor="@color/white"
+
+                                android:layout_alignParentBottom="true"
+                                android:textSize="16sp"/>
+                        </RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    </GridLayout>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+        </ScrollView>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

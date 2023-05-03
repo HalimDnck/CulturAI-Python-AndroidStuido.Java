@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main.PlannerActivity"
+    android:orientation="vertical"
+    android:background="@color/black"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        >
+
+        <ImageView
+            android:id="@+id/go_back_btn"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/go_back"
+            app:tint="@color/main_green"
+            tools:ignore="ContentDescription,HardcodedText" />
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/logo"
+            android:paddingTop="0dp"
+            android:layout_centerInParent="true"
+            tools:ignore="ContentDescription"
+            />
+
+        <ImageView
+            android:id="@+id/main_info"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/info"
+            app:tint="@color/main_green"
+            tools:ignore="ContentDescription,HardcodedText" />
+
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="20dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/santralregular"
+                android:gravity="center"
+                android:text="@string/season_text"
+                android:textColor="@color/main_green"
+                android:textSize="18sp"
+                android:paddingBottom="20dp"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_centerInParent="true"
+                        android:orientation="vertical"
+                        >
+                        <CheckBox
+                            android:id="@+id/summer"
+                            android:text="@string/summer_spring"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/white"
+                            android:textSize="18dp"
+                            android:paddingLeft="8dp"
+                            android:layout_marginBottom="12dp"
+                            android:button="@drawable/checbox_style"
+                            />
+                        <CheckBox
+                            android:id="@+id/winter"
+                            android:text="@string/winter_autmn"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/white"
+                            android:textSize="18dp"
+                            android:paddingLeft="8dp"
+                            android:layout_marginBottom="12dp"
+                            android:button="@drawable/checbox_style" />
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/santralregular"
+                android:gravity="center"
+                android:text="@string/select_your_favourite_holiday_types"
+                android:textColor="@color/main_green"
+                android:textSize="18sp"
+                android:paddingBottom="20dp"
+                android:paddingTop="50dp"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:paddingTop="20dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <GridLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:columnCount="2">
+
+                        <CheckBox
+                            android:text="@string/beach_sea"
+                            android:id="@+id/sea"
+                            android:layout_width="130dp"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/white"
+                            android:button="@drawable/checbox_style"
+                            android:textSize="18dp"
+                            android:paddingLeft="10dp" />
+
+                        <CheckBox
+                            android:text="@string/winter_skiing"
+                            android:id="@+id/skiing"
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/white"
+                            android:button="@drawable/checbox_style"
+                            android:textSize="18dp"
+                            android:layout_gravity="right"
+                            android:paddingLeft="10dp" />
+
+                        <CheckBox
+                            android:text="@string/nature_ecolife"
+                            android:id="@+id/nature"
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/white"
+                            android:button="@drawable/checbox_style"
+                            android:textSize="18dp"
+                            android:paddingLeft="10dp"
+                            android:layout_marginTop="15dp" />
+
+                        <CheckBox
+                            android:text="@string/historical_cultural"
+                            android:id="@+id/historical"
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/white"
+                            android:button="@drawable/checbox_style"
+                            android:textSize="18dp"
+                            android:layout_gravity="right"
+                            android:paddingLeft="10dp"
+                            android:layout_marginTop="15dp" />
+
+                        <CheckBox
+                            android:text="@string/outdoor_advanture"
+                            android:id="@+id/outdoor"
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/white"
+                            android:button="@drawable/checbox_style"
+                            android:textSize="18dp"
+                            android:paddingLeft="10dp"
+                            android:layout_marginTop="15dp" />
+
+                        <CheckBox
+                            android:text="@string/architecture_marvels"
+                            android:id="@+id/architecture"
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/white"
+                            android:button="@drawable/checbox_style"
+                            android:textSize="18dp"
+                            android:layout_gravity="right"
+                            android:paddingLeft="10dp"
+                            android:layout_marginTop="15dp" />
+
+                        <CheckBox
+                            android:text="@string/taste_gastronomy"
+                            android:id="@+id/gastro"
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/white"
+                            android:button="@drawable/checbox_style"
+                            android:textSize="18dp"
+                            android:paddingLeft="10dp"
+                            android:layout_marginTop="15dp"
+                            />
+
+                        <CheckBox
+                            android:text="@string/wellness_spa"
+                            android:id="@+id/spa"
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:textColor="@color/white"
+                            android:button="@drawable/checbox_style"
+                            android:textSize="18dp"
+                            android:layout_gravity="right"
+                            android:paddingLeft="10dp"
+                            android:layout_marginTop="15dp"
+                            />
+                    </GridLayout>
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:paddingTop="50dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/getPlan"
+                    android:layout_width="250dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:text="@string/get_a_plan"
+                    android:background="@drawable/plan_button_style"
+                    android:textColor="@color/main_green"
+                    />
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </ScrollView>
+</LinearLayout>

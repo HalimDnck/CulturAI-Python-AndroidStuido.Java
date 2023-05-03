@@ -1,0 +1,1127 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CulturAI</string>
+
+    <string name="main_btn">Plan Your Turkey Trip</string>
+    <string name="destinations">Destinations</string>
+    <string name="see_all">See All</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_text">Hello, this is a test!</string>
+    <string name="home">Home</string>
+    <string name="planner">Planner</string>
+    <string name="settings">Settings</string>
+    <string name="all_turkey_destinations">All Turkey Destinations</string>
+    <string name="season_text">In which season do you plan to visit Turkey?</string>
+    <string name="summer_spring"><![CDATA[Summer & Spring]]></string>
+    <string name="winter_autmn"><![CDATA[Winter & Autmn]]></string>
+    <string name="beach_sea"><![CDATA[Beach & Sea]]></string>
+    <string name="winter_skiing"><![CDATA[Winter & Skiing]]></string>
+    <string name="nature_ecolife"><![CDATA[Nature & EcoLife]]></string>
+    <string name="historical_cultural"><![CDATA[Historical & Cultural]]></string>
+    <string name="outdoor_advanture"><![CDATA[Outdoor & Advanture]]></string>
+    <string name="architecture_marvels">Architecture Marvels</string>
+    <string name="taste_gastronomy"><![CDATA[Taste & Gastronomy]]></string>
+    <string name="wellness_spa"><![CDATA[Wellness & Spa]]></string>
+    <string name="select_your_favourite_holiday_types">Select your favourite holiday types</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="options">Options</string>
+    <string name="sustainable_program">Sustainable Program</string>
+    <string name="social_meadia">Social Meadia</string>
+    <string name="info_dest">Choosing a city is very easy. The planner lists the most suitable cities for you and provides detailed information about each city. Select the most suitable city among the options and start preparing for your vacation.</string>
+    <string name="info_planner">On the Planner page, select the season in which you want to vacation. Then, choose your vacation type. Vacation types include winter sports, summer vacation, beach vacation, historical tourism, and more. The planner will show you the most suitable cities based on your choices.</string>
+    <string name="info_main">Here, you will find everything that you are looking for your Turkey vacation.You can get a full vacation plan for Turkey. In planner page select your favorite vacation type and get What you want!</string>
+    <string name="planner_head">GoTürkiye Vacation Planner</string>
+    <string name="main_head">Welcome to GoTürkiye!</string>
+    <string name="dest_head">Turkey Destinations</string>
+    <string name="day_one">Day One</string>
+    <string name="day_two">Day Two</string>
+    <string name="get_a_plan">Get a Plan</string>
+
+    <!-- Metinler Başlıyor -->
+
+
+    <string-array name="antalya">
+        <item>Antalya</item>
+        <item>Start the day with a rich, green and rich cheese variety. Because you can get a little tired. Let the first stop be Kaleiçi. Enter Kaleiçi through Hadrian\'s Gate and go along in the direction you entered, examining the narrow streets and original architecture of Kaleiçi. Next destination is Marina. Hop on a boat, grab a cool drink, and watch the cliffs. When the boat arrives at Aşağı Düden Waterfall, do not forget to take a photo. When the boat tour is over, it will be time for lunch. You can choose one of the cute restaurants in Kaleiçi.
+
+The next stop after lunch can be Perge Ancient City. Perge is built on an exceptionally large area and hosts dozens of historical artifacts. So, it will take some time to enjoy Perge. And if the weather is hot, you will need to cool down afterwards. There are dozens of options to cool off in Antalya. One of them is Lara Beach, which is near Perge. Spend the afternoon on Lara\'s golden beaches, relieve your tiredness. You can choose a seafood restaurant for dinner. Because seafood restaurants in Antalya can offer you delicious Lagos Fish cooked in salt. Do not leave Antalya without tasting Lagos.</item>
+        <item>Start the second day early. Because you can get on the cable car that goes to the top of Tahtalı Mountain in Kemer before sunrise and welcome the new day at the magnificent zenith of Tahtalı Mountain at an altitude of 2,365 meters. You can make sure that this experience will stay in your mind for life and accompany you as a souvenir. In other words, it will worth waking up incredibly early.  Once you reach sea level again, Olympos Ancient City will not be far away. There are cute venues where you can have a village breakfast on the ancient city road. You can evaluate them. Afterwards, enter the city and continue towards the sea by exploring the ancient city. If you get tired, a unique beach will be waiting for you at the end of your way.
+
+For lunch, you can go to boutique restaurants in Çıralı, near Olympos. Each of them will offer you their own, delicious options. After that, you can go a little further towards west. The next destination is Kas, the quiet and charming district of Antalya. Of course, when you come to Kaş, you should join a boat tour. Pick a boat from the harbor, jump at it and try to find the bay where the turquoise sea is clearest. And do not forget to go to the northern shores of Kekova Island. Because, you will be fascinated by the ancient artifacts that can be seen with the naked eye, despite being a few meters below the sea. It is not possible to swim awfully close to Kekova Island to preserve that ancient richness, but you will see many calm bays. Choose one of them and cool off in the Mediterranean. When you return to the harbor, it will probably be time for dinner. In the charming streets of Kaş choose one of the boutique restaurants that plays your favorite music. Enjoy a calm evening in Kaş accompanied by beautiful music in a warm weather!</item>
+    </string-array>
+
+    <string-array name="adana">
+        <item>Adana</item>
+        <item>There are many historical and cultural sightseeing values in the center of Adana that can be visited. You can start your Adana tour with the TaşBridge, one of the oldest bridges still in use today, built by the Roman Architect “Auxentios” in the II. Century AD on the Seyhan River. The Girls’ High School, located right near the bridge, is also worth seeing. Afterwards, you can visit the Ulu Mosque and Ramazanoğlu Mansion, built in 1513 during the Ramazanoğlu Principality period. Later, you can see the historical Tepebağ Houses and photograph the architectural texture, and see the Bebekli Church, an Italian Catholic Church built in the name of St. Paul in 1881. Again, you can see the places around where the heart of the city beats by visiting the historical Great Clock Tower, Yağ Mosque and Kazancılar Bazaar. If you wish, you can have your meal in historical restaurants in this magical atmosphere accompanied by the famous Adana Kebab and Turnip juice, and then you can feast your palate with Adana’s famous desserts Karakuş and Halka Dessert or Bici Bici.
+
+Again, in Adana center, Designed as Türkiye’s largest museum complex in New Adana Museum, you can follow the footsteps of history by visiting the Archeology and mosaic sections. In this historical and cultural trip of Adana if you want to breathe in the arms of green, Karaisali district about 50 km from Adana center is one of the most visited places in the region with its historical buildings and natural beauties. After a pleasant trekking in Kapıkaya Canyon, an ideal route for hiking enthusiasts and nature lovers, you can relax by sipping your coffee in front of the unique view of the historical Varda Bridge and take magnificent photos.
+</item>
+        <item>Apart from Adana center, many ancient cities, Castles, Bridges, Caravanserais and ruins can be seen. You can see the Misis Bridge, thought to have been built by the Eastern Roman Emperor Flavius Julius Constantinos in the 4th century, in the town of Misis, about 25 km from the center, and you can taste the famous Sıkma and Misis Ayran. Afterwards, you can enjoy the view by visiting the Yılan Castle, which welcomes you on the right side of the road while driving towards Ceyhan district. Afterwards, turning to Kadirli road from Ceyhan - Kadirli road junction and in Dilekkaya Village; You should see the magnificent Anavarza Ancient City, which is on the UNESCO World Heritage Temporary List. In Kozan Castle, located in Kozan district, you can relax by sipping your menengiç coffee with a magnificent view.
+
+Later in the day passing through Ceyhan district, when you arrive in Yumurtalık district one of the most important port cities of the Region; You can also visit the Castle located in the harbor, Marco Polo Pier and the Sea Castle, Süleyman Tower in just west of the town and Kurtkulağı Caravanserai on the way to Ceyhan. Then about 45 km from the Center in Karataş district, having an important place in the Roman and Byzantine periods, Magarsus Ancient City and its Theater can be seen. Also located to the west of the district center and Çukurova’s largest Lagoon Akyatan Bird Paradise also attracts attention with its natural beauty. Both Yumurtalık and Karataş has a great potential in terms of sea tourism; since it is rich in fresh seafood, it offers unique tastes to its visitors.
+
+If you can spare more time for Adana, we also recommend you see these unique places, we briefly mention below:
+
+You can see every shade of green in the plateaus of Pozantı district, fill your lungs with oxygen, especially in autumn you can witness the riot of colors in Belemedik Plateau.
+
+The plateaus, forests, wild animals in Aladağ National Park are among the regions where the natural life is best protected and therefore the most favorite areas of nature and camping enthusiasts. Recently, one of the most popular spots, especially in summer, is the Küp Waterfalls.
+
+Located in Saimbeyli district Obruk Waterfall is one of the natural beauties of the region and attracts many visitors. You can see the s blue butterfly type specific to this region and if you come in season you should taste the famous Saimbeyli Cherry. Afterwards in Tufanbeyli district you can visit the Shar Ancient City, having the traces of Hittite, Roman and Byzantine periods.
+</item>
+    </string-array>
+
+
+
+    <string-array name="adiyaman">
+        <item>Adıyaman</item>
+        <item>If you want to take a quick stroll in Adıyaman, head to Nemrut, near the city and 40 km north of Kahta, where the ancient statues of deities are located at an altitude of 2206 m. Visit the historical Oturakçı Bazaar, where you’ll find high quality handwoven rugs called Pişinik and Alikan in bright colours and miniature Nemrut sculptures at affordable prices. And taste the world-famous Çiğ Köfte, Kavurmalı Hıtap, Cevizli Sucuk, and lamb and Adıyaman Tut Mulberry and Mulberry Molasses in Şambayat.</item>
+
+    </string-array>
+
+
+
+    <string-array name="afyonkarahisar">
+        <item>Afyonkarahisar</item>
+        <item>Start the day with a breakfast consisting of Afyonkarahisar\'s local delicacies and store energy. Taste honey, cream, sausage, lentil twist and poppy katmer for breakfast. See the town in Victory Square and traditional products in the market place in Long Bazaar, Keçeciler Bazaar in and Bedesten Bazaar from the city center and see the traditional products. Give a tea break in historical Tashan. Buy the local handicrafts; visit Grand Mosque and the Culture and Art House, one of the historical houses of Afyonkarahisar. Take a mystical tour in Sultan Divani Mevlevihanesi. Discover the historical mansions of the late Ottoman-era. Go to the Karahisar Castle, one of the symbols of Afyon, and witness the magnificent view. After a difficult climb, return to the city centre and taste the local flavours of Afyon. Don\'t forget to taste the famous kaymaklı ekmek kadayıfı over lunch. Witness the city’s history and culture by visiting Afyon Archaeological Museum and Victory Museum. Examine the ethnographic artefacts in Cesmeli Mansion. Be sure to visit İsmail Kumartaşlı Egg and Arts Center and Alimoğlu Music Center. By visiting the Martyr’s Cemeteries of the heroes who were martyred in the National Resistance, the monuments and the Istiklal Info Center, you can feel Afyon, known as the city of victory, more closely. After a tiring day, taste the local dishes of Afyon at dinner. Leave the tiredness of the day by dipping the pools in a thermal centre in your hotel or the closest one and get ready for the next day.</item>
+        <item>After visiting important places in the city center in the first day, start the second day early and deposit energy with Afyon\'s local breakfasts. Today hit the road and explore the Phrygian settlements, where a large number of ancient ruins of Phrygian can be seen. Start exploring Seydiler for fairy chimneys wearing over time resulting in volcanic rocks. Visit Ayazini, its Ayazini Carved Church and its Avdalaz Castle, which has been known as a settlement since the Phrygians, and which was renamed to Metropolis after being taken over by the Byzantines, and which became a religious centre in Roman and Byzantine periods. In the Ayazini village you will have the opportunity to see the intertwined reflections of Phrygian, Seljuk, Ottoman and Turkish Republic civilizations in Turkish houses intertwined with rock settlements. Visit the historical houses reflecting the recent architecture restored in Ayazini and feel the hospitality of the friendly Ayazini villagers. Take a short break by tasting goose meat with Siyez wheat, one of the local dishes in the region. Later, explore in the Göynüş Valley the two burial chambers called Aslantaş, and Yılantaş, and the Kybele open-air temple called Maltaş; and dozens of Phrygian rock-cut tombs and monuments throughout the valley; and the Demirli Castle, Aslankaya Monument, Memeç Cliffs where the movie “Arog” was filmed. If you have time, take a tour on the lake with a Phrygian boat (King Midas\' Boat) at Emre Lake, which is on the migration routes of flamingos, and see many more history laden natural beauties in the region. Watch the magnificent sunset on the shores of the lake. After setting your dinner table with local Afyon kitchen, find healing in the thermal waters in Afyon and relieve your tiredness.</item>
+    </string-array>
+
+
+
+    <string-array name="aksaray">
+        <item>Aksaray</item>
+        <item>After a local breakfast on the first day in Aksaray, you can first visit the Aksaray Museum in the city center. After the museum, you can go to Somuncu Baba Tomb and Complex, and you can see the Ervah Cemetery, one of the largest cemeteries in the world where his tomb is located and more than seven thousand scholars lie. Then you can visit Eğri Minaret, Ulu Mosque, Pasha Bath and Zinciriye Madrasa respectively and have a short tea or coffee break before the next destination. After your break, you can start out to see St. Mercurius ancient city, which is about half an hour away, and visit the Ağzıkarahan Caravanserai on the route. After visiting St. Mercurius ancient city, you can continue to Aşıklı Tumulus, the first village settlement of Central Anatolia. When you return to the city, you can buy a Taşpınar Carpet as a memory from the market.</item>
+        <item>You can spend your second day in Aksaray by getting away from the city intertwined with history. After breakfast, you can go to the Selime Cathedral, the largest cathedral in Cappadocia, about 40 minutes away by car, as the first stop of the historical journey. After the Selime Cathedral, you can visit Ihlara Valley and see all the churches such as Sümbüllü, Yılanlı, Kokar, Ağaçaltı, Pürenliseki, Eğritaş, Kırkdamaltı waiting for you. After the walk, you can have your meal and sip your tea in the gazebos on the Melendiz Stream in Ihlara Valley. Here you can discover fascinating historical churches and continue your adventure with Güzelyurt Manastır Valley. For staying in touch with nature after a historical journey, you can go to Hasan Mountain, the second highest mountain in Central Anatolia, take a walk after a nice meal at the facilities in Helvadere town, and after visiting Nora Ancient City, you can take the back track.</item>
+    </string-array>
+
+
+    <string-array name="amasya">
+        <item>Amasya</item>
+        <item>You can begin your day with Amasya’s local muffins and samovar tea at breakfast. You can start your first day in Amasya with the Museum of Princes where you can see the statues of Ottoman Sultans and the dresses that reflect the era. We then recommend you to visit Mount Harşena and the Rock Tombs of Pontic Kings, which was included in UNESCO World Heritage Tentative List in 2015. Then you can visit Aynalı Cave and see the best and most complete examples of rock tombs. After this, you can move on to Amasya Castle and then visit Hazeranlar Mansion, which was built in 1872 and offers one of the most elegant civilian architecture examples of the Ottoman era. After you discover the mansion, you can eat toyga soup, fava bean stuffings, eggplant pehli, keşkek and caterpillar baklava, and continue your tour.
+
+You can visit Sultan Bayezid II Complex, which was built in 1485 and consists of a mosque, madrasah, imaret, sepulcher and water fountain, and then visit Miniature Amasya Model Museum and Amasya Museum.  At Günü Çakallar, you can finish your day with a delicious dinner with a great view of Amasya. </item>
+        <item>You can begin your second day with a breakfast with Amasya Yağlı with poppy seeds and samovar tea, and then visit Ferhat and Şirin Lovers Museum, the first and only Lovers Museum in Türkiye. After you visit the museum, you can go to Merzifon.
+
+You can visit Abide Hatun Mosque which is notable for its winter ornaments and decorations, and Kara Mustafa Paşa Mosque and Covered Bazaar.
+
+After a lunch consisting of Topuz Kebab and geographically indicated Merzifon Keşkek, you can visit Mehmet Çelebi Madrasah and Mosque.
+
+Then you can visit Gümüşhacıköy Covered Bazaar, Yörgüç Rüstem Paşa Mosque and finally Gümüş Maden Mosque, which was a church built in the 19th century, hosts frescoes of Jesus and his four apostles, Matthew, Mark, Luke and John on its ceiling, and serves as a mosque today. Then you can finish your day with a delicious dinner. </item>
+    </string-array>
+
+
+    <string-array name="ankara">
+        <item>Ankara</item>
+        <item>What about starting your journey from the center of the city? The mausoleum of Mustafa Kemal Atatürk, the founder of the Republic of Türkiye, called Anıtkabir, is in the city center and this is an ideal place to start visiting Ankara. Anıtkabir reflects the grandiosity of modern architecture. The Atatürk and Independence War Museum inside Anıtkabir gives visitors the chance to witness how a nation was born.
+
+CerModern Art Gallery may be your next stop! Intending to be a social education project, CerModern aims to provide an inclusive experience of art and with the continuous production of projects; it became a center for culture and education.
+
+We have a good suggestion for the afternoon: Hamamönü. It located between Ulus and Sıhhiye districts and renovated after careful city planning, was awarded the European Tourist Destination of Excellence 2011. Its historic Ankara houses, authentic streets, cultural and artistic events all year around, hand-made products exhibited at the street corners, the street of art, open-air movie theatre, shopping stores promising novelties for all tastes and budgets are among the sightseeing spots of Hamamönü.</item>
+        <item>Let’s start to second day in Ankara at Ulus district.
+
+Hacı Bayram-ı Veli Mosque leaning to the walls of the Temple of Augustus, which is the symbol of tolerance and peaceful co-existence of diverse communities.
+
+Then, you can stay in Ulus district to see The War of Indepence Museum (First Parliament House). The former Turkish Parliament building (now the War of Independence Museum) which was used during the Turkish War of Independence.
+
+For a delicious meal and some shopping, it is possible to visit the shopping centers of Ankara. Ankara is a shopaholic’s heaven. Thousands of domestic and international brands hosted by huge shopping malls where typically highest floor is reserved for restaurants, cafes and movie theaters. They are open between 10 am and 10 pm.</item>
+    </string-array>
+
+
+    <string-array name="ardahan">
+        <item>Ardahan</item>
+        <item>After starting breakfast with local flavors unique to Ardahan such as Feselli, Ardahan Flower Honey and Ardahan Kaşar Cheese, start your Ardahan tour by going to Lake Putka, which is home to many bird species.
+
+Then, return to the center and see Ardahan Castle, which was built in the 16th century by order of Suleiman the Magnificent.
+
+Do not forget to witness the history by visiting Ardahan Central Mevlit Efendi Mosque built in 1701, Hamşioğlu Rasim Bey Mansion built in the 19th century and Dursun Soylu Mansion.</item>
+        <item>Start out towards Taşköprü village to see the inscriptions that are thought to be the oldest inscription in the region and are claimed to belong to the Sarduri II, one of the Urartian Kings.
+
+Fish in Lake Çıldır, which offers different views for visitors in 4 seasons, take landscape photos and spend time alone with nature.
+
+Visit Akçakale, the most important of the islets on Lake Çıldır, and see Island City Ruins, thought to have a history of 10.000 years.
+
+After resting a little in Kenarbel Village, which is at the lakeside of Lake Aktaş, complete the day by spending time in Lake Aktaş, which is famous for its natural beauty and scenery.</item>
+    </string-array>
+
+
+    <string-array name="artvin">
+        <item>Artvin</item>
+        <item>Start your day with muhlama, butter, karakovan honey and a beautiful glass of tea. Then start enjoying what nature has been hiding for you. Go and swim the natural aquapark of Oçambre Waterfall, take pictures on Çifte Köprüler at Kamilet Valley, visit the Lifestyle Museum of Dikyamaç Village to explore ethnographic artefacts. Then head off to Mençuna Waterfall to lend an ear to the sound of cascading water. Have the traditional pita called yağlı for lunch at Hopa, after visiting the Hopa Museum. After lunch, go to visit the İremit wooden mosque and see Borçka Karagöl (Lake). If you are keen for adventure, experience zipline with the boat on Borçka Dam. If you stay in the city centre, you can opt for a restaurant serving traditional dishes from Artvin cuisine.</item>
+        <item>Start your second day by having a delicious breakfast on Kafkasör Plateau. Then you can take a walk towards Yankı Hill to see the unique landscape of the region. You may have time to stop by Hatila National Park and enjoy the view and the adventure of Glass Terrace. For lunch, go to Ardanuç for the famous Cağ kebab, and after lunch, visit the historical Adakale Site and Gevhernik Castle.  Don’t forget to go Cehennem Deresi Canyon –and hike a little to get the spirit and visit (Yeni) Rabat Church in Rabat Village. Then, going towards Şavşat Karagöl, remember to stop to visit the Tibeti (Tbeti) Church. Finish your day with a long walk around Şavşat Karagöl and have trout and salad for dinner.</item>
+    </string-array>
+
+
+    <string-array name="aydin">
+        <item>Aydın</item>
+        <item>You can enjoy the sea and the sun at many points, especially Kuşadası and Didim, in Aydın, which offers a pleasant sea holiday with its magnificent deep blue sea, blue flag certified beaches and unique bays. It is possible to accommodate in many touristic facilities that offer high quality service and appeal to different tastes, around the most beautiful beaches. You can have breakfast in the restaurants in the city centre and then drink traditional Turkish coffee or tea. Kadınlar Beach, Güzelçamlık, Pigale, Güvercinadası beaches, Altınkum, Akbük and Tavşanburnu beaches, which you can easily access from the city centre, are the main beaches where you can enjoy the cool and clean waters.
+
+Güvercinadası, which gave its name to Kuşadası and where Güvercinada Castle is located surrounded by high walls, should be one of the first points to visit. Here you can enjoy the view of the city, take a break and take beautiful photos.
+
+An Aydın trip cannot be imagined without Dilek Peninsula Büyük Menderes Delta National Park, which is under protection and is a natural wonder. It is a unique opportunity to enjoy the lush nature and clear waters, and to observe the rich plant diversity and migratory bird species. You can participate in different sports activities in the national park or spend a peaceful time enjoying the view from the Observation Terrace.
+
+You should definitely visit the Zeus Cave, which is located very close to the entrance of the National Park, which is rumoured, that Zeus had taken a bath in its waters.
+
+You can explore Kuşadası and Didim through underwater diving and spend an exciting day with surface sports. You can join the boat tours departing from the port, and travel to the bays and enjoy the serenity on the blue waters.
+
+You should definitely see Didyma, the prophecy centre of its time, and the ruins of its famous temple, the Temple of Apollo.
+
+In Kuşadası Marina, Kuşadası Port and Didim Marina, you can watch yachts and boats sailing in blue waters and the magnificent view at sunset.
+
+You can take advantage of entertainment opportunities in Aydın\'s colourful and lively nightlife and spend an evening full of music in the Kuşadası Bars Street. In addition, Kuşadası offers a wide range of products to its visitors with different shopping opportunities. You can buy leather products, jewellery, traditional carpets and rugs, decorative objects from the shops in the centre.
+
+You can learn about the rich history of the region while strolling through the ruins of the ancient cities of Alinda and Alabanda, which are very close to each other. You can add a trip to your route to the Ancient City of Trailles, which attracts attention with its Gymnasium known as “Üç Gözler”.
+
+You should definitely see Lake Bafa, which is the largest lake in the Aegean Region and a bird watching area that hosts different bird species. You can witness the magnificent combination of nature and history together with the historical beauties around it. You can explore Latmos Rocks, a unique place with interesting rock formations, rock paintings, monasteries, and frescoes. At the point where Yediler Monastery is located, you can enjoy the magnificent view of the city.
+
+You can taste the main dishes of Aydın such as Pasha Pastry, Pitae, Keskek and olive oil herb dishes such as Kedirgen Roasting, Soleirolia and Mallow in local businesses.
+
+Snow Halva, a flavor unique to Aydın and prepared with snow stored in snow wells and fruit syrup to be poured on it, will make you feel cool in hot weather. You should definitely try Pumpkin Dessert, one of the special desserts of the city.
+
+You can buy Aydın figs, a registered product that grows on its fertile soils and can be consumed fresh and dry, from local village markets and stores with different presentations. You can buy different varieties of olives, the symbol of health, from local producers and businesses in the centre in Aydın.</item>
+        <item>You can visit Old Doğanbey Village, an old Greek village, famous for its restored old stone houses and streets, and experience the local culture dominated by a calm and simple life. Here you can enjoy breakfast at sea in front of the Greek islands.
+
+You can visit the ancient city of Miletus, the city where the Greek mathematician Thales was born, and you can see the artifacts in the Miletus Museum.
+
+Ilyas Bey Kulliye, located in Balat Village and awarded with its restoration project, Öküz Mehmet Pasha Caravanserai located in the centre of Kuşadası and used as accommodation facility, Cihanoğlu Mosque with its Baroque style architecture, Old Çine Ahmet Gazi Mosque with its large-scale dome are among other cultural landmarks that can be visited during your trip.
+
+You can visit the magnificent ruins of the Ancient City of Aphrodisias, which is in the World Heritage List and dedicated to Aphrodite, the goddess of love and beauty, and you can visit valuable artifacts in the Aphrodisias Museum.
+
+When you come to Karacasu, in ceramic workshops you can experience the making process of Karacasu Pottery, of which reputation has spread outside the country. You can buy many ceramic products for use and decoration from the market.  You can visit the Karacasu Ethnography Museum, where artifacts of ceramics, hot iron, leather and other handicrafts from past to present are exhibited.
+
+You can go to Madran Highland in Bozdoğan with its lush green nature and clean air or to Pasha Highland in Efeler, which is closer to the centre, and take a break in a calm and peaceful environment.
+
+You should definitely visit Arapapıştı Canyon, which is located at the intersection of the three important cities of Türkiye, namely, Muğla, Aydın, and Denizli, and which stands out with the waters of Akçay and offers beautiful natural views. You can take a boat tour along the curved paths of the river or take a mountain hiking where you can see Körteke Castle and ancient ruins on the way.
+
+You can visit Yenipazar district, one of the cities included in the Cittaslow network, and spend time away from the noise of the city with the warm greetings of the local people. You can visit Yörük Ali Efe Museum, and Orthosia Ancient City, which is the first settlement of the district, and Dipsiz Lake.
+
+Taking advantage of the thermal spring facilities, you can relieve the tiredness of the day and recover health in thermal waters. Resting in the mineral-rich waters of the Alangüllü Thermal Springs located in the Buharkent Thermal Tourism region and in the district of Germencik or in the Davutlar Thermal Springs in Kuşadası will be very beneficial for your body and your spirit.
+
+During your trip to Aydın, do not forget to listen to the heroic stories of the Efes, the symbol of the city, to watch the Zeibek folk dance, which is a dance form expressing the nobility of the Efes, and to buy traditional handicrafts such as needle lace.</item>
+    </string-array>
+
+
+    <string-array name="agri">
+        <item>Ağrı</item>
+        <item> After you land on the airport, you can start your trip by exploring the city center of Ağrı. You can take a stroll on Cumhuriyet Street and take the opportunity to get to know the people of Ağrı and the city. For lunch, you should taste Ağrı’s famous döner. Before leaving the city, you can buy Ağrı Honey, known for its high rate of propolis, as a gift for yourself or your beloved ones. Do not forget to take photos with the view of Ulu Mosque in Ağrı city center. Hamur Tomb, 22 km from the city center, is also a historical monument worth to see.
+
+In the afternoon, go to Diyadin district on the Doğubayazıt road. Here, visit Diyadin Canyon and Meya Caves. The best place to stay, rest and gather energy for the next day’s tour to Ağrı Mountain and Doğubayazıt will be the Diyadin Thermal Springs, which also include state-of-the-art facilities. </item>
+        <item> After breakfast, go to Doğubayazıt district as possible as early. Let the first stop of our journey be the Trail of Noah’s Ark, located near Telçeker Village. Here you can take pictures of Ağrı Mountain and Small Ağrı Mountain. In the meantime, you should not miss the opportunity to shop from freeshops at Gürbulak Border Gate, which is only two kilometers away. Meteor Pit at the same location is one of the must-see places.
+
+For lunch, you can prefer grill in cafés with a unique view, opposite to İshak Paşa Palace. After the lunch, İshak Paşa Palace, Ahmed-i Hani Tomb, Urartian Castle will be waiting for you. Stop by the carpet and rug looms on the way to İshak Paşa Palace. The best choice for dinner in Doğubayazıt is of course Abdigor Köftesi!</item>
+    </string-array>
+
+
+    <string-array name="balikesir">
+        <item>Balıkesir</item>
+        <item>The historical sites of Balıkesir reflect the city\'s importance during the Ottoman period. One of the notable and strikingly well-preserved mosques from the medieval age is the Zağnos Paşa built in 1461. From here, you can take a boat trip to the nearby islands to taste the fish salad or take a dip in the waters. Balıkesir also has restaurants serving delicious seafood.
+
+From Balıkesir you can take a number of day trips. One of them is to Ayvalık known as the "Olive Riviera" probably because it is reached by following the olive groves. It has fine sandy beaches facing 22 pretty small islands. You can marvel at the Taksiarches Church (Taksiyaris Kilisesi) with its magnificent architecture and marble carvings and visit the Devil\'s feast (Şeytan Sofrası) to witness one of the perfect sunsets in the world. The busiest area in Ayvalık is its harbour, full of fishing boats and sightseeing boats. There are terrace restaurants and cafes facing the sea crowded with locals and visitors. Just 8 kms away is Sarımsaklı which boasts white sandy beaches in a romantic setting.</item>
+        <item>The calm Aegean Sea (Ege Denizi) makes summer the best time to visit Ayvalık. It’s a great place to chill out and relax whilst admiring the charm of the lovely old houses here.
+
+Akçay, at the base of Mount Ida (Kaz Dağı), is another site close to Balıkesir. It is popular for its curative spas. It also has fine natural scenery, befitting its legendary reputation as the site of the world\'s first beauty contest, which is said to have started the Trojan War.
+
+Gönen, 30 kms from Bandırma is another excellent relaxation centre. The location also has spas which have been used for curative purposes since early times.
+
+The islands of Marmara and Avşa are famous for their fish, wine and historical treasures. They also have wonderful shorelines. The famous Marmara marbles come from here.
+
+Not to be missed is the Kuş Cenneti Milli Parkı (Bird Paradise National Park) protecting 266 species of birds - a bird watchers paradise.
+
+For a reminder of fascinating moments of your journey in Balıkesir, you should consider the original rugs made in the villages of Balıkesir.</item>
+    </string-array>
+
+
+    <string-array name="bartin">
+        <item>Bartın</item>
+        <item>You can start to explore Bartın with a Bartın city center tour. Taşhan, Şadırvan, Mosques and Ebu Darda Tomb, Church building, bridges, Bartın Houses as examples of Local Architecture, Castle ruins from Genoese in Güzelcehisar, natural beauties and caves on the coastline are waiting to be discovered. Then, it is possible to cool off at Kızılkum, Moğada, İnkumu and Güzelcehisar beaches or to sweat in the City Bath.</item>
+        <item>What about to be in Amasra in second day? There, you can visit the museum, Amasra Castle, Bedesten, Mosque and Church, Ottoman Bath, Ancient Theater ruins, Underground Galleries, Kuşkayası Monument, natural wonder Gürcüoluk Cave and historical and natural beauties around Amasra, Çakraz, Göçkün and Akkonak Beaches. You can see, enjoy the sea, sun and nature on clean and fine sandy beaches.</item>
+    </string-array>
+
+
+    <string-array name="batman">
+        <item>Batman</item>
+        <item>You can start your first day in Batman by visiting the world\'s and Türkiye\'s extremely import and valuable Archeological Site of Hasankeyf. You have to visit the Citadel of Hasankeyf, and the cave houses in it, and the deep and imposing canyons. Then you can continue to the Arkeopark in the Hasankeyf district in order to make a time travel to the Middle Ages, where you will see the Tomb of Zeynel Bey, built by the sultan of the Aq Qoyunlu for his son; the Artuklu Hamamı (Artuqid bath); and the İmam Abdullah Zawiya, the Kızlar (Eyyubi) Mosque, the Süleyman Han Tomb, the Er-Rızk Mosque, and the third of the citadel gates, the Middle Gate, which all reached our times from the period of the Ayyubids; and the Koç Mosque from earlier periods.  And you can visit the Hasankeyf Museum next to the Arkeopark to admire the finds from archaeological excavations in the area. The Mor Kiryakus Monastery at the far end of the Turabidin region is considered sacred by Assyrian Christians, and has an important place among the nearly 80 churches and monasteries in this region. And if at the end of your trip you come across the Batman Hasankeyf Culture and Art Festival, then you should not miss it.</item>
+        <item>You can start the second day of your trip with a visit to the Batman Museum and Museum Park, which exhibit more than 500 artifacts on a wide range of history from the Palaeolithic Period to the Middle Ages. Later you should see the Hızır Bey and İbrahim Bey mosques in the Kozluk district. Afterwards, you can visit one of the icons of Batman, the Kandil Castle, the Pertükan Castle and the Rabat Castle. And if you want to enjoy the natural areas and the pure nature of Batman, you can go to Sason, which is blessed with all the beauties of nature, and which is full of flowers and plants in all the shades of colours, smiling at you in between the steep and rugged cliffs. The Sason River, with its dizzying speed, always provides an ideal place for rafting-fans during this season. You complete your second day at the Tigris River and its tributaries, the Batman and Garzan Rivers, which offer opportunities for sport fishing, and the Mereto, Aydınlık and Raman mountains, which offer opportunities for hiking and winter sports.</item>
+    </string-array>
+
+
+    <string-array name="bayburt">
+        <item>Bayburt</item>
+        <item>You can start your first day by visiting Bayburt Castle, which is the symbol of the city and attracts the most attention, as well as watching Bayburt from the top and watching the unique view of the whole city. Then you can go to the Great Mosque, which carries the traces of the Anatolian Seljuk period, and then you can go to the Clock Tower, one of the most important landmarks of the city, which can be seen from almost every point of the city. You can then visit Kenan Yavuz Ethnography Museum, a local cultural complex, with an indoor and outdoor museum that contains the traces of rural life. You can take a break by taking photos of the beautiful view of Çoruh River, which divides Bayburt into two, and by tasting the unique dishes of the city in the restaurants on both sides of the river. Afterwards, if your visit coincides with the winter season, you can go skiing at Kop Mountain Winter and Ski Center and complete your night by staying in the surrounding hotels.</item>
+        <item>On the second day of your visit to Bayburt, you should definitely visit the rooms created at a depth of 2 to 5 meters from the earth without using any building materials and wide spaces opened from the rooms in Aydıntepe Underground City, and Baksı Museum where contemporary traditional handicrafts are exhibited. You can then visit Dede Korkut Cupola, which is known by the locals as “Ali Baba” or “Korkut Ata” Cupola, and is thought to belong to the wise Dede Korkut in the epics of the Oğuz Turks. Before completing your day, you can visit Yakup Abdal Natural Park, one of the important natural park areas of Bayburt, and visit with your loved ones, have a picnic and have enjoyable times in the beautiful nature.</item>
+    </string-array>
+
+
+    <string-array name="bilecik">
+        <item>Bilecik</item>
+        <item>If you start your visit in the city centre, you might want to see the Bilecik Museum to explore the city’s cultural heritage. After a quick tour in the city centre and some window shopping, you can take a car and discover Söğüt -the hometown of Ottoman Empire. For lunch, you may want to try the traditional lentil dumplings followed by the famous quince dessert. Then you may prefer to go to one of the ecovillages in order to explore the Turkish country life as well as the craftsmanship. Don’t forget to look around while you drive, so that you will not miss any of the monuments on the road. After you finish your tour, try another traditional restaurant –if you don’t fancy pastry, you might want to try the quail’s kebab.</item>
+        <item>Bilecik stands out especially with its fertile soil and diverse fauna and flora. So, you might want to start your day with a pottery workshop in Kınık village, then shape a course to one of the city’s natural beauties such as Harmankaya Canyon Nature Park, İnhisar Waterfall, Kınık Waterfall and Kömürsu Plateau. After this long day, you may want to have a light dinner and go back to the hotel early. However, remember to taste boza, the region’s least immanent specialty.</item>
+    </string-array>
+
+
+    <string-array name="bingol">
+        <item>Bingöl</item>
+        <item>In the center of Bingöl breakfast should be had with natural and local products. Then, to see the city clearly, the panoramic Bingöl view should be watched from “Az Hill”, which is the ideal point. Yüzen Islands must be seen. After having lunch here, in Zağ Rock Shelter Rooms up to the Urartu period, a time journey should be taken. Miraculous landforms created by nature should be visited in Buban Fairy Chimneys. At the dinner ayran soup, sörin, löl, keldoş and Bingöl kavurması should be tasted.</item>
+        <item>Sunrise in Karlıova must be watched. After breakfast depending on the season skiing, sledding or paragliding should be done in Hesarek Ski Center. After lunch Bağlarpınarı Village-Historical cemeteries, mosques, stone pools and fountains are visited and Kiğı Castle and Eskikavak Village Monastery must be seen. Alternatively, you should relax in Kös Thermal Springs and do not miss the opportunity to see mountain goats in wildlife by going trekking in Peri Suyu Valley. You should not miss the opportunity to see mountain goats in wildlife by doing a nature walk in. Before leaving Bingöl, it should not be forgotten to buy world-famous Bingöl honey, geographically marked Çobantaşı kavurması and Bingöl rug made of natural wool with hand labor.</item>
+    </string-array>
+
+
+    <string-array name="bitlis">
+        <item>Bitlis</item>
+        <item>After having a local Turkish breakfast, start with a panoramic tour of the city. A Bitlis tour should include the Castle of Bitlis where the memories of Alexander the Great still live, and Bitlis Museum, İhlasiye Madrasa, Şerifbey (Scenery) Hill, El Aman Caravanserai, as well as some historical mosques, tombs and bridges. Try local dishes, particularly büryan for lunch. In the afternoon, you can travel to Tatvan, a beautiful district of Bitlis, spoiled by mother nature. Taking a rest at the side of Lake Van, have a warm cup of tea and admire the beautiful pristine seaside. Back in the city centre, enjoy a Bitlis kibbeh and followed by an arafane night.</item>
+        <item>Opt for a breakfast including local delicacies such as fresh butter, karakovan honey and tulum cheese. After the breakfast, head off to Nemrut Volcano and Crater Lake. After lunch on site, you may take a lakeside drive or a boat to Ahlat to visit famous Ahlat Tombstones which are on the Tentative UNESCO World Heritage List. Then proceed to the City Ruins that bear the traces of the Urartians, the Museum of Ahlat to see the artifacts dating back to the Urartians and prehistoric periods. You can continue your trip with a tour in Adilcevaz, visit historical buildings and spare some time for shopping. There, taste the disctrict’s specialty: walnuts and make sure to get an Adilcevaz and Ahlat Cane to bring back with you.</item>
+    </string-array>
+
+
+    <string-array name="bolu">
+        <item>Bolu</item>
+        <item>You can start your first day in Bolu, famous for its cuisine, with an excellent breakfast. After breakfast, visit Gölcük Nature Park and Abant Nature Park, which have different seasonal characteristics. Stroll around the lakes, ride a bike and take photos with the magnificent landscape as a backdrop. After the parks, head to the traditional Turkish houses in Mudurnu and Göynük. If you enjoy camping, you can complete your day at Lake Sülüklü and relax in the peace and quiet of the oxygen-rich atmosphere.  </item>
+        <item>Begin your second day with an excursion to Seven Lakes National Park and have breakfast amid magnificent views. Later, explore the plateaus and breathe in the fragrance of thyme. If there’s a festival in the plateaus, definitely attend! After, go to the Museum of Bolu in the city centre, stroll around the bazaar, and taste Bolu’s local specialties. Before you leave the city, you can purchase Bolu hazelnut candy, village bread with potato, Bolu chocolate and pine cologne.
+
+If you are visiting Bolu in winter, opt for skiing at Kartalkaya Ski Centre, with a magnificent view of snow-covered pine forests, and stay at one of the hotels in the area.</item>
+    </string-array>
+
+
+    <string-array name="burdur">
+        <item>Burdur</item>
+        <item>There is much to discover in Burdur. After a delicious local breakfast, you can begin exploring Burdur from the city centre, which features works that beautifully reflect the cultural heritage and historical texture of the region. At the Burdur Archaeological Museum, one of the richest museums in Türkiye, you can get information about the history of the region and see valuable artifacts from the mounds of Hacılar, Kuruçay, Höyücek and the ancient cities of Boubon, Kibyra, Sagalassos, Kremna. Another historical building in the garden of the museum is the Pirkulzade Library, one of the most beautiful examples of Ottoman architecture.
+
+In the city centre of Burdur, there are magnificent structures to see, including an Ottoman mansion, a mosque, a clock tower, and a Turkish bath. The next stop after Burdur Archaeology Museum will be the 14th-century historical Burdur Grand (Ulu) Mosque and Clock Tower. From here, walk to the Taş Oda Mansion, another of the historical buildings and one of the most beautiful examples of 17th-century classical Ottoman architecture. You can also have a coffee in the garden of the mansion. After the Taş Oda Mansion tour, there is Bakibey Mansion, an elegant example of 17th-century Ottoman architecture and Çelikbaşlar House, a traditional Turkish house in the garden of the mansion located in the centre of Burdur and visited with interest by history and architecture enthusiasts. After, don’t forget to see Piribaşlar and Mısırlılar House, the Grand Vizier Derviş Mehmet Pasha Library, Hocabali Bath and Sheikh Sinan Mosque. In addition to these riches, you can observe the fossil remains in the Burdur Natural History Museum. Enjoy local delicacies such as Burdur walnut paste, hemp halva and poppy halva at shops located along your way. Don’t forget to buy Alaca woven products, which are handcrafted fabrics unique to the region.
+
+In the afternoon, you can visit İnsuyu Cave, Türkiye’s first cave open to tourism. After the cave, visit Sagalassos Ancient City, located in the district of Ağlasun and included in the Tentative List of UNESCO World Heritage Sites. In Sagalassos, one of the best-preserved ancient settlements in Asia Minor, you can see the world’s highest-altitude antique theatre and the magnificent Antonine Fountain, which has been flowing for 2,000 years, as well as many other valuable artefacts.
+
+Start your journey to the Bucak district to see İncir Inn and Susuz Inn, masterpieces of the Seljuk architectural style. Before returning to Burdur, enjoy dinner in the Bucak City Forest, where the Onaç Dam is located, accompanied by a magnificent view.
+
+Or, if you wish to dine in the Burdur city centre, you can discover many traditional dishes, especially Burdur Şiş (skewers), in the local restaurants. In addition, you can attend special evening events organized in Burdur and become better acquainted with the culture of the Teke Region as you listen to local music and watch folk dances.</item>
+        <item>On the second day of your Burdur tour, you can go to Lisinia Nature, on the shore of Lake Burdur. One of Türkiye\'s first Wildlife Rehabilitation Centres, Lisinia Nature offers visitors a pleasant time amid nature.  Especially if you visit the region at the end of June and early July, you can take beautiful photos and enjoy the magnificent view of Akçaköy Lavender Valley. From here, you can go to Salda Lake, one of the natural wonders that is closely associated with Burdur. The Salda Ski Center on Eşeler Plateau, about 20 minutes from Salda Lake, is among the ideal skiing destinations in the region. If you are visiting in the winter, you can ski in the centre surrounded by lush forests and accompanied by a unique lake view.
+
+Be sure to add Kibyra Ancient City, located in Gölhisar district, one of the most valuable historical heritages of Burdur and included in the Tentative List of UNESCO World Heritage Sites in 2016, to your Burdur travel route. The largest Odeon in the world, featuring a mosaic of the head of Medusa on the floor of the stadium and the orchestra section. This is one of the most magnificent stadiums in Anatolia, a place where gladiators fought in antiquity, and can definitely be counted among the unique historical buildings to see in Kibyra.
+
+Before returning to the city centre of Burdur, you can eat Gölhisar roast (Gölhisar kavurması) for dinner and reenergize with a local black cumin coffee. Be sure to check out products made from İbecik cloth, a traditional woven fabric unique to the Gölhisar İbecik village, and the İbecik dolls.</item>
+    </string-array>
+
+
+
+    <string-array name="bursa">
+        <item>Bursa</item>
+        <item>In the morning, start the day by tasting Turkish tea at a breakfast in the Koza Inn. Then, you can visit the Muradiye Complex, the Green Mosque and Ulu Mosque in the city center. You will get rest in the shadows of trees in Green Mosque.
+
+Yes, you absolutely deserve Bursa\'s famous İskender Kebab for lunch. Bursa offers you many local restaurants option for eating best İskender Kebab’s.
+
+For the afternoon, visiting Uludağ seems like the one of the best options. It’s not far from city center, it’s 36 km south of Bursa.
+
+You can enjoy a delicious dinner at the restaurants of Uludağ, or drive back to the city center and find a different delicacies.</item>
+        <item>Let’s start the  second day in Bursa by visiting the Cumalıkızık Village. It’s 11 kilometers away from Bursa city center. The village is notable for its houses, which are excellent examples of the civil architecture of the Ottoman period you will step into a time capsule of wooden houses, narrow streets and monumental trees.
+
+You can choose  an unforgettable breakfast  or a good lunch in the village.
+
+Then, go to Grand Bazaar and visit the inns selling towels in the Grand Bazaar area and buy souvenirs towels for your family or friends.
+
+Before the evening, let’s visit Anatolian Cars Museum and discover the influential cornerstones of thousands of years of car industry and culture in Anatolia.
+
+At the end of the day, don\'t forget to buy souvenirs specific to Bursa like Anjelika Jam, Pide with tahini or Candied Chestnut.</item>
+    </string-array>
+
+
+    <string-array name="canakkale">
+        <item>Çanakkale</item>
+        <item>Have your breakfast at Çanakkale Kordon accompanied by the Bosphorus view and then go for a walk along the coastline. When your walk is over, don\'t forget to take a souvenir photo with the Truva Horse on the beach.
+
+Go to the other side of the Dardanelles and visit Kilitbahir Castle. Since this side of the Dardanelles is a battleground during the World War I, many monuments and martyrdoms that tell about the Gallipoli Campaigns1 are on this side.
+
+After your visit to Kilitbahir Castle, first visit Seyit Onbaşı Monument in Eceabat and then visit Çanakkale Epic Promotion Center.
+
+Since Anzac Cove and 57th Regiment Martyrdom, which are frequently mentioned in the Çanakkale Epic Promotion Center, are only 5 kilometers away, visiting these places is a must before you return.
+
+For dinner and accommodation, head back to Çanakkale and taste local dishes such as sardines stuffed in vine leaves, bluefish pilaf, Gallipoli cheese halva.</item>
+        <item>After breakfast, visit Troy Ancient City and Alexandria Troas Ruins respectively and witness the lived history in place.
+
+Take a lunch break at Babakale, where you can enjoy the view of the castle or swim in the sea if you wish.
+
+After a break in Babakale, go on a time travel in the Hellenistic Period by visiting the Apollon Smintheion Ruins. Ultimately, complete the puzzle of history by visiting Assos.</item>
+    </string-array>
+
+
+    <string-array name="cankiri">
+        <item>Çankırı</item>
+        <item>You can start the first day with a rich breakfast consisting of local products of Çankırı cuisine. After breakfast, it would be a good choice to go to Tuz Cave, one of the most interesting places in Çankırı. Here, you can see sculptures made of salt and exact replicas of Orkhon Inscriptions. After the Tuz Cave, the next destinations can be Taş Mosque, Çankırı Castle and Emir Karatekin Tomb, Çankırı Museum and Historical Laundry, then you can try the Yaren Güveci for lunch, one of the local delicacies, at a restaurant in the centre.
+
+Resting a little after dinner, you can continue your trip with Sultan Süleyman Mosque, Çivitçioğlu Madrasah, Buğdaypazarı Madrasah, and then you can go to Old Çankırı Houses Street for both taking a walk and seeing the historical houses of the city, thereafter, you can visit the Çankırı Research Centre and the Radio Museum and complete your day with a Yaran Performance.   </item>
+        <item>You can start the second day by taking a walk on the İstiklal Yolu, which is a pleasant walking route. After the first day, you can stop by Kadincayiri - Yıldıztepe Tourism Center and go to Kırkpınar Highland to have some rest and spend time in nature, then you can go to Ilgaz Doruk Ski Center.
+
+On the way back, you can stop by Sakaeli Village Rock Tombs and Fairy Chimneys, Hüyük Village Underground City, and return to the city centre to end the day with a nice dinner. </item>
+    </string-array>
+
+
+    <string-array name="corum">
+        <item>Çorum</item>
+        <item>After a breakfast with delicious tastes of Çorum cuisine in the morning, you can leave for Hattuşa, one of the most interesting places. The remains you will see in the Boğazkale Hattusa city will take a long time. After visiting the city, you can move to the Open Air Shrine of Yazılıkaya, which is within walking distance. You can then head to Alacahöyük, a 30-minute drive away, or stop by Sungurlu to see the Sungurlu Clock Tower. Here you can finish the day by continuing to Alacahöyük after a meal break with rice with chicken and then returning to the city and having a pleasant time in Çatak Natural Park.</item>
+        <item>On your second day in Çorum, you can visit the Çorum Castle after respectively having visited the Çorum Museum, Hıdırlık Mosque and Tomb, Ulucami and Çorum Clock Tower.  Then you can move to İskilip, which is 1.5 hours away, and first take a lunch break and try İskilip Dolması. After the meal, you can visit Sheikh Muhittin Yavsii Mosque, İskilip Castle and Rock Graves, then stop by the places where wooden handicrafts are made and the Public Education Center to see the traditional handicrafts of the region and to buy yourself a souvenir. From here, you can go to İskilip Plateaus and spend some time on natural beauties. Then you can return to the city and finish the day by visiting the shops in the city center and doing some shopping.</item>
+    </string-array>
+
+
+    <string-array name="denizli">
+        <item>Denizli</item>
+        <item>You can visit the magnificent architecture of Hierapolis Ancient City, which is located in the center and is the symbol of the city, and you can go on a historical journey. The Hierapolis Archeology Museum, located in Hierapolis Ruins, should definitely be visited. You can enjoy the healing thermal waters by discovering the unique beauty of travertines. You can enjoy a bird’s eye view with the balloon tour.
+
+You can taste the indispensable taste of Denizli cuisine, Denizli Kebab, Tavas Baklava and Pita with Tahini with Honey. You can find healing in the thermal waters of Karahayıt, Sarayköy, Yenicekent Thermal Springs and take advantage of health tourism opportunities. You can visit the historical Buldan houses and Buldan market, and buy traditional weaving products of the region. You can visit both natural beauties and colorful houses of Babadağ and go on a nostalgic journey.</item>
+        <item>In Çameli, which stands out with its ecotourism opportunities, you can get enough of sports and nature on mountain bike tracks and paragliding tracks. You can benefit from the regenerative power of nature in the cool waters of Emecik Canyon. You can buy Elmalı cloth and rugs, local handicrafts of Çameli, and buy registered and deliciously unique Çameli beans. In the villages of Çameli, you can experience the local culture of the local people and listen to the pine whistle, which has survived from generation to generation, from the local people.</item>
+    </string-array>
+
+
+    <string-array name="diyarbakir">
+        <item>Diyarbakır</item>
+        <item>In Çameli, which stands out with its ecotourism opportunities, you can get enough of sports and nature on mountain bike tracks and paragliding tracks. You can benefit from the regenerative power of nature in the cool waters of Emecik Canyon. You can buy Elmalı cloth and rugs, local handicrafts of Çameli, and buy registered and deliciously unique Çameli beans. In the villages of Çameli, you can experience the local culture of the local people and listen to the pine whistle, which has survived from generation to generation, from the local people.</item>
+        <item>With its history, culture, faith centres and gastronomy, Diyarbakır is a city that cannot be fully experienced in 48 hours. On the second day, be sure to visit a Dengbêj house to hear the Dengbêj narrate their epic tales.
+
+As one of the most beautiful examples of civil architecture in Diyarbakır, the City Museum in the Cemil Paşa Mansion is well worth a visit, as are the graves of the Prophets in Eğil District.
+
+In the Kayapınar Central District, the modern face of the city in terms of entertainment for locals and foreign visitors, 75th Street offers a selection of music and entertainment venues.</item>
+    </string-array>
+
+
+    <string-array name="duzce">
+        <item>Düzce</item>
+        <item>In Düzce where you may do many nature activities, you can start the day early with a breakfast in Topuk Plateau and Pond.  Then, within Samandere Waterfall Natural Park, you can visit Düzce Konuralp Museum, Ancient Theatre and Roman Bridge in Ancient City of Prusias ad Hypium near to Düzce centrum, followed by heading toward Akçakoca. Akçakoca, biggest district of and having the longest coast of Düzce, is worth to see for its civilian architecture, salmon berry fields, chestnut honey, hazelnut, long coasts and sand, verdant nature, Fakıllı Cave, Çuhallı Beach, Upper Neighborhood Locale Market making you feel the Black Sea culture with locale tastes and historical houses, Genoese Castle, Aktaş Waterfall. Thanks to port and fishing ports including big and small fisher boats, you can eat fish in front of a sea view.</item>
+        <item>On second day, you can let yourself go to nature. After a locale breakfast in Aydınpınar Waterfall Natural Park, you can do hiking, tent camping, photo safari etc. activities in Efteni Lake, Güzeldere Waterfall Natural Park, Pürenli and Balıklı Plateaus. You can make professional rafting in Kültür Park, Cumayeri Dokuzdeğirmen Village Rafting area.	</item>
+    </string-array>
+
+
+    <string-array name="edirne">
+        <item>Edirne</item>
+        <item>In Edirne, you have to start your first day by exploring the finest examples of Ottoman architecture in the region. The Selimiye Mosque might be considered the centre of town and is easily viewed from almost every part of the downtown area and is the perfect place to start your sightseeing adventure. The mosque contains 999 windows, through which Mimar Sinan sought to symbolize the perfection of God, through the imperfection of the mosque he designed. The dome and interior are decorated with geometric designs, which are painted in pink and blue.
+
+For lunch, an unmatched taste is waiting for you: “Edirne Liver”. It is one of the most popular dishes of Edirne cuisine. It is prepared by frying the finely cut liver in sunflower oil produced in Edirne. Red peppers, also unique to Edirne, are fried and served together. There are many restaurants in Edirne where you can taste Edirne liver.
+
+Let’s continue to walk in the city center. Nearby the Selimiye Mosque, there\'s the Old Mosque, which features stunning calligraphy on the interior walls and the Üç Şerefeli Mosque with its four distinctively designed minarets (an uncommon sight, even today).
+
+To finish the first day, Edirne also offers many parks, art galleries, museums and shopping areas - the city is waiting for you to explore them all. Also try the Sokullu Mehmet Paşa Hammam, built in 1568-69 by Mimar Sinan. A Turkish Bath experience is the best way to unwind after a long day touring around the city and what better way to try a hammam than in such a beautiful and historic building?</item>
+        <item>To start second day in Edirne, Edirne Archaeological and Ethnographic Museum is a great option! It is the first museum in Edirne which was opened in 1925 upon the order of Atatürk. The museum consisting of Archaeology and Ethnography sections is opened in 1971. Archaeology section is organised as fossils, coins, stone works, metal works, bone works and terracotta artifacts.
+
+Time being right, you should watch The Kırkpınar Oil Wrestling Festival. It holds the Guinness Book of Records title for the longest consecutively held sporting event in the world. In 2010 the festival was also added to UNESCO’s Representative List of the Intangible Cultural Heritage of Humanity.  This festival is a highly recommended celebration of a truly unique tradition. From traditional oil wrestling, to traditional singing, dancing and feasting, Kırkpınar is a must-attend for any visitor!
+
+In all seasons, Saros Gulf and the National Parks in Edirne offer a range of leisure and sports activities for nature lovers, to finish the journey in Edirne. Surfing and sailing are very popular in Saros Bay, and you will also find many diving points.</item>
+    </string-array>
+
+
+    <string-array name="elazig">
+        <item>Elazığ</item>
+        <item>After having breakfast in Cultural Park, which is the biggest recreation area of Elazığ, you should go to Harput. Here you should see Harput Castle and the Virgin Mary Church, one of the oldest places of worship in the Anatolian lands that are still in use today. Afterwards, the historical Harput Ulu Mosque and Şefik Gül Culture House should be visited and the architecture and culture of the region should be witnessed. Kurşunlu Mosque, which is another historical building, should be visited and you should take a rest in the shade of monumental plane trees in its garden. Afterwards, you should watch the Balak Gazi Monument and the panoramic view of Harput from the observation deck in the park of the same name and take a break for the local Çedene Coffee. After Harput, you should go to Keban district and have lunch with the trout grown here, accompanied by the natural beauty of the Çırçır Waterfall. Then you should go to the city center and visit the Grand Bazaar and Coppersmith’s Bazaar as the last activity of the day. Elazığ folk songs should be listened to at the famous Kürsübaşı Nights.</item>
+        <item>After having breakfast in Eskibaglar vineyard, you should take a boat tour on Lake Hazar and see the famous Sunken City. You should visit Hazarbaba Ski Center and do skiing and sledding in winter, paragliding, trekking and paragliding in spring or summer. From here, you should visit Palu and enjoy local delicacies such as Palu fry, kellecoş, Harput köfte and kofik stuff for lunch. You should cross the historical Palu Bridge on the Murat River and see the Palu Castle and the Palu Urartian Inscription. Then you should visit Palu Ulu Mosque, Palu Historical Church, bath and mosque ruins. Alternatively, you should take a nature walk in the Saklıkapı Canyon of Baskil district until the banks of the Euphrates River. Then, you should sail to the Black Stork Canyon by boat over the Euphrates River, and you should enjoy the magnificent scenery, while observing the rare black storks. For dinner, you should go to Kömürhan to taste the famous Kömürhan fried meat.</item>
+    </string-array>
+
+
+    <string-array name="erzincan">
+        <item>Erzincan</item>
+        <item>After starting the day with a regional breakfast in Kemah, visit Melik Gazi Mausoleum and tour Kemah Castle, Anatolia\'s oldest and one of the rare natural castles of the World to take unique photographs. After visiting Gülabi Bey Mosque and Turkish Bath to buy some regional products (Kemah salt, mulberry, dried apricot, walnut, dövmeç, honey, tulum cheese), go to İliç county to do boat tour and rafting in Aydınlık Canyon. After experiencing the thrill of boat tour and rafting, head to Kemaliye fascinating the visitors with its nature and architecture, have lunch here and tour the famous Mani Road. See Kemaliye Houses having impressive civilian architecture and tour around stone streets.
+
+After a short break, pass the 8 km Stone Road which is considered as one of the most difficult roads worldwide and completed in 132 by walking or by vehicle. You can finish Stone Road tour with the view of Dark Canyon, among the longest canyons in the world, join a boat tour in Dark Canyon and try adventure sports such as trekking, rafting, canoing, wing suit, base jump, motocross in Kemaliye where is convenient for many outdoor sports.  Finally, you can attend Eğin Sira Nights show during dinner in company with sad, happy and funny Erzincan and Eğin folk songs and return to Erzincan to end the day. </item>
+        <item>You can start the second day with a regional breakfast (village butter, honey, tulum cheese, white cheese, cottage cheese bean salad, village egg, roasted meat, rose hip marmalade, dried apricot, crushed walnut, Erzincan flaky pastry, village bread, kopul (a kind of pita) etc.) in Çermik Recreation Area and go to Üzümlü. Here, you can visit Cimin Vineyards and regional product market (bastık (mulberry pulp sun-dried, a kind of sun-dried mulberry pulp, saruç (walnut pressed between grapes), dövmeç, Cimin grape) then tour Altıntepe Urartu Castle and Ekşisu Recreation Area. You can taste Ekşisu mineral water rich in minerals.
+
+You can head to Girlevik Waterfall tour and have lunch when just arrived to waterfall, then you can tour the waterfall to take photographs of colorful flora and natural landscapes. If winter, you can do ice climbing on frozen waterfall. You can visit Ergan Mountain Winter Sports Outdoor Tourism Center to breath high altitude mountain air, do winter sports, watch landscapes and take photograph, here, you can do skiing, snowboarding, snow kiting, snow motorcycling, skidding, ice skating, ice climbing. After a gondola tour in Ardıçlı Lake and watching Erzincan view, you can have a tea break and return to centrum. In dinner you can try regional tastes such as kesme soup, ekşili (a kind of cracked wheat soup), gendime soup, Erzincan yaprak döner, dermason dry beans, gendime rice, sarma, kelecoş, kahküllü (crested rice), keşkek, sarığıburma, kasefe, Erzincan kesme kadayıf then you can end Erzincan tour by visiting.</item>
+    </string-array>
+
+
+    <string-array name="erzurum">
+        <item>Erzurum</item>
+        <item>The itinerary that is made up of historical sites located in the city center and within walking distance from one another, is the best cultural route that is also known as the historical campus. Destinations that shed light on the Erzurum of the Roman, Saltuklu, Seljuk, Ottoman and Republic eras will give you general information about Erzurum.
+
+You can choose one of the restaurants that serve local dishes such as ayranaşı soup, cağ kebab and kadayıf dolma.
+
+Bastions of Erzurum, Abdurrahman Gazi Tomb, the magnetic road and Palandöken Ski Resort can easily be added to the daily route.</item>
+        <item>The itinerary can be designed as a day-trip starting in the central district of Erzurum, then visiting Bağbaşı and Öşvank Monasteries, Tortum Lake and Waterfall in Uzundere district, and taking a lunch break at Seven Lakes.
+
+You can order some Cağ Kebab - the local special - or red-scale trout for health and vitality.
+
+After lunch, make sure that you visit the Fairy Chimneys of Narman which is called the Land of Red Fairies.</item>
+    </string-array>
+
+
+    <string-array name="eskisehir">
+        <item>Eskişehir</item>
+        <item>If you come to Eskişehir early in the day, drink a cup of Turkish coffee by the Porsuk River and start the day. You will need energy for a pleasant trip. Have a nice breakfast accompanied with Eskişehir Simit in cafes on İnönü Street. Then come to historical Odunpazarı on Hamamyolu Street.
+
+On the tour that starts in the historical Odunpazarı, take a walk between the houses of Odunpazarı, which are lined on both sides of the narrow streets and are the most beautiful examples of 19th century civil architecture. You can visit the Kurşunlu Complex and Mosque, an Ottoman work built in the 16th century.
+
+You can see the best examples of handicrafts such as meerschaum, marbling, gilding, calligraphy, silver embroidery and rug carpet weaving in Eskişehir Arts Bazaar located in the section called Tabhane of Kurşunlu Complex. Don\'t forget to stop by the Meerschaum Museum, which is located next to the bazaar and is available only in Odunpazarı in the world.
+
+When you come down from the Odunpazarı houses, visit Atlıhan Handicrafts Bazaar, where traders who came to sell their wood used to stay, and today, traditional handicraft products besides meerschaum are produced and sold. While continuing to visit the Odunpazarı, the Contemporary Glass Arts Museum may also attract your attention.
+
+While visiting all these museums in the historical texture of Odunpazarı, you should definitely taste the çibörek that is integrated with Eskişehir.
+
+You can go to Eti Archeology Museum to go back in the history of Eskişehir and get to know an old history, and witness the history with interactive applications.
+
+Now is the time to get on the gondolas in the Porsuk River, on which you walked in the morning. You can tour with a gondola or boat and watch the city from this angle.
+
+If you still have time do not forget to see Revolution (Devrim), the first domestic automobile manufactured in Türkiye in 1961 while you\'re in Eskişehir.
+
+You can complete the day by eating Balaban Kebab, another flavor of Eskişehir.</item>
+        <item>See the legacy of the Phrygians in Eskişehir and the most magnificent monument of the city, Yazılıkaya Midas Monument.
+
+Visit Zahren Valley in Kümbet.
+
+See Gürleyik Waterfall in Mihalıççık.
+
+Follow the trail of Karacahisar Castle, the first castle conquered by the Ottoman Empire.
+
+See the woodwork in Ulu Mosque in Sivrihisar, and Seljuk art in the Alemşah Cupola; Witness the history by visiting the house where Nasreddin Hodja was born, the Armenian Church and the ruins of Pessinus.
+
+Visit Seyyid Battalgazi and Sucaeddin Veli Tombs in Seyitgazi.
+
+Take a bike tour in Karabayır Vineyards.
+
+Watch the insatiable view from Seyitgazi Seyircek Castle.
+
+Try air sports at İnönü Flight Training Center.
+
+Witness the natural life of deers in Çatacık Forests.
+
+Experience the excitement of horse riding in Mahmudiye.</item>
+    </string-array>
+
+
+    <string-array name="gaziantep">
+        <item>Gaziantep</item>
+        <item>You can start your day by exploring various museums in central Gaziantep. First of all you can visit December 25 Panoroma Museum, Bath Museum and Emine Göğüş Culinary Museum. After these museum tours you can climb up to the Gaziantep Castle and witness magnificent views of the the city from above. If you are interested in learning while doing then you can try the Olive workshop where you can practice different culinary skills. After the workshop you can visit National and Gümrük Caravanserais. If you plan to do some shopping you can visit Zincirli Bazaar, Coppersmiths Bazaarand Almaci Bazaar where you can find different local tastes and souvenirs. You can taste Tahmis Coffeewhile you are having a break during your trip in Gaziantep. You can visit Mevlevi Lodge and Whirling Dervishes Foundation Museum to have a better understanding about Mevlevi beliefs. You can finish your day by visiting Pişirici Kastel and Kozluca Kastel.</item>
+        <item>You can start your day by visiting one of the most famous museums in the region which is located in the Gaziantep city center. Zeugma Mosaic Museum holds a magnificent collection of mosaics. Afterwards you can visit Gaziantep Archeology Museum and examine the historical artifacts found in the region. You can wander streets of Bey Neighborhood and feel like a local. Atatürk Memorial Museum and Ali İhsan Göğüş Museums worth a visit. If you are visiting the city with your kids you can explore the Play and Toy Museum which has a nice collection of toys from different periods. You can witness the wonderful Ottoman architecture by visiting the Kurtuluş Mosque. Bayazhan City Museum offers an insight to the economical, natural and social life of Gaziantep and its people. Finally, if you are looking for a nice family attraction you can visit the Gaziantep Zoo which covers around 1000 acres of land.</item>
+    </string-array>
+
+
+    <string-array name="giresun">
+        <item>Giresun</item>
+        <item>On the first day, have breakfast with local flavors of Giresun and you are ready to start wandering through Giresun, the city of green and blue. Start your Giresun tour with Gogora Church (Giresun Museum) (Gogora Kilisesi) (Giresun Müzesi), an Orthodox church dating from the mid-19th century, which is about 250 years old. Journey into Giresun\'s past in the Zeytinlik district, among historical houses and narrow streets. Pay a visit to the Tomb of Seyyid Vakkas (Seyyid Vakkas Türbesi), one of the frontier chiefs of Fatih Sultan Mehmet, the Historical National Garden (Tarihi Millet Bahçesi), old Governorship building, the Castle Mosque (Kale Cami), which is thought to have been built by Hacı Muhiddin Ağa, in the Lonca district, where Muslims lived in the Ottoman period and proceed with Giresun Castle (Giresun Kalesi), which is called the "Bronze Walled Castle" (Bronz Duvarlı Kale) in ancient sources. The castle is an ideal point to watch Giresun, where green and blue converge, from above. Move on to Giresun Island (Giresun Adası), the only island in the Eastern Black Sea that was inhabited in ancient and medieval times and inherits many legends. Complete the day in the city center with souvenir shopping. </item>
+        <item>Start with a plateau journey along the Aksu Valley where you will be satisfied with every shade of green in Giresun; see the Kuzalan Natural Park (Kuzalan Tabiat Parkı), which contains 1800 meters of travertines inside the forest, carbonated and sulfurous water springs, and natural wonder waterfalls.
+
+Continue a fascinating exploration in nature with the Mavi Lake (Blue Lake) (Mavi Göl), a true wonder of nature, which is known as the Göğ Göl by the local people, because of its changing color according to the color of the sky.
+
+After a pleasant nature walk in the Kulakkaya Plateau (Kulakkaya Yaylası) and the Akçakbel Recreation Area (Alçakbel Mesire Alanı), visit the Halil Rıfat Pasha Tunnel (Halil Rıfat Paşa Tüneli), which was built under the leadership of Sultan Abdulhamid II and the struggles of the workers and villagers with hammers, and then continue to the Kümbet Plateau (Kümbet Yaylası) and Koçkayası Natural Park (Koçkaya Doğa Parkı) with their oxygen-rich air.</item>
+    </string-array>
+
+
+
+    <string-array name="gumushane">
+        <item>Gümüşhane</item>
+        <item>You can start the Gümüşhane city trip with breakfast in rich food culture-kneaded places under the stunning views of the Zigana Mountain. Natural chops can be found at the meat plants. Then, if the weather conditions are right, you can ski in the Zigana Ski Resort and enjoy that magnificent nature. During the day, you can visit the Limni Lake Natural Park, experience the magnificent images and adrenaline feeling on the Torul Castle Glass Observation Terrace, and visit the Karaca Cave, Türkiye’s pearl, a masterpiece revealed by the nature by trying for millions of years, engraved with patience and a magnificent work where the same care is taken at every point. Later on, after visiting Tomara Waterfall Natural Park, you can take a picture on the observation terrace in spectacular nature views, before ending your day, you can attend the International Culture and Arts Festivals if you come across them and have fun. Then you can both have the opportunity to taste the local flavors and see the urban handicrafts that are exhibited. For accommodation, you can either choose the Şiran district or the city center. </item>
+        <item>On the second day of your visit to Gümüşhane, you can visit the historically architecturally impressive Gümüşhane Mansions in the city center. Then, after having seen the Süleymaniye Neighborhood, Famous Tohumoğlu Bridge, Keçikalesi, Sarıçiçek Village rooms, you can eat meat chops consumed without being seasoned as lunch in Taşköprü plateau. After having visited the most notable Santa Ruins, ancient cities of İmera and Krom in the Black Sea Region, you can visit the Karaca Cave, Türkiye’s pearl, a masterpiece revealed by the nature by trying for millions of years, engraved with patience and magnificence where the same care is taken at every point, and you can stay at the Limni Lake Natural Park.</item>
+    </string-array>
+
+
+
+    <string-array name="hakkari">
+        <item>Hakkari</item>
+        <item>You can start the day early, freely tour and climb and do camping and explore tens of glacial lakes above 3000 meters altitude in Cilo Sat Mountains National Park and Glaciers, Reşko Summit, Mergan Plateau, Historical Churches, Heaven-Hell Valleys. Then you can go to Gevarok Valley in Yüksekova to see presumably 5000 years old Rock Paintings still remaining mystery.
+
+After hiking here, you can tour Şemdinli and surrounding and rest by listening to the sound of Şemdinli Creek. You should definitely see Stone Bridge built on Şemdinli Creek in 1898.</item>
+        <item>On second day of Hakkari trip, if during winter, you are recommended to visit Mergabütan Ski Center. Then you can go to Koçanis Church in Konak village and pass to Berçelan Plateau to enjoy the wonderful nature within endemic flowers and weeds. Next, you can tour Zap Valley in accompany with Zap River, and visit Historical Stone Houses and Mills, Emir Şaban Mosque and Sidan Aqueduct in Çukurca district.  Then you can return to city center and end your day by visiting iconic and attractive Hakkari Meydan Madrassah and Çölemerik Castle.</item>
+    </string-array>
+
+
+
+    <string-array name="hatay">
+        <item>Hatay</item>
+        <item>You can start the day with a breakfast rich with jams made of walnuts and citrus fruits, breakfast appetizers, various cheeses unique to Hatay, delicious olives and olive oil that finds its place on every plate and with your hot tea at Harbiye Waterfalls. After your breakfast, sip your Turkish coffee while strolling around the old Antakya houses and streets that smell of history. After visiting the Archaeological Museum to see the world\'s second largest mosaic collection and of course the Suppiluliuma statue, you can get the energy you need to buy souvenirs for your loved ones in Uzun Çarşı by eating künefe. You can visit the Ulu Mosque and Aziz Paul Church on the same day in Hatay, where three great religions live in tolerance and which has been selected as the City of Peace by UNESCO. You can relax opposite Asi River. It would be a good idea to enjoy the long beach in Arsuz after dining on Belen Tava in Belen, where you will breathe the fresh air of the Amanos Mountains. If you are lucky, you may come across a concert by the Antakya Medeniyetler Korosu (Choir of Civilizations) and end your day with a musical feast that will touch your soul.</item>
+        <item>You can continue exploring Hatay after the rich Hatay breakfast, which you cannot forget and that provides you with plenty of energy. After visiting Habib-i Neccar, the first mosque in Anatolia, and the first church in the world, St. Pierre Church, if you want to see the Haron (Cehenem Kayıkçısı- Hell Boatman) up close, be sure to wear shoes suitable for climbing. After your visit to the medicinal and aromatic plants museum, you can enjoy Haytalı in Hatay Kurtuluş Caddesi to brighten your day. You can have a pleasant time on the Samandağ Trekking Trail on your journey to Samandağ to visit Titus Vespasianus Tunnel, (Rock Tombs and Beşikli Cave. We are sure that after enjoying your dinner in Vakıflı Village, Türkiye\'s only Armenian village, while you are sipping water that is rumored to have powers of immortality with your coffee in Hıdırlı Village where the Moses tree that is believed to have emerged when Moses hit the ground with his staff, you will think that you cannot get enough of Hatay and will want to stay longer.</item>
+    </string-array>
+
+
+
+    <string-array name="igdir">
+        <item>Iğdır</item>
+        <item>You can start the day with a breakfast at one of the restaurants that serve Iğdır’s regional delicacies. You can visit the Çakırtaş Kul Yusuf Cupola (Çakırtaş Kul Yusuf Kümbeti), the Memorial Museum (Anıt Müze) and walk through the İrem Yards (İrem Bağları). For lunch, you can prefer one of the local dishes, such as Taş Köfte and Bozbaş in the city center. Then, you can have a tour from the Koç Başı Gravestones (Koç Başı mezar taşları), to the Mount Ağrı National Park (Ağrı Dağı Milli Parkı), to the Karasu Bird Sanctuary (Karasu Kuş Cenneti), where you can see the coypu. The panoramas of the Great Ağrı (Büyük Ağrı) and the Small Ağrı (Küçük Ağrı) will not miss your attention.</item>
+        <item>You can start the day by making a local breakfast in the urban forest. After the visiting the Ejder Caravanserai (Ejder Kervansarayı), you can go to the Tuz Cave (Salt Cave) (Tuz Mağarası) and the Tuz Lake (Salt Lake) (Tuz Gölü), and have a walk at the Üçkaya Valley (Üçkaya Vadisi), Üçkaya Lake (Üçkaya Gölü). While at the Tuz Cave, you could buy one the salt lamps. You can prefer trout at the Tuzluca Hamurkesen village for lunch. After lunch, you can complete your trip by visiting the Gökkuşağı Hills (Rainbow Hills) (Gökkuşağı Tepeleri), the Tekelti Mountain (Tekelti Dağı) and the Aras River Bird Paradise (Aras Nehri Kuş Cenneti).</item>
+    </string-array>
+
+
+    <string-array name="isparta">
+        <item>Isparta</item>
+        <item>Go to the Ethnography and Carpet Museum in the city centre on foot from the Çay Side. See the carpets that are woven in Isparta and enjoy views of Isparta from the top floor of the museum.
+
+Shop at the Grape Bazaar and Firdevs Bey Covered Bazaar and eat Kabune rice for lunch.
+
+Take a walk in the Gölcük Lake Nature Park in the afternoon and take dozens of photos!</item>
+        <item>Collect roses from the rose gardens in the early morning and visit the workshops and facilities where rose oil and rose water are produced.
+
+In the afternoon, after visiting Hızırbey Mosque, Dündar Bey Madrasa and Kovada Lake National Park in Eğirdir, watch the sunset with a view of Eğirdir Lake from the viewing terrace of Akpınar village.
+
+Take photos in lavender gardens, buy lavender oil and lavender water, and give your loved ones a lavender crown as a gift.
+
+In the afternoon, you can visit Pisidia Antiokheia Ancient City and the Yalvaç Museum and buy souvenirs such as leather, felt and miniature horse carriages from Yalvaç.
+
+Ski at the Davraz Ski Centre during the winter months. Visit the Süleyman Demirel Museum and the monumental tomb in İslamköy. You should also see the Ertokuş Madrasa in Atabey.
+
+Yazılı Canyon Nature Park is a natural wonder that can be visited throughout the year. When you go to the canyon, you can visit the Adada Ancient City, one of the best-preserved ancient cities of our country.</item>
+    </string-array>
+
+
+    <string-array name="izmir">
+        <item>İzmir</item>
+        <item>Start experiencing İzmir with a classic İzmir breakfast, egg-boyoz. You can start by seeing the İzmir Clock Tower in Konak Square, the tower is also one of the meeting points of the city.
+
+If you are interested in museums, İzmir Mask Museum, Women\'s Museum, Radio and Democracy Museum, Game and Toy Museum, İzmir Joy and Cartoon Museum, İzmir Painting and Sculpture Museum, Ahmet Pristina City Archive and Museum, İzmir Atatürk House and Museum, TCDD Museum and Art Gallery is just for you.
+
+With its 500-year history, the bazaar is a place you must see and shop in İzmir. Many shops, from coppersmiths to bag sellers, from goldsmiths to souvenirs, await you here.
+
+Besides İzmir\'s oldest hotel, Yeni Şükran, the National Library and the State and Opera Ballet are also here. When you are tired, do not forget to have a coffee in Kızlarağası Inn and see the Historical Clock Tower, which is very close after you end your shopping.</item>
+        <item>If you are interested in cute coastal towns that have managed to preserve their local texture, you can go to Sığacık early on Sunday morning, after having breakfast there, you can shop at the organic market.
+
+The historical elevator in Karataş district and the cable car in Balçova are the addresses you should stop by to see two of the most beautiful views of İzmir.
+
+Dario Moreno is one of the greatest artists who lived in İzmir. When you get off the elevator, you will see the famous Dario Moreno Street, where Dario Moreno lived for a period.
+
+This street is a short but pleasant street full of old Greek houses, sweet cafes and gift shops.
+
+You can shop on the street and sit in cafes and bars. Afterwards, do not neglect to go to Kordon in parallel and take a walk in the fresh air. There are many places in Alsancak where you can enjoy the nightlife. If you wish, you can take the ferry and go to Karşıyaka.
+
+If you are interested in history, you can spare one day for Ephesus Ancient City. Bergama, Agora, Erthrai and Teos are among the other ancient cities waiting for you in İzmir.</item>
+    </string-array>
+
+
+    <string-array name="kahramanmaras">
+        <item>Kahramanmaraş</item>
+        <item>You can start the day with the excellent local breakfast and Turkish tea. Begin your tour at the Museum of Kahramanmaraş and see the historical and cultural wealth of the city. Afterwards, visit the Germanicia Mosaic Field Archaeological Site, the Castle of Kahramanmaraş, Grand Mosque and Taş Medrese. Take a lunch break at one of the restaurants in the bazaar and top it off with dessert – maybe the famous Maraş ice cream! Find out more about this tasty treat at the Museum of Ice-Cream (Katip Han), then visit the Historical Bazaars of Maraş, the Liberation Museum of Kahramanmaraş, the Abdülhamithan Mosque, the Malik Bin Ejder Tomb, and Taş Bridge. As you wander in the historical bazaars, you can purchase food products like Maraş ice cream, Maraş pepper, Maraş tarhanası, and şıra products (samsa, Turkish sausage, bastık) or handicrafts such as jewellery, carved wood, copper, shoes or Maraş- style gold-thread embroidery. Finish the day with a dinner of the distinctively flavoured local specialties.</item>
+        <item>Arise early and, right after breakfast, you can set out for Eshab-ı Keyf Complex and visit the cave of Eshab-ı Kehf, considered holy by Christians and Muslims, and the historical külliye built around the cave. Also, you can visit Seven Beautiful Men Literature Museum where set in the Gazipaşa Quarter of the Dulkadiroğlu District. Then, head to Ilıca Hot Spring and have a rest while enjoying the warm, healing thermal waters. For lunch, dine on trout in the Fırnız Çayı Recreation Area, and then visit Taş Bridge and the Menzelet Recreation Area. Finish your daily tour with a visit to the Başkonuş Plateau.</item>
+    </string-array>
+
+
+
+    <string-array name="karabuk">
+        <item>Karabük</item>
+        <item>After a nice breakfast on your first day in Karabük and a view over the city from the Safranbolu Hıdırlık Hill, you can start to visit the historic architectural buildings, like the İzzet Mehmet Paşa Mosque, the Cinci Inn, the Köprülü Mehmet Pasha Mosque and the Sundial. A little relaxation and the opportunity for shopping can be found in the Yemeniciler Arasta Bazaar. Then you can go to the Blacksmith and Coppersmith Bazaar, where you can explore regional handicraft and find souvenirs. After a tea or coffee break in the Bazaar, you can enjoy local dishes at lunch. Before ending the day, and after enjoying the view over the city from the Safranbolu Castle, you can pay a visit to the City History Museum and the Sundial.</item>
+        <item>On your second day in Karabük, you might want to spend your time on exploring the natural beauties and the culture of the city. After a nice breakfast, a visit to the Turkish Coffee Museum in the city centre might be the right time to witness Turkish coffee culture and its complementary worth in the Turkish cuisine. After the visit to the Museum, you can go to the Bulak Mencilis Cave, which is only a half hour from the city centre, and then continue to the İncekaya Aqueduct and the Glass Terrace, and then to the Yenice Forests, which are only an hour away. After enjoying the view from the Ihlamur (linden) Terrace, you can continue to the Şeker Canyon, and have a picnic at the riverside or go rock climbing. After a few hours of tranquillity in nature, you could travel to Eskipazar Ancient City Hadrianapolis, which is only an hour away, and make a journey to the past to see the remnants of a life that existed from the 1st century BCE to the 8th century CE.</item>
+    </string-array>
+
+
+    <string-array name="karaman">
+        <item>Karaman</item>
+        <item>After having a delicious breakfast, you can begin your first day in the city by exploring Karaman Castle in the Karaman city centre. Then, head to the Karaman Museum, which is within walking distance, and see the ethnographic and archaeological exhibits. The Hatuniye Madrasa is right next to the museum, and that can be your next stop. You can also visit Aktekke Mosque and the Yunus Emre Mosque, where the tomb (small mausoleum) of the great Turkish poet Yunus Emre is located, and then go to the Hürrem Dayı House, which is one of the most beautiful examples of Turkish architecture, and Tartanlar Mansion as well. You can take a lunch break and sample local dishes in any of the restaurants in the Karaman city centre and in other districts. After, you can go to Taşkale, 46 km from the city centre of Karaman, and see İncesu Cave, more than a kilometre long, along with the Manazan Caves and Taşkale Grain Storage.</item>
+        <item>You can start your second day in the city by setting off from the city centre of Karaman to the Ermenek district. After arriving in the district, you can first stop by the Zeyve Bazaar, listen to the sound of water coming from the water mills and enjoy a moment of calm. If you are there during the summer, you can afterwards visit the Ermenek Dam for water sports. Head to the Tol Madrasa, within walking distance from the dam. Boost your energy by sampling the famous Ermenek Halva and Ermenek Bandırma (string of walnuts dipped in a boiling mixture of grape molasses, flour and starch) made from grape molasses.</item>
+    </string-array>
+
+
+
+    <string-array name="kars">
+        <item>Kars</item>
+        <item>You can spend your first day in Kars in the city centre – there are so many places to visit and see!
+
+Begin the day by visiting the Old Ottoman settlement in the Kaleiçi District. Then, head to the Ortakapı, Cumhuriyet and Yusufpaşa districts, which feature grid plans from the time when Kars was under the rule of Tsarist Russia.
+
+After eating a fine lunch of Kars goose, continue to explore. Go to the Archaeological Museum, in the western part of the city. In the museum, wander through exhibits featuring artifacts from the Palaeolithic and Early Bronze Periods, and the Urartu, Roman, Byzantine, Seljuk and Ottoman eras.
+
+Now, it’s time for a break. Enjoy a magnificent view of Kars with a hot tea at Kars Castle? The next stop is the Kümbet Mosque, south of Kars Castle. This mosque was built as an Armenian church in the 10th century and turned into a mosque in the 11th century. The last stop of the first day is the Baltic-style Katerina Hunting Lodge, erected at the end of the 19th century by the Russian tsar, Nicholas II!</item>
+        <item>At least some of your second day in Kars should be spent at the Ani Ruins, as this is a destination not to be missed. Ani is an hour’s drive from the Kars city centre, very close to the border with Armenia.
+
+It will probably take you a few hours to explore the Ani Ruins and see the incredible artefacts there. For lunch, Lake Çıldır looks like the best option!
+
+Lake Çıldır is the best option because this lake – which freezes over in the winters and can be walked on – is also the habitat for the delicious yellow fish. Yellow fish, like Kars cheddar and the Kars goose, have a distinctive flavour.
+
+As sunset approaches, it is time to return to the city. Spend your evening in a unique Kars activity – a minstrelsy performance!</item>
+    </string-array>
+
+
+
+    <string-array name="kastamonu">
+        <item>Kastamonu</item>
+        <item>Kastamonu’da ilk gününüzde yöresel lezzetlerden oluşan bir kahvaltının ardından  Cumhuriyet Meydanı, Kastamonu Hükümet Konağı ve Kent Tarihi Müzesi’nin gezebilir, buradan şehrin en güzel göründüğü yerlerden biri olan Saat Kulesi’ne çıkıp manzaranın tadını çıkarabilirsiniz. Kent merkezinde Nasrullah Külliyesi ve Münire Medresesi El Sanatları Çarşısı, Yılanlı Külliyesi, Liva Paşa Konağı Etnografya Müzesi’ni ziyaret edebilirsiniz.
+
+Öğle yemeğinizi yöresel yemek evlerinden birinde yedikten sonra, Arkeoloji Müzesi, Kastamonu Kalesi, Ev Kaya Mezarları ve Mimar Vedat Tek Kültür ve Sanat Merkezi’ni gezebilir, ardından İsmail Bey Külliyesi ile El Sanatları Çarşısı’nı gezerek alışveriş yapıp birinci gün programını bitirebilirsiniz.</item>
+        <item>İkinci gün Küre Dağları ve Kastamonu sahil bandının merkezine bir program yapabilirsiniz. Sabah erken yola çıkarak Küre Dağları’na doğru gidebilir, burada Ersizlerdere Kanyonu’nda doğa yürüyüşü yapabilirsiniz. Burada Kanyon manzarası eşliğinde kahvaltı ederken Ecevit Çorbasını deneyebilirsiniz.
+
+Küre ilçesinde Akşemseddin Cami ve diğer tarihi eserlerin gezilmesi sonrasında İnebolu’ya hareket edebilir,  burada kırmızı aşı boyalı İnebolu Evleri arasında İnebolu’yu keşfedebilirsiniz. Daha sonra Beldeğirmeni Köyü’nde 6 asırlık çınar altında dinlenip bir kahve molası verdikten sonra yeşille mavinin buluştuğu muhteşem doğasını görmek için Çatalzeytin’e gidebilir, burada Ginolu Kalesi ve plajını gezildikten sonra Küre Dağları’nın en yüksek noktası Yaralıgöz Dağı’nın gölgesinden geçip Kastamonu merkeze hareket edebilirsiniz.
+
+</item>
+    </string-array>
+
+
+
+    <string-array name="kayseri">
+        <item>Kayseri</item>
+        <item>After enjoying a traditional breakfast early in the morning, you can visit the Archaeological Museum, Tradesmen Museum, Güpgüpoğlu Mansion and the Ethnographical Museum, Atatürk House, Castle, Vezir Inn, Ulu Mosque, Covered Bazaar, Gevher Nesibe Medical History Museum (Seljuk Civilization Museum) and Döner Kümbet, in that order. Then, you can take a break for lunch and sample some of the local delicacies. After lunch, you can go to Ağırnas, the birthplace of Mimar Sinan, stopping at Gesi Vineyards on the way to discover the pigeon houses, and at Kültepe Tumulus to witness history. When you arrive in Ağırnas, you can explore the astonishing underground cities, which are at least 3,000 years old, visit the Mimar Sinan House and see the Sinan Fountain. If you’re not too tired, make a last stop at Tuzla Lake, an hour’s drive. Let the beautiful natural surroundings energize you and set off on the return journey.</item>
+        <item>On the second day, early in the morning, you can stop in Hürmetçi and Dokuzpınar and watch the wild horses (yılkı horses) prancing around the wetlands. You can also taste the local sausage, pastrami, and buffalo-milk clotted cream, and then set off for the Soğanlı Valley. Starting from the Akköy Dam Lake, you can visit the Geyikli, Tahtalı (Santa Barbara), Kubbeli, Saklı, Yılanlı, Karabaş, Tokalı and Ballık churches located within the valley. As in many regions, you can buy cloth dolls that reflect the local culture and then go to Sultansazlığı and see this natural wonder. After a nice lunch in the fresh air, you can head to Erciyes Ski Centre and ski or hike for the rest of the day. When you return to the city, you can stop by the Grand Bazaar and buy a few gifts, then sit somewhere and treat yourself to a feast of the famous Kayseri mantı.</item>
+    </string-array>
+
+
+
+    <string-array name="kirklareli">
+        <item>Kırklareli</item>
+        <item>Start the day visiting Dupnisa Cave, with a history of 180 million years, fascinates those who see it. The site, which is 2,720 meters long and has an underground river, should be added to your sightseeing itinerary. Continue to Sislioba Castle which was used as the garrison of the Roman Period, is still standing and has an impressive façade. The İğneada Forests are a lovely stop on any trip… Walking in this immaculate oxygenated area covered with very rare floodplain forests will soothe your soul. The lush green landscape and forestry is reflected in the clear lakes creating a magnificent silhouette. Carefully preserved, this miracle of nature includes forests, hundreds of species of plants and animals. We recommend you add this place to your list of things to do in Kırklareli. Just a short drive from İğneada Floodplain forest, another beautiful option is the Saka Lake Floodplain with its many natural riches; it is an exquisite area where you can see every shade of green. Saka Lake Floodplain is a sightseeing stop that can be added to the list of places to visit in Kırklareli. End the day at Panayır İskele Bay, a holiday destination just waiting to be discovered… It boasts of a protected beach and box-like structures in Kışlacık Village. We recommend that Panayır Bay, which is a good example of the natural treasures of Kırklareli, should be added to your list of places to visit.</item>
+        <item>Start the day visiting the Zindan Baba Tomb which was built with bricks and limestone, which can be visited at any time of the year. The Zindan Baba Tomb, which is a good example of Kırklareli historical sites, awaits its visitors.
+
+Located just 3 km from the Kırklareli city centre, in a convenient location, the Aşağı Pınar Mound is a large historical excursion site with the living spaces and belongings of the people of the Neolithic era. The people of Vize, which was the centre of the famous Thracian state, built the Vize Castle during their struggles against the Roman Empire. The castle, which has survived to the present day, is one of the places you can visit during your Kırklareli trip. The Vize Castle, which holds an important place among Kırklareli\'s Historical Places, should be added to your list of Kırklareli\'s sites. Continue to the shores of the Black Sea. The Aya Nikola Monastery in Kıyıköy, the symbol of fine architectural skills, is carved into the rocks, standing out as the best of its time. A beautiful example of the historical sites of Kırklareli, St. Nicholas Monastery was built by Emperor Justinian VI and attracts local and foreign visitors. You should put this one of Kırklareli\'s sites on your to-do list. Located within the borders of the Village of Kışlacık, Poliçe Bay is an attractive spot because of its natural beauty. Surrounded by lush forests and boasting of a clear clean sea, it is an ideal stopping off point on your journey.</item>
+    </string-array>
+
+
+    <string-array name="kirikkale">
+        <item>Kırıkkale</item>
+        <item>Start the day with a rich breakfast of regional products and pastries. After the breakfast, head off to Yahşihan Historical Iron Bridge, Irmak District Railway Station, Kılıçlar Railway Station, Kılıçlar Village old primary school building. Then you can go and explore Ballı Mosque, and various historical villas all around the city. For lunch, you can taste a traditional soup. Following lunch, you can continue the tour to see Kalekışla Castle, Gavurevi Archaeological Site and İn Cave.</item>
+        <item>It might be a marvellous idea to start the second day with outdoor activities. Go to Celal Bayar Picnic Area or Karaahmetli Natural Park for breakfast and then head off towards Köprüköy. Admire Çeşnigir Bridge and enjoy grilled fish on the riverside. In the afternoon you can explore Büklükale Archaeological Site and then drive to Keskin district. In Keskin, you can visit Sulu Cave Archaeological Site, Kibrithane, Fişekhane, Bedesten (covered bazaar), Rahmi Pehlivanlı Art Centre, Greek Church and Ceritkale Rock Graves. You may listen to Central Anatolian folk classics at Taş Mektep (Hacı Taşan Art Centre). On your way back, you may stop to visit Hasandede Mosque and tombs.</item>
+    </string-array>
+
+
+
+    <string-array name="kirsehir">
+        <item>Kırşehir</item>
+        <item>On the morning of your first day in Kırşehir, start your day with a rich Kırşehir breakfast, featuring organic honey and butter, at Ağalar Mansion, one of the rare examples of Republican period civil architecture in Kırşehir.
+
+After visiting Kentpark, a lush green waterfront space with social and cultural activities, head to the Ahi Evran Complex and view the tomb of Ahi Evran-ı Veli, the organizer of artisans and craftsmen. Then, visit the Cacabey Mosque and Madrasa, built during the Seljuk period as the world’s first Astronomy and Space Sciences Research Centre, and observe its unique architecture.
+
+Go to the Kaman Kalehöyük Archaeology Museum, set on the historical Silk Road. The museum has a cultural heritage of 4,000 years, and exhibits more than 2,000 works to date, after 35 years of excavations. Savour the natural beauty of the Japanese Garden, the largest such botanical garden outside of Japan, next to the Kalehöyük Archaeological Museum.
+
+Conclude your first day with a dinner of local Kırşehir dishes.</item>
+        <item>On your second day, enjoy breakfast with a view of Hılla Lake (Hılla Gölü). At a temperature of 19 degrees throughout the year, the lake has water lilies and multiple fish species.
+
+Visit the Broken Bridge Caravanserai, on the banks of the Kızılırmak River, and gaze at the architectural features of the bridge, including its 13 supporting arches, a magnificent crown gate and lion sculptures. The Broken Bridge, next to the caravanserai, held significant commercial importance in the Seljuk period. Here, you can see the traces of history and the beauty of nature at the same time.
+
+Go to the Mucur Underground City, featuring 42 rooms at a depth of seven to eight meters below the ground. The underground city was built to protect the area’s population in the 2nd century, during the wars and raids of the Roman period. Relax amid the natural beauty and peace of Mucur Seyfe Lake National Park, home to nearly 700,000 birds, consisting of 167 species, including flamingos.
+
+End the day’s tour with a visit to the Kepez Underground City, which attracts attention due to its architecture and bicoloured soil structure.
+
+Enjoy hot thermal water in in one of the city’s thermal facilities in the evening.</item>
+    </string-array>
+
+
+
+    <string-array name="kilis">
+        <item>Kilis</item>
+        <item>Kilis’in yöresel lezzetlerinin yer aldığı mekanlardan birinde kahvaltı yaparak güne başlayabilirsiniz. İlk olarak tarihi taş sokakları ve tarihi konakları gezip, ardından 22 sahabe türbesinden birkaçını ziyaret edilebilirsiniz. Öğle yemeğinde yöresel lezzetlerin tadına bakabilir ve ardından Ravanda Kalesi’ne geçebilirsiniz. Ravanda Kalesi keşfinin ardından rotanızı, kazı çalışmaları devam eden, Ortadoğu’nun en büyük höyüğü olan Oylum Höyük’e çevirebilir, Erken Bizans Sanat Dönemi\'nin özelliklerini yansıtan Mozaikli Bazilika’yı görebilirsiniz. Son olarak merkeze dönerek tarihi çarşılardan yöresel zeytinyağı, gerebiç ve kahvaltılık zahter alıp lezzetli bir akşam yemeğiyle günü tamamlayabilirsiniz.</item>
+
+    </string-array>
+
+
+
+    <string-array name="kocaeli">
+        <item>Kocaeli</item>
+        <item>Ballıkayalar Nature Park, located on the border of Tavşanlı Village of Gebze, Kocaeli will be an excellent route for rock climbing and trekking. You will likely encounter animals such as rabbits, foxes, jackals, boars, and jays along the way. It has easy and medium level tracks. Along the trekking route, you can have a pleasant walk during the day with beautiful views while passing by small ponds which have been formed by large and small waterfalls.</item>
+        <item>If you are interested in exploring the waterfalls, Serindere Canyon will be a good choice. Serindere Canyon, which has 6 waterfalls with heights varying between 10 and 20 meters, is the most challenging canyon in Kocaeli and the region. While exploring the waterfalls and ponds in Serindere Canyon, which is 26 kilometers away from İzmit, you can cool off under the waterfall, trek, or rock climb. During your trip to Kocaeli, traditional dishes such as Umaç Soup, Kandıra Yoğurdu, İzmit Pişmaniyesi, Pide with Mancar, Simit Dolma, Dartılı Keşkek should be tasted. On the way back, you will find shops in the city center selling Karamürsel Baskets or items made of lefke fabric which can be good gift choices as souvenirs.</item>
+    </string-array>
+
+
+
+    <string-array name="konya">
+        <item>Konya</item>
+        <item>In the morning, sip Turkish tea at a very rich breakfast accompanied by the clean smell of steppe in Konya. Visit the Mevlana Museum and the Mevlevi Dervish Lodge. Then continue to lose yourself in the beauties of history, visit Konya Panorama Museum, Ince Minaret Madrasa and Karatay Madrasa. Eat Konya\'s famous Etli Ekmek at lunch. After lunch, visit the ruins of Alaeddin Mosque and Seljuk Palace on Alaeddin Hill. Visit the Konya Archaeological Museum and the Butterfly Garden. Go to the village of Sille, where Anatolian Orthodox once lived, and visit the Aya Eleni Church. Rest in Meram Vineyards. After eating Fırın Kebab for dinner, go to Mevlana Cultural Center and attend the Sema Ceremony. Complete the day by finding peace with mystical music.</item>
+        <item>With the first light of the morning, go to Çatalhöyük Neolithic City and witness history thousands of years ago in this magnificent place.
+
+Go to Kilistra and breathe its air in this ancient historical place with its fairy chimney-like settlement.
+
+Then Move to Beyşehir district and discover the unique nature of Beyşehir Lake and the historical beauties around it.
+
+Move to the center of the world, where the famous Turkish humorist Nasreddin Hodja accepts as the center of the world, namely Akşehir. Visit Nasreddin Hodja\'s tomb. Move to Gülmece Park (park for laugh), equipped with sculptures telling Nasreddin Hodja\'s very funny anecdotes. Walk through the historical Akşehir houses and reach the historical Nasreddin Hodja Archeology and Ethnography Museum.
+
+At the end of the day, don\'t forget to buy souvenirs specific to the Mevlevi culture and Konya\'s delicious candies. </item>
+    </string-array>
+
+
+
+    <string-array name="kutahya">
+        <item>Kütahya</item>
+        <item>You can start your first day in Kütahya with a local Aegean breakfast featuring luscious flavours. After breakfast, hit the road for the Temple of Zeus and Aizanoi Ancient City, which has an important place in history along with its contemporaries, the Ephesus, Bergama and Side Ancient Cities. After you finish your tour, return to the city centre and visit the Tiled Mosque, the Dönenler Mosque and the Grand Mosque. After the Grand Mosque, take a lunch break and sample Kütahya\'s famous pita with poppy seeds (Haşhaşlı pide). When you’ve finished lunch, visit Tile Museum to see some of the outstanding pieces of Kütahya, which is famous for its tiles, and go to Germiyan Street to see examples of traditional dress and handicrafts and buy souvenirs for your loved ones.</item>
+        <item tools:ignore="TypographyDashes">You can start your second day in Kütahya with a pleasant breakfast in one of the Kütahya mansions. Then, you can visit Archaeology Museum, where pieces belonging to Palaeolithic since the Late Miocene period, and the Chalcolithic, Old Bronze, Hittite, Phrygian, Hellenistic, Roman, Byzantine, Seljuk and Ottoman periods are exhibited. You can stop by Kütahya Castle, a city landmark, before setting off to the Phrygian Valley, a 30–minute drive from the city. Discover the ruins in the valley, an ancient volcano covered with volcanic rock from the Turkmen mountain and inhabited by the Phrygians between BCE 900-600. You can take a revitalizing rest amid nature by camping in Domaniç Forests.</item>
+    </string-array>
+
+
+
+
+    <string-array name="malatya">
+        <item>Malatya</item>
+        <item>In the morning, you can get a breakfast next to Karakaya Dam Lake. You can visit the Silahtar Mustafa Pasha Caravanserai. Then can continue to find yourself in the beauties of history and visit the Art Street of Malatya Old City, Poyraz Mansion, Ulu Mosque and Arslantepe Mound. You can taste Malatya’s famous Kağıt Kebab at lunch. After lunch, you can visit Kent Museum, Şire Bazaar (Taste some dried apricots) and Bakırcılar Çarşısı (Coppersmith Bazaar). You can go to the Canal of Malatya and take your dinner at the restaurants where are located next to the canal. After eating Analı KızlıKöfte, Mercimekli Erişteli Pilav and Yassı Kadayıf for dinner, you can walk through the Canal of Malatya. During the day, don\'t forget to buy Dried Apricots, Malatya Karlık Honey and Dalbastı Cherry. </item>
+        <item>In the morning, you can go to Gündüzbey District and have your breakfast in this magnificent nature. You can go to Yeşilyurt Mansions and Yeşilyurt Bazaar, feel its vibe in this historical place. After Yeşilyurt District you can go to Malatya Archeology Museum and Beşkonaklar Ethnographic Museum. If you have time, you can visit the House of Atatürk, Radio and Gramophone Museum of Malatya, Camera Museum of Malatya and Malatya Culture House. At the end of the day you can have your dinner with traditional kebabs at Arapgir District.</item>
+    </string-array>
+
+
+
+
+    <string-array name="manisa">
+        <item>Manisa</item>
+        <item>Manisa is a city offering historical and natural beauties as well as many activities. In Manisa, where the settlement is very old, there are historical artifacts bearing the architectural characteristics of different civilizations. Exploring the city\'s long-established culture and natural beauties is among the first things to do. Sardes, Alaşehir (Philadelphia) and Aigai ancient cities must be seen. If you love nature, you should visit Spil Mountain, which is close to the city centre and has magnificently pure air. You may also find world famous Manisa Tulips in there. Before dinner, make a quick tour in the city centre to taste Mesir Macunu and buy some handicrafts. Crafts made with felt, folkloric baby doll, folkloric jewellery, lace, copper objects and Manisa carpets and rugs would also be a memorable souvenir.</item>
+        <item>In order to dive into history, go to Salihli Gökeyüp Village and discover the ancient homes spirit. In Salihli, it is also possible to see the handmade terra cotta and ceramic goods. Then head off to Kula to explore Kula Volcanic Region. The magnificent area fascinates the visitors with its natural beauty. It is also possible to see fairy chimneys in Kula which is one of the youngest volcanic fields in Türkiye: tectonically a very active region. The geopark features a large lava plateau, lava caves and basalt columns. On the way back, stop by Kula to admire its splendid historical houses and well-capt urban fabric. </item>
+    </string-array>
+
+
+
+
+    <string-array name="mardin">
+        <item>Mardin</item>
+        <item>Watch over the endless Mesopotamia Valley from the historical city just below the Mardin Citadel. After this magnificent scenery, walk in to a restaurant while exploring the narrow streets of the city and order yourself an elaborate breakfast.If you are ready to discover the city, start with Mardin Museum and observe the artefacts in exhibit from the early ages. Then head on to the Grand Mosqueto be followed by a visit to Kasımiye and Zinciriye Madrasas.Next, check out the rich collection at Mor Behnam Churchalso known as the Church of the Forty Martyrs. Go back to the city center for lunch and sample Stuffed ribs and other local flavors in one of the famous restaurants.
+
+Following this, go to Deyrulzafaran Monasteryand enjoy a glass of saffron tea in the monasteries garden after you have explored the monastery. Before the day ends, stroll around the historical bazaars of Mardin and check out the local products.</item>
+        <item>On the second day, hit the road after breakfast to visit Dara Ancient City located around 45 minutes from the city center. Explore this magical ancient city with traces of three different religions. Then head on to Beyazsu Valleyfor a great lunch and to be in the natuee. Order trout while you are having a rest in the trout farms in the valley. Following this, start for Midyat, the sign of peace and tolerance with a history going back to the Assyrians, that has become an important center for the Syriacs, and where Muslims, Christians and Ezidis live together. Here you will explore the Mor Gabriel Monastery, the oldest standing Syriac Orthodox monastery of the World. Do not finish the day before you get lost exploring and shopping in the historical bazaars of Midyat and having tasted the wine.</item>
+    </string-array>
+
+
+    <string-array name="mersin">
+        <item>Mersin</item>
+        <item>You can start the day with a magnificent breakfast accompanied by the sea and boats in Mersin Marina and then head off for a with a city tour. A rich museum tour programme awaits you in Mersin city centre. Historical artefacts from various ancient cities from the region can be visited at Mersin Archaeology Museum. In addition, Atatürk House and Museum, Mustafa Erim City History Museum, Mersin Naval Museum are among the museums that will help you discover the city and the region.
+
+Yumuktepe, one of the oldest settlements in the world, and Soli Ancient City bring Mersin’s rich historical and cultural past to the present and takes history enthusiasts on a journey of discovery in ancient times.
+
+At lunch, you should taste tantuni in the city centre, and try şalgam suyu (turnip juice). After lunch, a dessert like cezerye or kerebiç might be a good idea along with a cup of Turkish coffee.
+
+In the afternoon, set out for Tarsus – Mersin’s outshining district with its faith, archaeology and cultural tourism. Tarsus Museum, St. Paul Memorial Museum and Well, Cleopatra Gate, Ancient Roman Road, Eshab-ı Kefh Cave (Seven Sleepers’ Cave), Gözlükule, Roman Bath, the Tomb of Prophet Daniel and Gülek Castle are among the prominent places to visit in Tarsus. If you want to feel the historical and nostalgic texture of the region, take a walk in the streets where the historical Tarsus houses. Stop by Kırkkaşık Bedesten to buy local products and souvenirs and taste the local sherbet called kaynar to relieve the tiredness of the day.
+
+If you would like to discover natural beauties, continue towards Çamlıyayla Plateau –a natural wonder with pine trees, is a great route with its cool air, amazing lake and waterfall. You might also want to taste karsambaç over there to cool off, explore the natural beauties of the site and even spend the night in one of the wooden plateau houses.</item>
+        <item>Start the day with local breakfast not far from the Cennet Cehennem Sinkholes in Silifke. You can taste many local delicacies such as bazlama (flatbread), and various citrus jams in the restaurants. After breakfast, as a first stop, you can visit the Cennet Cehennem Sinkholes then continue to Astım Cave.
+
+In the afternoon, you may want to have a quick break for sun and sea bathing: Go to Narlıkuyu to cool off in the clear and blue waters of the Mediterranean. The underground river, whose sound is heard at the bottom of the Cennet (Heaven) Sinkhole, meets the Mediterranean here. After refreshing your soul in the turquoise sea of Narlıkuyu, you can have a feast with grilled fish and special mezzes at a restaurant around Narlıkuyu Bay. At the end of lunch, stop by Narlıkuyu Mosaic Museum to admire the mosaics.
+
+Continue towards Silifke to visit Adamkayalar, Roman Temple, Aya Thekla Church and Uzuncaburç. History enthusiasts might also want to visit Silifke Museum and Ethnography Museum.
+
+If you want to enjoy the magnificent sea and beaches of Mersin during the day, there are many more options in Silifke. Tisan Bay, located in Silifke and selected as one of the most beautiful bays in the world, is a natural wonder known as the hidden paradise of the Mediterranean. Boğsak Bay is also located in Silifke and it is one of the Blue Flag bays in Mersin.
+
+For dinner, you can choose one of the restaurants that serve blue crab or lobster. Do not leave Mersin without eating blue crab which is not only Mersin’s but also Türkiye’s one of the most special seafoods.</item>
+    </string-array>
+
+
+    <string-array name="mugla">
+        <item>Muğla</item>
+        <item>You can start by visiting Muğla\'s centre to explore Muğla’s cultural, historical and tourist areas. In the centre, you can first stop by at the Muğla Museum and see millions of years old unearthed fossils, and clothing and daily use items in the ethnography section. Then, you can go to Muğla Culture House Yağcılar Inn, Clock Tower and Saburhane Square respectively, from here you can take a lunch break by visiting Historical Arasta. You can visit Kurşunlu and Şeyli Mosque by tasting one of the special flavours of the region at dinner, then you can go to Karabağlar Plateau to spend time with nature by getting away a little and you can rest and end the day.</item>
+        <item>After spending the first day in historical, cultural and natural areas in the centre of Muğla;
+
+Visiting Muğla \'s all being a separate heaven; Bodrum, Fethiye, Marmaris, Köycegiz, Datça, Milas Ortaca each one or more of them, enjoying the sea-sand-sun, making boat tours to bays and blue voyage, visiting museums and ruins in Bodrum Museum, the Mausoleum Memorial Museum, Fethiye Museum, Marmaris Museum, Xanthos-Letoon ancient cities (UNESCO Heritage List), Stratonikeia ancient city of Herakleia the ancient city of Caunos ruins of Knidos ancient city of Tlos ancient city, Hecatomnus Tomb and Sanctuary of Muğla’s districts, joining Lycian or Karin road hiking trails, complete by seeing the butterfly genus of Butterfly Valley or caretta the caretta on the İztusu beach.</item>
+    </string-array>
+
+
+
+    <string-array name="mus">
+        <item>Muş</item>
+        <item>After a Muş-style breakfast in the city centre, you can visit Muş Castle, the Muş Ulu Mosque, Yıldızlı Inn, Arak Church and Hasbet Castle, in that order. After, have lunch in one of the local restaurants in the city centre and sample the specialties of Muş cuisine. You can take a walk on streets lined with traditional Muş Houses and visit Bulanık and Malazgirt later in the afternoon. In Bulanık, you can see Haçlı Lake and Esenlik Mosque, and Malazgirt Castle and the Victory Monument in Malazgirt. At dinner time, you can taste local dishes such as stuffed hez, çorti, and cavbelek, while listening to Muş folk songs. </item>
+        <item>You can visit the Varto district on your second day and enjoy a local breakfast here. Head to Hamurpet Lake for trekking afterwards, if you like. After dining on fish at the trout facilities, you can visit Kayalıdere Ancient City and enjoy watching the sunset at the Historical Murat Bridge facilities. At the end of the day, hit the local markets in the city centre and buy fragrant Muş honey!</item>
+    </string-array>
+
+
+
+    <string-array name="nevsehir">
+        <item>Nevşehir</item>
+        <item>In most places, it is advised to start a day with a full breakfast. But if you are in Cappadocia, a place that offers you one of the most fantastic views of the world, we suggest you wake up at dawn and see or board one of the hot-air balloons, to view Cappadocia’s magical landscape and its famous fairy chimneys in the light of the rising sun. While the sun is rising, you will be mesmerized by the play of the sun rays around the magical surroundings. After this visual show, you can enjoy a delicious Turkish breakfast for a fuel. Then you will be ready to truly discover Cappadocia!
+
+Uçhisar Castle (Uçhisar Kalesi) is the highest point for a panoramic view of Cappadocia and it is one of the best points for a beginning. This giant natural castle offers you an overview of Göreme, Avanos Çavuşin, Ortahisar and Güvercinlik Valley (Güvercinlik Vadisi) (Piegon Valley) which are among the most popular places to visit.
+
+The next destination is Göreme Open-Air Museum (Göreme Açık Hava Müzesi). The Museum has been on the UNESCO World Heritage List since 1985 and it is famous for carved churches dating back to the early periods of Christianity. You can see so many remnants of the monasteries, frescoes from the Bible and be amazed by the fact that some of these are more than 1.000 years old. Do not forget to visit Karanlık and Tokalı Churches! These are the most famous and well-protected churches of Göreme Open-Air Museum.
+
+You can have your lunch at Avanos with many local options. The testi kebap, soups, pumpkin dessert, halva and local wine. After the lunch, you can visit a pottery atelier and choose a souvenir for yourself or your loved ones. You can even try to make one yourself!
+
+Pasabağ is more commonly known as Monks Valley (Rahipler Vadisi), deserves a visit. There are many magnificent fairy-chimneys here and some of them include a chapel and hermitage cell dedicated to St. Simeon. You can follow the path of faith at Zelve, comprised of three valleys, is an important settlement of 9thand 13th centuries early Christianity period. There are also famous Churches of Üzümlü and Balıklı here. More fairy chimneys wait for you at Devrent Valley (Devrent Vadisi). These ones resemble animal figures and will give you a visual feast with the sunrays.
+
+Your first day is slowly coming to an end. Breathless by the atmosphere and new experiences, now you are ready for the sunset view, dinner and rest at your hotel.  Your next day will be wonderful too! </item>
+        <item>Your second day route is starting at Ürgüp. The most famous fairy chimneys are here and named as the Three Beauties (Üç Güzeller). Named as Osiana or Assiana at Byzantine period and Başhisar at Seljuks and Burgur Castle (Burgur Kalesi) at Ottomans; Ürgüp is an important centre of Cappadocia.
+At Ürgüp, you can see Ortahisar Castle (Ortahisar Kalesi) that is a giant fairy chimney itself, beyond being a castle! The settlement has a long history here: dating back to the CE. 1500 Hittites. Still, there are so many traditional architectures around the castle that will send you on a vantage through time. Mustafapaşa Village, ancient Sinassos is a good point to see this kind of architecture and Constantin &amp; Eleni Church (Konstantin &amp; Eleni Kilisesi), Hagia Nicholas Monastery (Aziz Nikola Manastırı) and Bebek Museum (Bebek Müzesi). 
+After the lunch, where you will explore flavours and dishes that you missed at yesterday’s feast, you are ready to discover the rest of Cappadocia. There are many options: you can visit Red Valley (Kızıl Vadi) and try trekking or horse-riding here. Cappadocia has a very fertile soil that cultivates very delicious pumpkins, grapes, apples, pears, apricots and more. Some of these grapes are used to produce tasty local wines. If you like, you can visit local boutique wine factories and witness the production of the Cappadocia wines. 
+Options are many. What you shouldn’t miss:  The underground cities of Cappadocia! There are almost 300 underground cities here, but since your time has limits: Kaymaklı, Derinkuyu and Özkonak are good options. The first settlers of the underground cities are not known but there are rumours on their reasons for construction: epidemics, harsh climate conditions, military raids, refuge for early Christians so on… But they are magnificent shelters that include storerooms, fermentation rooms, churches, tunnels, kitchens, even graves and barns. 
+Now your fairy tale is coming to an end, it is time to rest and digest the beauty, history and taste of Cappadocia. Hope to see you again and wish you a safe return with sweet dreams! </item>
+    </string-array>
+
+
+
+    <string-array name="nigde">
+        <item>Niğde</item>
+        <item>Begin the day early with a local breakfast and then head to the Tyana Aqueducts (Tyana Su Kemerleri) and Roman Pool (Roma Havuzu), a 25-minute drive from the Niğde city centre. After visiting the Roman-era structures, you can go to Köşk Tumulus (Köşk Höyük). After, visit the Niğde Museum (Niğde Müzesi), Niğde Castle (Niğde Kalesi), Clock Tower (Saat Kulesi), Alaaddin Mosque (Alaaddin Cami) and Sungur Bey Mosque (Sungur Bey Cami) in the Niğde city centre of Niğde, and then head to Gümüşler Monastery (Gümüşler Manastırı). After visiting the monastery, take a break for lunch and visit Cullaz Street (Cullaz Caddesi) in the city, after a delicious meal.</item>
+    </string-array>
+
+
+
+    <string-array name="ordu">
+        <item>Ordu</item>
+        <item>You can start the day with a visit to Paşaoğlu Mansion Ethnography Museum. After visiting this historical museum with 4361 registered works in total, you can visit the historical Taşbaşı Church, which is now a cultural center. While visiting the church in Taşbaşı quarter, do not forget to visit Sıtkıcan and Menekşe Street, where there are old Ottoman, Greek and Armenian houses whose restoration work has been completed. Afterwards, you can climb up Boztepe, where you can watch  Ordu from 450 meters and the place with the most beautiful view of the city. You can get there by car, or enjoy a cable car ride. You can also go paragliding. Following a break in Boztepe, where the food and beverage venues are located, the places you can see during the rest of the day are:
+
+Hoynat Island and Bird Sanctuary
+
+Perşembe Yason Burnu and Church
+
+Sahil Yolu, Medreseönü, Yalıköy, Bolaman
+
+Fatsa Bolaman Hazinedaroğlu Mansion
+
+Fatsa Gaga Lake
+
+Ünye City Center, Bakırcılar Bazaar, Ünye Museum House, Kadılar Yokuşu</item>
+        <item>On your second day, you can get a little more intimate  with nature. In this context, the uniquely beautiful plateaus of Ordu await you:
+
+Çambaşı Plateau and Çambaşı Ski Center
+
+Turnalık Plateau
+
+Mesudiye Yeşilce, Kızılağaç Trip
+
+Gölköy City and Castle Trip
+
+Gölköy Ulugöl Nature Park
+
+Aybastı Perşembe Plateau</item>
+    </string-array>
+
+
+
+    <string-array name="osmaniye">
+        <item>Osmaniye</item>
+        <item>Start your first day in Osmaniye by sipping your Turkish tea on Seyir hill and admire its pristine scenery. Then head off to Zorkun Plateau. After a hiking tour, stop in one of the restaurants for lunch and enjoy local specialties. Following the lunch break, visit Toprakkale Castle, and Harun Reşit Castle. You may end your day by having a quick relaxing break at Haruniye Thermal Springs and coming back to the city centre for a dinner that fits for a king.</item>
+        <item>Early bird catches the worm! At first light, head off to Kastabala Hierapolis Ruins and witness history. Stop by Karatepe village in Kadirli district, famous for its  rugs and explore the traditional Anatolian artwork. For lunch, try Kadirli sucuk bread in one of the local restaurants. Make sure you eat well because you will need energy for the rest of the day. After lunch, stop by Ala Cami to admire the monument which has been different civilisations place of worship. Then set off to Karatepe-Aslantaş Open-Air Museum to visit both the site and the castle. At the end of the day, you can buy souvenirs and gifts with a quick tour in Osmaniye’s city centre – peanuts might be a wonderful idea!</item>
+    </string-array>
+
+
+
+    <string-array name="rize">
+        <item>Rize</item>
+        <item>The first morning, you may have breakfast at the seaside of Derepazarı, watching the Black Sea and having a traditional breakfast. Then you can start visiting cultural, historical and natural beauties of the city.
+
+On your first day, you can visit these spots: Anzer and Petran Plateaus, Sivrikaya Plateau and Sivrikaya Mansions, Ovit Dağbaşı Glacial Lake, Ilıca Thermal Springs. You can take a break in a restaurant near Ilıca to taste local specialties at lunch. After lunch, you may go to Cimil Valley, see Cimil waterfall and do a small hiking tour.
+
+Then, you can come back to the city centre and continue your day at Ziraat Park, enjoying the panoramic view of the whole city with a delicious cup of tea. Among various buildings, you will be able to detect Ciha Castle and the 16-th century İslampaşa Kurşunlu Mosque, then head off to these monuments and start your visit. Then go to Atatürk House Museum that exhibits Mustafa Kemal Atatürk’s personal belongings and ethnographic artefacts. While wandering in the streets, don’t miss some local architectural wonders, examples of seamless woodwork and stonemasonry. At dinner, you can try famous beans with rice pilaf.</item>
+        <item>You can start your second day by setting off to Fırtına Valley which is the city’s most important destination in terms of nature tourism. You may opt for a trekking tour, a rafting experience or wander along the stream, cross the historical arched bridges and give ear to the flowing water. Amongst all bridges there are three that you wouldn’t want to miss: Osmanlı (Timisvat) Bridge, Mikron Bridge and Şenyuva Bridge. Then, go and visit Zil Castle, continue along Çay Valley and admire Palovit Waterfall. The route will then lead you to Pokut and Sal Plateaus that offer an amazing view of Kaçkar Mountains. You can have some trout for lunch and a quick relaxing break at Ayder Plateau and its thermal springs. In the afternoon, you may continue the tour towards Fındıklı District and discover hazelnut groves, tea plantations and traditional wooden mansions.</item>
+    </string-array>
+
+
+
+    <string-array name="sakarya">
+        <item>Sakarya</item>
+
+        <item>A "must see" is the Sakarya Museum, which is located across from the station. Major Baha Bey was responsible for the construction of the building in which the museum is housed. The 1st floor has the archaeological works of the Roman and Byzantine periods and ethnographical works, which include leather goods used by Atatürk, guns, copper goods and ornaments, belonging to the Ottoman and Republic periods are amongst the exhibits. The 2nd floor has a Conference Hall. The Gardens are also used to display architectural pieces from the Roman and Byzantine periods.
+
+Sakarya has fairy-tale castles; the Harmantepe Castle located on a little hill covers an area of one hectare and is situated at Adapazarı Harmantepe Village. Adliye Castle, believed to have acted as a border protection castle, is to the south of Arifiye Town of Adapazarı.
+
+The Orhan Mosque and Yunus Paşa Mosque built by the Ottoman Empire in the 15th century is remarkable and well worth a visit. Elvanbey İmareti dates back to the year 1450.
+
+The Justinian Bridge is a 429m long, eight-arched bridge. Constructed on river Sakarya by the Byzantine Emperor Justinianus (527-565) is of great interest to visitors. This construction transports you back to Byzantine days. You will admire the workmanship and skills which created this still standing monument.
+
+The Ali Fuat Paşa Bridge, connecting Geyve centre to Ali Fuat Paşa town, is also known as Sakarya Bridge and was built in 1495 by Sultan Bayezit II. Sakarya is full of lakes, beaches, forests, valleys, canyons, hot springs and mineral water springs. This amazing place is blessed with Lake Sapanca, a great weekend excursion area. It\'s an adventure sport paradise with water sports such as: surfing, sailing and rowing events.
+
+Arifiye Forest is alongside this fresh water lake. The forest serves as a camping site and picnic spot. Bird watchers are in for a special treat as there are many species to be observed here. There are other beautiful lakes in the environs. Büyük Akgöl, Küçük Akgöl and Poyrazlar Lakes are notable examples.
+
+Because it is located on the coast of the Black Sea, Sakarya has lots of sandy beaches to enjoy along its 60 km long coastline. Many places of the coast, including Karasu and Kocaali, are resort towns with good facilities and hotels.
+
+The Kuzuluk Thermal Spring is a big draw for visitors from all over the world because of its remedies and curative properties. The other spots for spa and curative tourism are the thermal spring facilities in Akyazı and Taraklı Districts.</item>
+
+    </string-array>
+
+
+    <string-array name="samsun">
+        <item>Samsun</item>
+        <item>The starting point for visiting Samsun, the city of Atatürk, is Tütün Pier decorated with statues of Atatürk and his comrades in arms. This monument built in memory of May 19, 1919 is located in the center of the city, opposite the industrial pier.
+
+Onur monument is about 500 meters from Tütün Pier. This statue, which was placed in the heart of the city in 1932, became the most known symbol and the most visited point of Samsun.
+
+Gazi Museum is approximately 500 meters west of Onur Anıtı. Many works from Atatürk\'s personal belongings to important memories of the War of Independence are exhibited.
+
+The Giant model of the Bandırma ferry that brought Atatürk to Samsun, faithful to the original, is located approximately 5 km east of Onur Anıtı in Doğupark.
+
+Tea in Doğupark,in this area, which is a green oasis in the middle of the city, you can relax by sipping your tea by the sea.
+
+You can reach Batıpark and Amisos hill in the middle of İlkadım and Atakum districts by tram or your private vehicle from Doğupark and reach Amisos hill (Amisos Tepesi) by cable car. At the end of this tour during which you will watch Samsun from a panoramic angle, you will reach royal tombs that are thousands of years old and various food and beverage facilities. Or, if you wish, you can visit the Amazon Village museum in Batıpark and eat fish or Samsun pide at the restaurants on the beach.
+
+If you wish, you can visit Atakum beach, which is home to 11 blue flag beaches by renting a bicycle and taking a bicycle path parallel to the 10 km long beach or by walking along wide pavements under the shade of trees.
+
+Yabancılar Bazaar, Mecidiye Caddesi and Çiftlik; towards the evening, you can return to the city center and visit these 3 points in the city center to buy souvenirs. You will witness the liveliness of the city in these 3 centers where you can travel more easily on foot.</item>
+        <item>Kızılırmak Bird Sanctuary, which is on the Unesco Tentative Heritage List, can be reached from 19 Mayıs district. Since vehicle entrance to the region is prohibited to limit carbon emissions, you can continue your way from Bird Sanctuary with the tour buses of the Metropolitan Municipality or with your bike.
+
+Nebiyan Mountain and Plateau is one of the places that should especially be seen in the summer months with its social facilities, unique pristine nature and relaxing climate.
+
+Bafra pide, ice-cream and nokul;to taste this trio, the symbols of Samsun cuisine, you should definitely visit Bafra, which is located approximately 20 km west of 19 Mayıs district.
+
+Bafra Kolay Tourism Center; this natural wonder, which emerged from the waters of Altınkaya dam, is approximately 15 km north of Bafra. The area offers many alternatives to its visitors not only with its natural beauties but also with historical points such as rock tombs and Tependeligi.</item>
+    </string-array>
+
+
+
+    <string-array name="siirt">
+        <item>Siirt</item>
+        <item>If you want a quick tour of Siirt, start with the area famous for its rock-carved “cas” houses, then move on to the Tomb of İsmail Fakirullah. If you are hungry, we recommend Perde Pilavı and Büryan Kebabı. You can also sample the famous pistachios of the region. While in the Bazaar, look for Bıttım soap, Siirt blankets and the world-famous Jirkan rugs. Another indispensable section of the market is, of course, the Coppersmith’s Bazaar. Here, you can immerse yourself in the rhythm of the music created by the coppersmiths’ hammers. </item>
+
+    </string-array>
+
+
+
+    <string-array name="sinop">
+        <item>Sinop</item>
+        <item>The day starts with a splendid breakfast in one of the places where Sinop\'s local flavors are available. The main addresses you can visit on your first day in the city offering many alternatives are,
+
+First an Island tour and stroll in Karakum (promenade walking on the coast, which has a Mediterranean climate and is located at the northernmost point of Türkiye),
+
+Then visit Şahin Hill, experience a bird\'s-eye view of Sinop from the summit,
+
+Visit the Tomb of Seyyid İbrahim Bilal, the most important faith tourism center of the city,
+
+Visit Sinop Museum (ethnography-archeology), which contains the city\'s thousands of years of history,
+
+Visit Pervane Madrasah, shop for Sinop\'s local products, and then visit Alaaddin Complex and Mosque,
+
+Sinop Historical Prison, one of Sinop\'s brand values,
+
+Lunch where you can try local flavors,
+
+After that, Akliman, Hamsilos, Sarıkum, among the natural beauties of Sinop and the northernmost point of Türkiye, Inceburun,
+
+Bektaşağa Pond and Erfelek Cascaded Waterfalls, which are frequently visited by domestic and international tourists,
+
+Constitute points of interest that you can see and visit on your first day in the city,
+
+You can have fish for your dinner in one of the restaurants in the center of Sinop on the evening of the day. </item>
+        <item>You can start the day with the local flavors of Sinop, folding, nokul and tea.
+
+A visit to Boyabat Castle, which has preserved its historical identity for centuries,
+
+A visit to Boyabat Basalt Rockies,
+
+Salar Rock Tombs,
+
+Butchers Bazaar, shopping for local products,
+
+Delicious Boyabat Sırık Kebab for your lunch,
+
+After lunch, tour Durağan Terelek Rock Tombs with thousands of years of history,
+
+Durakhan Caravanserai,
+
+Buzluk Cave Natural Monument,
+
+Saraydüzü Ambarkaya Tomb,
+
+Constitute the places you can see and visit on the second day.
+
+In the evening, come back to Sinop city center and eat Mantı (Sinaop style dumplings), which is a local flavor, for dinner.</item>
+    </string-array>
+
+
+
+    <string-array name="sivas">
+        <item>Sivas</item>
+        <item>Having breakfast in one of the authentic restaurants offering the local flavors of Sivas will be a very good choice. Then, you can start your first-day tour by visiting the Historic City Square and the Archeology Museum in the city, which provides many alternatives. You may want to photograph the stunning architecture of the Government House while walking through the town square.
+
+From here, you can continue to the Double Minaret Madrasa, Buruciye, and Şifahiye Madrasa, and then you can move on to Ulu Mosque and Meydan Mosque.
+
+While wandering the streets, you can enter a restaurant with local delicacies and feast yourself with Sivas\'s famous vegetable kebab. In the continuation of the tour, you can explore Behrampaşa Inn, which was built in 1576, Subaşı Inn, which was built in the 16th century and where artisans sell dry food in the present day, and Taşhan, which was built in the 19th century and has shops and cafes. You can have a coffee in Taşhan and then you can head to Sivas Castle Houses where you can find old Sivas houses, entertainment venues, accommodation, and shopping areas in one place. You should not end the day without seeing Gök Madrasa and Abdi Ağa Mansion, which you can easily access near the castle. If you are still not exhausted, you can go to Çermik Hot Springs from here, which is about 35 km away, and rest yourself in the healing waters before dinner.</item>
+        <item>On the second day of your trip, you can get up a little early and have a quick breakfast with the warm Sivas Flaky Pastry, which you can buy from the local bakeries, and set off for Divriği, which is 2 hours away. You can start your visit with Divriği Ulu Mosque and Darüşşifa (Hospital), which is the most important cultural asset of Divriği and which has been included in the UNESCO World Cultural Heritage List in 1985 due to preserving its existence since the 13th century. Then, you can proceed with Divriği Castle on the rocky terrain along the slope overlooking Çaltı Stream and the Divriği Kale Mosque located on the edge of the cliff inside the castle and finally officially registered Divriği Mansions with their unique architecture. Here, you can take a break for lunch and discover local delicacies. Watching the steppe landscape of Central Anatolia while returning to Sivas city center after your meal will give you peace of mind. When you arrive at the center, you can visit the Kangal Shepherd Dogs, a very special dog breed, at the Kangal Dog Breeding, Training, and Protection Center and take a souvenir photo. Before dinner, you can go to the Hillside Houses, see the Hobbit Houses, and take a photo if you wish, and then spend a few peaceful hours in nature.</item>
+    </string-array>
+
+
+
+    <string-array name="sanliurfa">
+        <item>Şanlıurfa</item>
+        <item>After you visit Balıklıgöl, Ulu Mosque, Reji Church, Fırfırlı Mosque, Patience Quarter (Cave) of Ayyub (Job) in Şanlıurfa city center which hosts numerous ruins and remnants from prehistoric settlements, Assyrian, Hittite, Persian, Greek, Roman and Islamic periods, you can see, learn about and photograph numerous ruins from all eras of the history of civilization from paleolithic period to our days in the Şanlıurfa Archeology Museum. You can see the ancient depictions of Amazon women, who are frequently mentioned in mythology, in the Haleplibahçe Mosaic Museum. You can attend Sıra Night held in one of the historical mansions in Şanlıurfa in the evening of the day after visiting Göbeklitepe, the first monumental temple building of the world, and seeing Harran, the last capital of the Assyrian Empire, which famous for its Sin Temple and Sabians, the place where Roman Empire won one of the greatest defeats of its history against the Persians upon the death of Roman Emperor Caracalla, and with well known unique houses with conical roofs.</item>
+        <item>Şanlıurfa, which is about 12,000 years old, starting with the oldest known monumental temple in the world, where many pagan religious centers and symbols are located, is the city where Prophet Ibrahim, ancestor of all divine religions, is believed to be born. On this route, which includes Bazda Caves, Han-el Ba’rur, Soğmatar, and the City of Shuaib, valuable information about various rituals and temple architecture can be obtained and polytheistic and monotheistic belief centers can be photographed.</item>
+    </string-array>
+
+
+
+    <string-array name="sirnak">
+        <item>Şırnak</item>
+        <item>After enjoying a local breakfast on your first day in Şırnak, set off for Bırcabelek.  Then, visit the Ulu Mosque and the Red Madrasa, The Tomb of Noah the Prophet, and the Mem u Zin Tomb. Take a lunch break and visit the Virgin Mary, Öğündük Mor Dodo churches, in that order. Return to the city for a delicious dinner of regional specialties.</item>
+
+    </string-array>
+
+
+
+    <string-array name="tekirdag">
+        <item>Tekirdağ</item>
+        <item>Start your day with a tour in the centrum. After a short walk to explore old typical houses and discover the beautiful Rüstem Paşa Külliyesi, you may stop by to buy some local products or have a cup of Turkish coffee. After coffee, walk towards the Archaeology and Ethnography Museum to fully understand the city’s historical characteristics. Then, choose another museum according to your interests. For lunch, try the delicious Tekirdağ Köftesi and some of the desserts, and get ready for an unforgettable experience.</item>
+        <item>After a traditional Turkish breakfast, take the road for nearby district Şarköy. Visit the long beach and discover the seashore. Don’t forget to take your bathing suit with you. Then, you may want to stop by the market to taste the local olive oil and buy some souvenirs. After a tea break in Şarköy’s centre, head off to the wine route. The scenery is impressive, with beautiful lush green vineyards. If you don’t drink wine, opt for grape juice, which is a very popular beverage in the region pressed from local grapes. At the end of the trip, you may enjoy a relaxing dinner in one of the vineyards and spend the night in one of the estates.</item>
+    </string-array>
+
+
+
+    <string-array name="tokat">
+        <item>Tokat</item>
+        <item>On your first day in Tokat, you can visit Tokat Museum first to discover the city and understand its history better. You can get out of here and visit Sulu Street, which is right across the museum, and you can see the historical Tokat houses here. Afterwards, you can visit Hıdırlık Bridge, a work from the Seljuk period, which has become one of the symbols of the city. You can stop in Gök Madrasah, which has the characteristics of Anatolian Seljuk architecture and is used as a bimarhane (old Turkish hospital) and hospital; then you can take a meal break and enjoy testi kebab. After eating your dish, you can go to Taşhan, one of the biggest inns in Anatolia.
+
+You can see Tokat Castle, where Byzantine Emperor Diegonis and Vlad III (Drakula) were imprisoned in the past, from all over the city. Finally, you can visit Tokat Clock Tower, Bey Street and Mevlevihane Museum in that area and end the day with a coffee in the bazaar.</item>
+        <item>First, you can head to Zile to see Zile Castle, where Julius Caesar said "Veni Vidi Vici (I came, I saw, I conquered)" to herald the victory after the Battle of Zela. After this visit, you can visit Kaz Lake and Mahperi Hatun Kervansarayı (Caravanserai), and Ballıca Cave famous for its stalactites and stalagmites which is on the UNESCO World Heritage Tentative List in Pazar district. When you return back to Tokat city center, you can eat bakla dolması for your lunch break. After exploring Deveciler Inn, the historical trade center of Tokat, Yağı Basan Madrasahs, Suluhan, Paşa Inn with a short walk after lunch, you can visit Latifoğlu Mansion, Gök Madrasah, and take a boat tour in Yeşilırmak. If you want to spend some time in nature at the end of the day, you can go to Kaz Lake.</item>
+    </string-array>
+
+
+
+    <string-array name="trabzon">
+        <item>Trabzon</item>
+        <item>Trabzon\'da yapılacak en iyi şey, şehrin yöresel lezzetlerini sunan restoranlardan birinde güne enfes bir kahvaltıyla başlamaktır. Harika bir kahvaltının ardından şehir merkezindeki kültürel, tarihi ve doğal yerleri gezmeye başlayabilirsiniz.
+
+Şehir merkezinde ziyaret edebileceğiniz birkaç adres bulabilirsiniz. Ama seçmek zorundasınız!
+
+İlk durak olarak Atatürk Köşkü\'ne ne dersiniz? Bu köşk, Gazi Mustafa Kemal Atatürk\'ün 3 kez ziyaret ettiği Trabzon\'da, vasiyetini yazdığı muhteşem bir yapıdır. Ardından şehrin en eski yapıları olan, iyi korunmuş Trabzon Kale Duvarlarını ziyaret edebilirsiniz.
+
+Trabzonspor, şehrin en önemli değerlerinden biridir. Bu yüzden şehrin spor kültürünü tanımak için Trabzonspor Müzesi\'ne gitmek iyi bir seçenektir. Burada Trabzonspor tarihi ile ilgili kupalar, eski formalar, kramponlar ve daha birçok malzemeyi görebilirsiniz. Başka bir müze ile devam edelim. Şehir Müzesi, Trabzon\'un hükümet, eğitim, spor, medya, basın, sağlık, kültür, sanat, sözlü ve ulaşım tarihinin yanı sıra Trabzon\'un coğrafi yapısı, mimari dokusu, kentsel dokusu, kültürel ve ekonomik yapısı, geleneksel el sanatları ve turistik değerlerini 3 boyutlu (3D) olarak bulabileceğiniz bir müzedir.
+
+Şehre tepeden bakan Boztepe\'yi ziyaret etmeden lütfen ilk gününü bitirmeyin! Burası şehirdeki ilk gününüzde ziyaret edebileceğiniz en önemli yerlerden biridir.
+
+Not: Şehir merkezinde çeşitli yerel restoranlar bulacaksınız. Bu restoranlarda Trabzon\'un en iyi lezzetlerini keşfedin!</item>
+        <item>Şehirdeki ikinci gününüzde, Maçka\'daki Altındere Vadisi\'ne bakan Karadağ\'ın eteklerinde, Bizans İmparatoru I. Theodosius (375-395) döneminde inşa edilen ve UNESCO Geçici Miras Listesi\'nde yer alan şehrin en önemli kültürel varlığı Sümela Manastırı\'nı ve Sümela Manastırı\'na bağlı olması muhtemel 18-19. yüzyıllardan kalma Sümela Manastırı yakınlarındaki Ayavarvara Manastırı\'nı ziyaret edebilirsiniz.
+
+İkinci günün ikinci durağı ise mavi gökyüzü, bembeyaz bulutlar ve yemyeşil bir ormanla karşılanacağınız Uzungöl olabilir.</item>
+    </string-array>
+
+
+
+<string-array name="tunceli">
+        <item>Tunceli</item>
+        <item>It is necessary to drive to Tunceli, as the nearest airport is in Elazığ. From İstanbul, it is a 90-minute flight, and it is an hour’s flight from Ankara. Upon arrival at Elazığ, you can hop on a minibus (every 30 minutes during the day) to Keban Dam Lake. After the 20-minute ferry trip, which features views of historic Pertek Castle, you will arrive to the Pertek district. The trip between Elazığ and Tunceli is approximately 75 km and takes about 90 minutes. When you arrive at your hotel or lodging in the city centre, you can first visit Gole Çeto, at the intersection of Munzur and Pülümür. After that, head to the Cem House, just above, and consider the fundamentals of beliefs, rituals and conduct in the region. Also, take photos of the landscape and the intersection of two bodies of water. After visiting the Cem House, you may stop at Örenönü Natural Park, 3 km from the city centre, on the way to Pülümür Road. Take a rest and enjoy a snack or a drink surrounded by natural beauty. You can head back to the city centre for another tea break, and then visit the Tunceli Museum – a definite must-see. It usually takes a couple of hours to go through the museum, a former barracks that now features exhibits on archaeology, ethnology, and the beliefs and recent history of the area. Leaving the museum, you can stop by the shops in the city centre, on Dar Alley, and purchase regional products such as honey, cheese, kurut, dried fruit or kurtik seeds for yourself or a loved one. Get a good sleep to prepare yourself for Day 2.</item>
+        <item>Get an early start: after breakfast, an adventure-filled day awaits you. After a short visit to the Ana Fatma Shrine by the Munzur River, at the 7-km marker of Ovacık Highway, you can head over to Munzur Valley National Park. You will probably want to take periodic breaks to enjoy the scenery: sometimes you will see fast-flowing waters, sometimes waterfalls and sometimes wildflowers – each more beautiful than the next. If you’re lucky, you may catch a glimpse of mountain goats, squirrels or foxes. After a 90-minute trip through natural beauties, you arrive at Ovacık District, 65 km from the city. Depending on the season, you can go to the ski resort at the district centre via a ski lift and tele ski or, in the summer, you can enjoy the mountain sledge. If you get hungry, the restaurants in the district centre serve excellent dishes prepared with the meat of organically fed animals. After, you can visit the springs, sourced by the Munzur and 15 km from the district. These springs are considered holy places, so you can light a candle and make a wish after learning about the legend of Munzur Baba. Explore the legend further, remembering that, according to the legend, Munzur baba puts the milk in a pot but the milk is poured out with each swing of the pot. And water coming onto the surface due to pressure is similar to the milk coming out with pressure.</item>
+    </string-array>
+
+
+<string-array name="usak">
+        <item>Uşak</item>
+        <item>After welcoming the day with a magnificent Aegean breakfast, the natural wonder of Ulubey Canyons, which is shown as the second largest canyon in the world, deserves to be the first stop of the first day. After relaxing in the Nature Park located in the canyon, Uşak Archaeology Museum where the Treasures of Karun (Lydian King Croesus) are exhibited should be visited. Following the Archaeology Museum, Atatürk and Ethnography Museum should be visited. Seeing the items of Atatürk in this museum where Atatürk lived for a while will take you on a long journey in that time. The Clandras Bridge or Taşyaran Valley dating back to the Hellenistic Period are among the places that should be preferred to watch the sunset with its unique view. At the end of the day, you can taste the local flavors of Uşak at the restaurants and collect energy for the next day.</item>
+        <item>On the second day in Uşak, you can continue your trip by visiting the ancient cities of Blaundus, Acmonia, Sebaste and Pepouza. Following the ancient cities, you should visit Uşak Dokur House, where the most popular works of authentic carpet and rug weaving are exhibited. You can end your trip visiting the Historical Uşak Houses and buy various souvenirs here. If it is the lavender season, Lavender Gardens should definitely be visited.</item>
+    </string-array>
+
+
+<string-array name="van">
+        <item>Van</item>
+        <item>The day starts with the famous Van breakfast in one of the traditional Van breakfast halls.
+
+After breakfast, go to the Van Museum, which is 10 minutes from the city center. It is home to many valuable archaeological and ethnographic artifacts, with displays of Urartu, Ottoman, and Seljuk artifacts; in fact, it is the richest museum in the world in terms of Urartu artifacts. Then, you can visit Van Castle and move on to old Van city, where the ruins of the Hüsrevpaşa Complex, Kayaçelebi Mosque, Horhor Mosque, Red Minaret Mosque can be seen.
+
+At the Foreigners (Rus) Bazaar, in the city center, you can shop for souvenirs and jewellery shops selling silver products made with niello. From here, you can visit the rug shops where the world-famous Van kilimi is sold, and you can sample Van otlu cheese at the Historical Cheese Makers Bazaar, just five minutes from the rug manufacturers. To see the old Van Houses, you can go to the Kalecik District, which is 20 minutes away.
+
+For lunch, try one of the local Van specialties, such as keledoş, ayran aşı, sengeser, kürt köftesi, acem köftesi and Van fish.
+
+After lunch, one can visit the Yüzüncü Yıl University Central Campus, 10 minutes away, and see the Van Cat Villa, which houses hundreds of Van Cats with mismatched eyes (one amber and the other blue).
+
+Afterwards, Muradiye Waterfall, which is 40 minutes away, and Deliçay in the Erciş district, can be visited. The pearl mullets that leap amid the streams during the breeding season can be observed here.
+
+A 45-minute journey brings you to Erçek Lake, where you can see the flamingos and other bird species that stay, feed, and breed here from June to October.
+
+Finish the day by listening to local music performed by the Van Oturma Gecesi team at dinner.</item>
+        <item>After breakfast in Van, head to Çavuştepe Castle, which is a 45-minute drive via the road to the Gürpınar district; there, you can see earth works used as a granary three thousand years earlier.
+
+After a 30-minute journey, you can visit Hoşap Castle, with its magnificent castle gate and enchanting high walls. You can cross the centuries old Evliyabey Bridge, which is located just below the castle.
+
+Then, you can move to Başkale district, 60 minutes away, and discover the unique nature of the travertines in Dereiçi village and Vanadoccia in Yavuzlar Village.
+
+The Kümbet of Halime Hatun and the historical Seljuk Cemetery can be visited in the Gevaş district, a 50-minute journey. Then, you can visit the 500-year-old İzzettin Şir Mosque and Tomb in the district’s center.
+
+You can go to Akdamar Island, named for a legendary love story. After reaching the island via a 20-minute boat ride, you can see the reliefs on the outer walls of the Akdamar Church, featuring scenes from the sacred books, along with the frescoes on the inner walls, and the wishing well, in the museum.
+
+At the end of the day, you can sample the famous Edremit köftesi, Van tandoor fish and ayran aşı by walking along Edremit beach. In the evening, you can watch the sunset from the Edremit Viewing Terrace or Van Castle.</item>
+    </string-array>
+
+
+<string-array name="yalova">
+        <item>Yalova</item>
+        <item>Take some rest here by visiting the Walking Mansion, which is located by the sea where Mustafa Kemal Atatürk also stayed, and enjoy the sea view by drinking tea or coffee.
+
+Yalova is a city famous for its different tastes that combine meat and dough. Don\'t forget to try local delicacies such as Termal dessert, Termal sarma, Kaburga dolması and Termal soup during your visit.
+
+You will be mesmerized by the nature at Karaca Arboretum where you will be able to see 7,000 different plant species Let\'s take those who cannot get enough of the forest and green to Yalova City Forest. After a quiet walk in nature, you can see Erikli Waterfall and take beautiful landscape photos. Don\'t forget to visit Dipsiz Lake, which is 2.5 kilometers from Yalova City Forest.</item>
+        <item>Take a historical journey by visiting the Termal Mansion, where Atatürk also stayed from time to time. You will love the works in the mansion and the building constructed entirely of wood.
+
+Termal can be considered as one of the most relaxing locations of Yalova. It will be a visit that you will not want to end with various thermal springs and healing areas intertwined with forest. In Termal, you can see the Byzantine-era Kurşunlu Bath and relax in Yalova\'s famous Termal Springs.
+
+When your visit to the thermal springs is over, don\'t forget to take a look at local handicraft products such as Yalova\'s Çınarcık Handiworks and Yalova Tiles.</item>
+    </string-array>
+
+
+<string-array name="yozgat">
+        <item>Yozgat</item>
+        <item>After starting the day with a traditional breakfast, you can visit the Yozgat Archeology Museum (Nizamoğlu Konağı - Mansion), which is very important in terms of Turkish painting art. Then you should stop by at the magnificent Karslıoğlu Mansion and continue to the Sergeant Major Mosque. Then you can take a break for lunch after seeing the Çapanoğlu Mosque, which is known as the first mosque in Anatolia with a large picture and the Hamidiye Fountain.
+
+After having one of the traditional delicacies of Yozgat for lunch, you can go to see the Clock Tower and finish your tour of the city centre at the Archaeology Museum. From here you can head to Sorgun and then to Sarıkaya, see the spa ruins used in the Roman -Byzantine period in Sarıkaya, which are known as the Aquae Sarvenea or Basilica Therma, and then return to the city centre. Don’t forget to stroll around the market and get Parmak Çörek before dinner!</item>
+
+    </string-array>
+
+
+<string-array name="zonguldak">
+        <item>Zonguldak</item>
+        <item>You can start the day with a delicious breakfast on the Zonguldak coastal area and continue by with a visit to the Cane Museum in Devrek. Then you can visit the Ancient City of Tios and Filyos Castle and enjoy the charming atmosphere of Gökgöl Cave, adorned with travertines, stalagmites and stalactites. At the Zonguldak Mining Museum and Training Centre, you can observe the history of the tools used in coal mining from the past to the present, as well as the working conditions of miners, meters below the ground, via various simulations. The Karaelmas Miner Martyrs Museum was built in memory of miners who lost their lives in mine accidents and is a must-visit point in Zonguldak, which is a mining city. While going to Varagel Tunnel, another symbol of Zonguldak, you should prefer to go on foot. You can take an enjoyable walk under the shade of monumental trees, each of which is at least 200 years old, on a road that can be described as a monumental tree tunnel. Enjoy a fine dinner in the evening, to top off the day.</item>
+        <item>Start your second day in Zonguldak by boosting your energy at Harmankaya Waterfalls by communing with nature. Afterwards, you can hike in the Taş Lake Camping Site, dip your feet in the rivers, and eat the sandwiches you’ve brought at a picnic table surrounded by nature. After your enjoyable hours in nature, you can visit the Alemdar Ship Museum and the Ereğli Museum, and then visit the Cehennemağzı Caves, one of the most famous points of the city, consisting of three caves – namely Kilise Cave, Herkül Cave and Ayazma Cave – which were used as sanctuaries in the Roman and Byzantine periods. You can relax in the cool waters of Köseağzı Beach towards the end of the day.i</item>
+    </string-array>
+
+
+
+
+
+</resources>

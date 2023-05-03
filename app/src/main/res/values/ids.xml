@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="istanbul" type="id" />
+    <item name="adiyaman" type="id" />
+    <item name="aydin" type="id" />
+    <item name="amasya" type="id" />
+    <item name="antalya" type="id" />
+    <item name="afyonkarahisar" type="id" />
+    <item name="aksaray" type="id" />
+    <item name="ankara" type="id" />
+</resources>

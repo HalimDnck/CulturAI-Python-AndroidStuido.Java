@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CulturAI</string>
+
+    <string name="main_btn">Türkiye seyahatinizi planlayın</string>
+    <string name="destinations">Destinasyonlar</string>
+    <string name="see_all">Tümü</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_text">Merhaba, Bu bir test!</string>
+    <string name="home">Ana Menü</string>
+    <string name="planner">Planlayıcı</string>
+    <string name="settings">Ayarlar</string>
+    <string name="all_turkey_destinations">Tüm Türkiye Destinasyonları</string>
+    <string name="season_text">Türkiye seyahatinizi hangi mevsimde gerçekleştirmeyi planlıyorsunuz?</string>
+    <string name="summer_spring"><![CDATA[Yaz & İlkbahar]]></string>
+    <string name="winter_autmn"><![CDATA[Kış & Sonbahar]]></string>
+    <string name="beach_sea"><![CDATA[Plaj & Deniz]]></string>
+    <string name="winter_skiing"><![CDATA[Kış & Kayak]]></string>
+    <string name="nature_ecolife"><![CDATA[Doğa & EkoYaşam]]></string>
+    <string name="historical_cultural"><![CDATA[Tarihi & Kültürel]]></string>
+    <string name="outdoor_advanture"><![CDATA[Açık Hava & Macera]]></string>
+    <string name="architecture_marvels">Mimari Harikalar</string>
+    <string name="taste_gastronomy"><![CDATA[Tadım & Gastronomi]]></string>
+    <string name="wellness_spa"><![CDATA[Sağlık & Kaplıca]]></string>
+    <string name="select_your_favourite_holiday_types">Favori tatil tipinizi seçin</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="options">Ayarlar</string>
+    <string name="sustainable_program">Sürdürülebilirlik Programı</string>
+    <string name="social_meadia">Sosyal Medya</string>
+    <string name="info_dest">Şehir seçmek oldukça kolaydır. Planlayıcı size en uygun şehirleri listeler ve her şehir için ayrıntılı bilgi sağlar. Şehirler arasında en uygun olanı seçin ve tatile çıkma hazırlıklarınıza başlayın.</string>
+    <string name="info_planner">Planlayıcı sayfasında, tatil yapmak istediğiniz mevsimi seçin. Sonra tatil türünüzü seçin. Tatil türleri arasında kış sporları, yaz tatili, deniz tatili, tarih turizmi ve daha fazlası yer alır. Planlayıcı, seçiminize göre size en uygun şehirleri gösterecektir.</string>
+    <string name="info_main">Türkiye seyehatiniz hakkında aradığınız herşey GoTürkiye de. Türkiye seyehatiniz için kişisel isteklerinize uygun hazırlanacak tatil planınızı oluşturalım. Planlayıcı, tatil mevsiminizi ve tatil türünüzü seçmenize olanak tanır ve size seçiminize göre en uygun şehri önerir.</string>
+    <string name="planner_head">GoTürkiye Tatil Planlayıcısı</string>
+    <string name="main_head">GoTürkiye\'ye Hoşgeldiniz!</string>
+    <string name="dest_head">Türkiye Destinasyonları</string>
+    <string name="day_one">Birinci Gün</string>
+    <string name="day_two">İkinci Gün</string>
+    <string name="get_a_plan">Tatilini Planla</string>
+
+    <!-- Metinler Başlıyor -->
+    <string-array name="adana">
+        <item>Adana</item>
+        <item>Adana merkezinde gezilip görülebilecek birçok tarihi ve kültürel değer bulunmaktadır; Adana turunuza Seyhan Nehri üzerine M.S.  II. Yüzyılda Roma Mimar “Auxentios” tarafından yapılmış ve, günümüzde halen kullanılan en eski köprülerinden biri olan Taş Köprü ile başlayabilirsiniz. Köprünün hemen yakınında bulunan Kız Lisesi de görülmeye değerdir. Sonrasında Ramazanoğlu Beyliği döneminde 1513 yılında yaptırılan Ulu Camii ve Ramazanoğlu Konağını ziyaret edebilirsiniz. Daha sonra çok yakınlardaki tarihi Tepebağ Evlerini görerek mimari dokuyu fotoğraflayabilir, ayrıca 1881 yılında St. Paul adına yaptırılan bir İtalyan Katolik Kilisesi olan Bebekli Kilise’yi görebilirsiniz. Yine bu civarda bulunan tarihi Büyük Saat Kulesini, Yağ Camii ve Kazancılar Çarşısını gezerek kentin kalbinin attığı yerleri görebilirsiniz. Dilerseniz bu büyülü atmosferdeki tarihi lokantalarda meşhur Adana Kebabı ve Şalgamsuyu eşliğinde yemeğinizi yiyebilir, sonrasında da Adana’nın meşhur tatlıları Karakuş ve Halka tatlısı veya Bici Bici ile damaklarınızı şenlendirebilirsiniz. Yine Adana merkezinde; Türkiye’nin en büyük müze kompleksi olarak tasarlanan Yeni Adana Müzesinde Arkeoloji ve mozaik bölümlerini ziyaret ederek tarihin ayak izlerini takip edebilirsiniz.  Bu tarihi ve kültürel Adana gezisinde biraz da yeşilin kollarında nefes almak isterseniz Adana merkeze yaklaşık 50 km mesafede bulunan Karaisalı ilçesi de hem tarihi yapıları hem doğal güzellikleri ile bölgenin en çok ziyaret edilen yerlerindendir. Yürüyüş tutkunları ve doğa severler için ideal bir rota olan Kapıkaya Kanyonunda yapılan keyifli bir trekking sonrasında tarihi Varda Köprüsünün eşsiz manzarası karşısında kahvenizi yudumlayarak dinlenebilir ve muhteşem fotoğraflar çekebilirsiniz.</item>
+        <item>Adana merkezi dışında da bir çok Antik kent, Kale, Köprü, Kervansaray ve ören yerleri görülebilir. Merkeze yaklaşık 25 km mesafede bulunan Misis beldesinde 4. Yüzyılda Doğu Roma İmparatoru Flavius Julius Constantinos tarafından yaptırıldığı düşünülen Misis Köprüsünü görebilir ve meşhur Sıkma ile Misis Ayranını tadabilirsiniz. Daha sonra Ceyhan ilçesine doğru giderken yolun sağ tarafında sizi karşılayan Yılan Kale’yi ziyaret ederek manzaranın tadını çıkarabilirsiniz. Sonrasında Ceyhan – Kadirliyol ayrımından Kadirli yoluna dönerek Dilekkaya Köyündeki; UNESCO Dünya Mirası Geçici Listesinde bulunan görkemli Anavarza Antik Kentini mutlaka görmelisiniz. Kozan ilçesinde bulunan Kozan Kalesinde menengiç kahvenizi muhteşem manzara eşliğinde yudumlayarak dinlenebilirsiniz. Günün devamında Ceyhan ilçesinden geçerek Bölgenin en önemli liman kentlerinden biri olan Yumurtalık ilçesine varınca; Liman içerisinde bulunan Kale, Marco Polo İskelesi ve Deniz Kalesini, ilçenin hemen batısındaki Süleyman Kulesi ve Ceyhan yolu üzerindeki Kurtkulağı Kervansarayını da ziyaret edebilirsiniz. Daha sonra Merkeze yaklaşık 45 km mesafede bulunan Karataş ilçesinde Roma ve Bizans dönemlerinde önemli bir yerleşim yeri olan Magarsus Antik Kenti ve Tiyatrosu görülebilir. Ayrıca ilçe merkezinin batısında bulunan ve Çukurova’nın en büyük Lagünü olan Akyatan Kuş Cenneti de doğal güzellikleri ile ilgi çekmektedir. Hem Yumurtalık hem de Karataş deniz turizmi açısından büyük potansiyele sahip olup; taze deniz ürünleri açısından da oldukça zengin olduğu için ziyaretçilerine eşsiz lezzetler sunmaktadır. Eğer Adana için daha fazla vakit ayırabilirseniz aşağıda kısaca bahsettiğimiz bu eşsiz yerleri de görmenizi tavsiye ederiz:
+Pozantı ilçesinin yaylalarında yeşilin her tonunu görebilir, ciğerlerinizi oksijenle doldurabilir, özellikle sonbaharda Belemedik Yaylasındaki renk cümbüşüne tanıklık edebilirsiniz.
+Aladağ Milli Parkı içerisinde bulunan yaylalar, ormanlar, yabani hayvanlar doğal hayatın en iyi korunduğu ve bu yüzden doğa ve kamp tutkunlarının en sevdiği bölgelerdendir. Son zamanlarda özellikle yaz aylarında en çok rağbet gören noktalardan biri de Küp Şelaleleridir.
+Saimbeyli ilçesinde bulunan Obruk Şelalesi de bölgenin doğal güzelliklerinden olup birçok ziyaretçi çekmektedir. Bu bölgeye özgü olan Mavi Kelebek türünü görebilir ve eğer mevsiminde geldiyseniz meşhur Saimbeyli Kirazını da mutlaka tatmalısınız. Sonrasında da Tufanbeyli ilçesindeki Hitit, Romave Bizans dönemi izleri taşıyan Şar Antik Kentini ziyaret edebilirsiniz.</item>
+    </string-array>
+
+
+
+    <string-array name="antalya">
+        <item>Antalya</item>
+        <item>Güne bol yeşillikli ve bol peynir çeşitli bir kahvaltıya başlayın. Zira biraz yorulabilirsiniz. İlk durak Kaleiçi olsun. Hadrian Kapısı’ndan Kaleiçi’ne girin ve girdiğiniz istikamette, Kaleiçi’nin dar sokaklarını ve özgün mimarisini inceleyerek ilerleyin. İstikamet Yat Limanı. Bir tekneye atlayın, serin bir içecek alın ve falezleri seyredin. Tekne, Aşağı Düden Şelalesi’ne geldiğinde fotoğraf çekmeyi ihmal etmeyin. Tekne turu bitince öğle yemeği zamanı da gelmiş olacak. Kaleiçi’ndeki sevimli restoranlardan birini seçebilirsiniz.
+
+Öğle yemeği sonrasındaki durak Perge Antik Kenti olabilir. Perge, oldukça geniş bir alan üzerine kurulu ve onlarca tarihi esere ev sahipliği yapıyor. Yani Perge’yi gezmek biraz vaktinizi alacak. Ve eğer hava sıcaksa, sonrasında serinlemeye ihtiyacınız olacak. Ancak Antalya’da serinlemek için onlarca seçenek var. Bunlardan birisi, Perge’ye yakın sayılabilecek Lara Plajı. Akşamüstünü Lara’nın altın rengi kumsallarında geçirin, yorgunluğunuzdan arının. Akşam yemeği için bir deniz ürünleri lokantası tercih edebilirsiniz. Zira Antalya’daki deniz ürünü restoranları, size lezzetli ve tuz içinde pişmiş Lagos Balığı sunabilir. Lagos’u tatmadan Antalya’dan ayrılmayın.</item>
+        <item>İkinci güne erken başlayın. Zira Kemer’deki Tahtalı Dağı’nın zirvesine çıkan teleferiğe gün doğumundan önce binebilir ve günü 2,365 metre rakımlı Tahtalı Dağı’nın heybetli zirvesinde karşılayabilirsiniz. Hiç şüpheniz olmasın, bu deneyim ömür boyu aklınızda kalacak ve hatıra olarak size eşlik edecek. Yani çok erken uyandığınıza değecek. Tekrar deniz seviyesine indikten sonra, Olympos Antik Kenti pek uzakta olmayacak. Antik kent yolunda köy kahvaltısı yapabileceğiniz sevimli mekanlar var. Onları değerlendirebilirsiniz. Sonrasında kente giriş yapın, denize doğru, antik kenti keşfederek ilerleyin. Eğer yorulursanız, yolunuzun sonunda eşsiz bir kumsal sizi bekliyor olacak.
+
+Öğle yemeği için, Olympos’un yakınlarındaki Çıralı’da butik restoranlara gidebilirsiniz. Her biri size kendine has, lezzetli seçenekler sunacak. Sonrasında ise biraz daha batıya doğru ilerleyebilirsiniz. İstikamet, Antalya’nın sakin ve şirin ilçesi Kaş. Kaş’a gelmişken tabii ki bir tekne turuna katılmalısınız. Limandan bir tekne seçin, ona atlayın ve turkuaz denizin en berrak olduğu koyu bulmaya çalışın. Ve sakın Kekova Adası’nın kuzey kıyılarına gitmeyi ihmal etmeyin. Zira denizin birkaç metre dibinde olmasına rağmen çıplak gözle görülebilen antik eserler, sizi büyüleyecek. Kekova Adası’nın çok yakınlarında yüzmek, o antik zenginliği korumak için mümkün değil, ancak çok yakınlarda çok sayıda sakin koy göreceksiniz. Onlardan birini seçin ve Akdeniz’de serinleyin. Limana döndüğünüzde muhtemelen akşam yemeği vakti gelmiş olacak. Kaş’ın şirin sokaklarındaki butik restoranlardan, sevdiğiniz müziği çalan birini seçin. Güzel müzik eşliğinde, ılık bir havada, sakin bir Kaş akşamının tadını çıkarın!
+</item>
+    </string-array>
+
+
+    <string-array name="adiyaman">
+        <item>Adıyaman</item>
+        <item>Adıyaman’da hızlı bir gezinti yapmak isterseniz, şehrin yakınlarında Kahta’nın 40 km kuzeyinde, 2206m yükseklikte bulunan antik tanrı heykellerinin bulunduğu Nemrut’a yönelin; parlak renklerde dokunmuş Pişinik ve Alikan denilen kaliteli kilimlerin ve minyatür Nemrut heykellerinin uygun fiyatlara satıldığı tarihi Oturakçı Çarşısı’nı ziyaret edin ve dünyaca ünlü Çiğ Köfte, Kavurmalı Hıtap, Cevizli Sucuk, Şambayat’da kuzu eti Adıyaman Tut Dutu ve Dut Pekmezinin tadına bakın.</item> </string-array>
+
+
+
+    <string-array name="afyonkarahisar">
+        <item>Afyonkarahisar</item>
+        <item>Afyonkarahisar’ın yöresel lezzetlerinden oluşan bir kahvaltı ile güne başlayıp enerji depolayın.</item>
+
+        Kahvaltıda bal, kaymak, sucuk, pastırma, mercimekli bükme ve haşhaşlı katmerin tadına bakın. Zafer Meydanı’ndan Uzun Çarşı’ya keyifli yürüyüşle Keçeciler Çarşısı’nda ve Bedesten Çarşısı’nda şehir merkezini ve geleneksel ürünleri görün. Tarihi Taşhan’da bir çay molası verin. Yöresel el sanatları ürünlerinden alabilirsiniz. Millet Hamamı’nı, Ulu Cami’ni ve Afyonkarahisar’ın tarihi evlerinden Kültür ve Sanat Evini ziyaret edin. Sultan Divani Mevlevihane’sinde mistik bir gezi yapın. Son Osmanlı Dönemi sivil mimarinin en güzel örnekleri olan tarihi konakları keşfedin. İnişli çıkışlı sokakların sonunda Afyonkarahisar’ın simgelerinden olan Karahisar Kalesi’ne, kayaya oyulmuş merdivenlerle çıkarak muhteşem manzaranın tadını çıkarın. Zorlu tırmanıştan sonra şehir merkezine dönerek Afyonkarahisar’ın yöresel lezzetlerinin tadına bakın. Öğle yemeğinde Afyon Kavurma, dana tandır, patlıcan musakka, Afyon Kebabı, bütüm et, kuzu tandır, göce köhtüsü, ilibada sarması, düğülü yaprak sarması, çullama köftesinden oluşan ana yemeklerin ya da sucuk dönerden sonra üzerine meşhur kaymaklı ekmek kadayıfını tatmayı unutmayın. Afyonkarahisar Arkeoloji Müzesi ve Zafer Müzesi’ni ziyaret ederek şehrin tarihine ve kültürüne tanıklık edin. Çeşmeli Konak’ta etnografik eserleri inceleyin. Afyonkarahisar İsmail Kumartaşlı Yumurta ve Sanatları Merkezi ile Alimoğlu Müzik Merkezi’ni mutlaka ziyaret edin. Milli Mücadele’de şehit düşen kahramanların şehitliklerini, anıtları ve İstiklal Tanıtım Merkezi’ni, ziyaret ederek zafer şehri olarak anılan Afyonkarahisar’ı daha yakından hissedin. Yorucu bir günün ardından akşam yemeğinde Afyonkarahisar’ın yöresel yemeklerinin tadına bakın. Otelinizde veya size en yakın bir termal merkezde günün yorgunluğunu üzerinizden atın ve ertesi güne hazırlanın.
+        <item>İlk gün şehir merkezinde önemli yerleri ziyaretin ardından güne erken başlayarak yine Afyonkarahisar’ın yöresel kahvaltıları ile enerji depolayın. Bugün Frig’lerin yerleşim merkezleri olan, döneme ait çok sayıda antik kalıntıların yer aldığı Frigya Afyon’u keşfetmek için yola çıkın. Keşfe Seydiler’de volkanik kaya parçalarının zamanla aşınması sonucu oluşan peri bacaları ile başlayabilirsiniz. Daha sonra Frig ve Bizans döneminde kullanılan Kırkinler Ören Yerini, Selimiye Mezar Odalarını, Frigler’den beri yerleşim yeri olarak bilinen, Roma ve Bizans döneminde Metropolis adını alarak dini bir merkez haline gelen Ayazini Antik Kenti’ni, Ayazini Oyma Kilisesi’ni ve Avdalaz Kalesi’ni ziyaret ederek tarihte yolculuk yapın. Ayazini Antik Kenti’nde restore edilen son dönem mimarisini yansıtan tarihi evleri gezerek Türk misafirperverliğini yaşatan cana yakın Ayazini köylülerinin misafirperverliğini hissedin. Ayazhan’da ya da Ayazini halkının hazırlayıp sundukları yerel yemeklerden yiyebilir, el sanatlarından satın alabilirsiniz. Tarihteki yolculuğunuza ziyaret ettiğiniz bölgelerde yöresel yemeklerden Siyez buğdaylı Kaz etini de tadarak kısa bir ara verin. Emre Gölü çevresinde oluşturulan rekreasyon alanında, keyifli bir zaman geçirin, Frig Kayığı’na binerek farklı bir deneyim yaşayın. Daha sonra kutsal olarak kabul edilen Köhnüş Vadisi içerisinde Aslantaş, Yılantaş ve Maltaş açık hava tapınakları ile vadi boyunca kayalara oyularak yapılan onlarca Frig Kaya Mezarları ve Anıtlarını, Demirli Kalesi’ni, Aslankaya Anıtı’nı, Memeç Kayalıklarını keşfedin. Zamanınız kalırsa flamingoların göç yolları üzerindeki Emre Gölü’nde Frig Kayığı (Kral Midas’ın Kayığı) ile gölde gezinti yapın ve bölgede daha birçok tarih kokan doğal güzellikleri yakından görün. Gölün kıyısında muhteşem gün batımını izleyin. Akşam yemeği masanızı yöresel bir Afyonkarahisar mutfağı ile donattıktan sonra termal suları ile yorgunluğunuzu üzerinizden atın.</item>
+    </string-array>
+
+
+
+    <string-array name="aksaray">
+        <item>Aksaray</item>
+        <item>Aksaray’da ilk gün yöresel bir kahvaltının ardından ilk olarak şehir merkezinde Aksaray Müzesi’ni ziyaret edebilirsiniz. Müzenin ardından Somuncu Baba Türbesi ve Külliyesi’ne gidebilir, mezarın bulunduğu, yedi binden fazla âlimin yattığı dünyadaki en büyük kabristanlardan biri olan Ervah Kabristanı’nı da görebilirsiniz. Ardından sırasıyla Eğri Minare, Ulu Camii, Paşa Hamamı ve Zinciriye Medresesi’ni gezebilir ve devam etmeden kısa bir çay ya da kahve molası verebilirsiniz. Molanızın ardından yaklaşık yarım saat mesafede olan Aziz Mercurius Antik Yeraltı şehrini görmek için yola çıkabilir, yol güzergâhında bulunan Ağzıkarahan Kervansarayı’nı ziyaret edebilirsiniz. Aziz Mercurius Antik Yeraltı şehrini ziyaret ettikten sonra İç Anadolu’nun ilk köy yerleşimi olan Aşıklı Höyük’e doğru devam edebilirsiniz. Şehre dönünce çarşıda kendinize bir anı kalması için Taşpınar Halısı alabilirsiniz.
+</item>
+        <item>Aksaray’da ikinci gününüzü şehirden biraz daha uzaklaşarak ve tarihle iç içe geçirebilirsiniz. Kahvaltınızın ardından tarih yolculuğunun ilk durağı olarak arabayla yaklaşık 40 dakika mesafedeki Kapadokya’nın en büyük katedrali olan Selime Katedrali’ne gidebilirsiniz. Selime Katedrali’nin ardından Ihlara Vadisi’ne geçebilir, sizi bekleyen Sümbüllü, Yılanlı, Kokar, Ağaçaltı, Pürenliseki, Eğritaş, Kırkdamaltı gibi tüm kiliseleri görmelisiniz. Ihlara Vadisi Melendiz Çayı üzerindeki çardaklarda yürüyüş sonrası yemeğinizi yiyip, çaylarınızı yudumlayabilirsiniz. Burada birbirinden büyüleyici tarihi kiliseleri keşfedip maceranıza Güzelyurt Manastır Vadisi’ne devam edebilirsiniz. Tarih yolculuğu sonrası biraz doğayla iç içe kalmak için İç Anadolu’nun en yüksek ikinci dağı olan Hasan Dağı’na giderek Helvadere kasabasındaki tesislerde güzel bir yemeğin ardından biraz yürüyüş yapabilir, Nora Antik Kenti’ni de gördükten sonra dönüş yoluna geçebilirsiniz.</item>
+    </string-array>
+
+
+    <string-array name="amasya">
+        <item>Amasya</item>
+        <item>Amasya’nın yöresel lezzetlerinden Amasya çöreği ve semaver çay eşliğinde kahvaltı yaparak güne başlayabilirsiniz. İlk gününüze Şehzadelikleri Amasya’da geçmiş olan Osmanlı Sultanlarının heykelleri ve kendi dönemlerini yansıtan kıyafetlerini görebileceğiniz Şehzadeler Müzesi ile başlayabilirsiniz. Ardından 2015 yılında UNESCO “Dünya Mirası Geçici Listesi”ne kabul edilen doğal ve kültürel alan olan Harşena Dağı ve Pontus Kral Kaya Mezarları’nı görmenizi tavsiye ederiz. Sonrasında Aynalı Mağara’ya gidip kaya mezarlarının en iyi işlenmiş ve tamamlanmış örneklerini görebilirsiniz. Buradan sonra Amasya Kalesi’ne devam edebilir ve ardından, 1872 yılında inşa edilen ve Osmanlı döneminin en zarif sivil mimari örneklerinden olan Hazeranlar Konağı’nı ziyaret edebilirsiniz. Konağı keşfettikten sonra öğle yemeğinde, toyga çorbası, baklalı dolma, patlıcan pehli, keşkek ve tırtıl baklava yiyebilir, sonrasında gezinize devam edebilirsiniz.
+
+Sultan II. Bayezid adına, 1485 yılında cami, medrese, imaret, türbe, şadırvan ve çeşmeden oluşacak şekilde yaptırılan Sultan II. Bayezid Külliyesi,’ni görebilir ve ardından sırasıyla Minyatür Amasya Maket Müzesi ve Amasya Müzesi’ni ziyaret edebilirsiniz.  Günü Çakallar mevkiinde muhteşem Amasya manzarası eşliğinde leziz bir akşam yemeği ile bitirebilirsiniz.
+</item>
+        <item>İkinci güne haşhaşlı Amasya yağlısı ve semaver çay eşliğinde bir sabah kahvaltısı ile başlayıp hemen ardından Türkiye’nin ilk ve tek Aşıklar Müzesi unvanına sahip Ferhat ile Şirin Aşıklar Müzesi’ne gidebilirsiniz. Müzeyi gezdikten sonra Merzifon’a hareket edebilirsiniz.
+
+Merzifon’da kış işlemeleri ve bezemeleri ile dikkat çeken Abide Hatun Cami, Kara Mustafa Paşa Cami ve Bedesten’i ziyaret edebilirsiniz.
+
+Topuz kebabı ve coğrafi tescilli Merzifon keşkeği’nden oluşan öğle yemeğinin ardından Mehmet Çelebi Medresesi ve Cami’yi ziyaret edebilirsiniz.
+
+Ardından Gümüşhacıköy Bedesten, Yörgüç Rüstem Paşa Cami ve en son 19. yüzyılın ortalarında inşa edilmiş bir kilise olan tavanında, Hz. İsa ve dört havarisi Matta, Markos, Luka ve Yuhanna’ya ait freskleri bulunan ve günümüzde cami olarak hizmet veren Gümüş Maden Cami gezisinin ardından günü lezzetli bir akşam yemeğiyle bitirebilirsiniz.
+</item>
+    </string-array>
+
+
+
+    <string-array name="ankara">
+        <item>Ankara</item>
+        <item>Yolculuğunuza şehrin merkezinden başlamaya ne dersiniz? Türkiye Cumhuriyeti’nin kurucusu Mustafa Kemal Atatürk’ün Anıtkabir olarak adlandırılan mozolesi şehir merkezindedir ve burası Ankara’yı gezmeye başlamak için ideal bir yerdir. Anıtkabir modern mimarinin ihtişamını yansıtır. Anıtkabir bünyesindeki Atatürk ve Kurtuluş Savaşı Müzesi, ziyaretçilere bir milletin nasıl doğduğuna tanıklık etme şansı veriyor.
+
+CerModern Sanat Galerisi bir sonraki durağınız olabilir! Bir sosyal eğitim projesi olarak CerModern, kapsayıcı bir sanat deneyimi sunmayı ve sürekli projeler üretilmesini amaçlayarak bir kültür ve eğitim merkezi haline gelmiştir.
+
+Öğleden sonra için iyi bir önerimiz var: Hamamönü. Ulus ve Sıhhiye semtleri arasında yer alan ve titiz bir şehir planlamasının ardından yenilenen Hamamönü, 2011 Avrupa Mükemmeliyet Merkezi ödülüne layık görüldü. Tarihi Ankara evleri, otantik sokakları, tüm yıl boyunca düzenlenen kültürel ve sanatsal etkinlikleri, sokak köşelerinde sergilenen el yapımı ürünleri, sanat sokağı, açık hava sineması, her zevke ve bütçeye uygun yenilikler vaat eden alışveriş mağazaları Hamamönü’nün gezi noktaları arasında yer alıyor.
+</item>
+        <item>İkinci güne Ankara’nın Ulus semtiyle başlayalım.
+
+Hacı Bayram-ı Veli Cami, çeşitli toplulukların hoşgörü ve barış içinde bir arada yaşamının sembolü olan Augustus Tapınağı’nın duvarlarına yaslanmıştır.
+
+Ardından, Ulus’ta kalarak Kurtuluş Savaşı Müzesi’ni (Birinci Meclis Binası) görebilirsiniz. Türk Kurtuluş Savaşı sırasında kullanılan eski TBMM binası (şimdiki adıyla Kurtuluş Savaşı Müzesi).
+
+Lezzetli bir yemek ve biraz alışveriş için Ankara’nın alışveriş merkezlerini ziyaret etmeniz mümkün. Ankara bir alışverişkolik cennetidir. Genellikle en üst katın restoranlar, kafeler ve sinema salonlarına ayrıldığı görkemli alışveriş merkezleri binlerce yerli ve uluslararası markaya ev sahipliği yapıyor. 10:00-22:00 saatleri arasında açıktır.
+</item>
+    </string-array>
+
+
+
+    <string-array name="ardahan">
+        <item>Ardahan</item>
+        <item>Kahvaltıya Feselli, Ardahan Çiçek Balı ve Ardahan Kaşar Peyniri gibi Ardahan’a özgü yerel lezzetler ile başladıktan sonra, birçok kuş türüne ev sahipliği yapan Putka Gölü’ne giderek Ardahan gezisine başlayın.
+
+Sonrasında merkeze dönerek 16. yüzyılda Kanuni Sultan Süleyman’ın emriyle inşa edilen Ardahan Kalesi’ni görün.
+
+1701 yılında inşa edilen Ardahan Merkez Mevlit Efendi Cami’ni, 19. Yüzyılda inşa edilen Hamşioğlu Rasim Bey Konağı ve Dursun Soylu Konak’ı ziyaret ederek tarihe tanıklık etmeyi unutmayın.
+</item>
+        <item>Bölgedeki en eski kitabe olduğu düşünülen ve Urartu Krallarından II. Sarduri\'ye ait olduğu ifade edilen kitabeleri görmek için Taşköprü köyüne doğru yola çıkın.
+
+Ziyaretçilere 4 mevsim farklı manzaralar sunan Çıldır Gölü’nde balık tutun, manzara fotoğrafları çekin ve doğa ile baş başa vakit geçirin.
+
+Çıldır Gölü üzerinde bulunan adacıklardan en önemlisi olan Akçakale’yi ziyaret ederek 10.000 yıllık tarihe sahip olduğu düşünülen Ada Şehri Kalıntıları’nı görün.
+
+Aktaş Gölü’nün kenarında yer alan Kenarbel Köyü’nde biraz dinlendikten sonra doğal güzelliği ve manzarası ile ünlü Aktaş Gölü’nde vakit geçirerek günü tamamlayın.</item>
+    </string-array>
+
+
+    <string-array name="artvin">
+        <item>Artvin</item>
+        <item>İlk gününüzde Arhavi’nin yöresel lezzetlerinden muhlama, tereyağı ve karakovan balı ile kahvaltı yaparak güne başlayabilirsiniz. Daha sonra Olimbera Köy Evi’nde eşsiz manzara eşliğinde çay içerek, doğanın tadını çıkarabilirsiniz. Oçambre\'de doğal aquaparkta yüzdükten sonra, Kamilet Vadisi’nde Çifte Köprülerin üzerinde fotoğraf çekildikten sonra, Dikyamaç Köyü Yaşam Tarzı Müzesi’ni ziyaret edip etnografik eserlerin incelenmesinden sonra Mençuna Şelalesi’nin muhteşem görüntüsü eşliğinde kendinizi suyun sesine kaptırabilirsiniz.
+
+Hopa’da Hopa Müzesi’ni gezdikten sonra, yağlı denilen pideyi ayran eşliğinde yiyebilirsiniz. Sugören Köyü’nde Kazım Koyuncu Anıt Mezarı’na gidebilirsiniz.
+
+İremit’in tarihi ahşap camisini ziyaret ettikten sonra Borçka Karagöl\'de sandal gezintisine çıkabilirsiniz. Murgul Delikli Kaya Şelalesi’ni ziyaret ederek doğal yollarla oluşmuş kayanın içinden akan suyu fotoğraflayabilirsiniz. Daha sonra Borçka Barajı üzerinde bulunan tekne ile Artvin Marina’da zipline ya da salıncak deneyimi yaşadıktan sonra Artvin Merkeze gelerek burada Artvin Kültür Evi’ne giderek yöresel yemekler yiyebilirsiniz.</item>
+        <item>İkinci gününüzde, Kafkasor Mesire Alanı’nda güne güzel bir kahvaltı ile başlayabilirsiniz. Daha sonra yankı tepesine çıkarak bölgenin eşsiz manzarasını seyredebilirsiniz.
+
+Hatila Milli Parkı’nı ziyaret ederek cam seyir terasında adrenalin dolu dakikalar geçirebilirsiniz.
+
+Dünyanın en büyük Atatürk Heykeli’nin ziyaret ederek Artvin manzarasını seyredebilirsiniz.
+
+Deriner Barajı seyir noktasında çay içebilirsiniz. Daha sonra Ardanuç’ta meşhur Ardanuç Cağ Kebabı yiyebilirsiniz. Tarihi Adakale Sit Alanı’nı ve Cehennem Deresi Kanyonu’nu ziyaret edebilirsiniz. Yeni Rabat Kilisesi’ni ziyaret edebilirsiniz.
+
+Şavşat Karagöl’e varmadan Tibeti Kilisesi’ni ziyaret edebilirsiniz. Şavşat Karagöl’ün eşsiz doğası eşliğinde göl çevresinde yürüyüş yapabilirsiniz. Daha sonra bölgede alabalık yiyebilirsiniz.</item>
+    </string-array>
+
+
+    <string-array name="aydin">
+        <item>Aydın</item>
+        <item>Muhteşem güzellikteki masmavi denizi, mavi bayraklı plajları, eşsiz koylarıyla keyifli deniz tatili sunan Aydın’da Kuşadası ve Didim başta olmak üzere birçok noktada denizin ve güneşin tadını çıkarabilirsiniz. En güzel plajların civarındaki yüksek kalitede hizmet veren ve farklı zevklere hitap eden birçok turistik tesiste konaklamak mümkün. Şehir merkezindeki mekanlarda sabah kahvaltısı yapabilir ve ardından geleneksel Türk kahvesi ya da çayı içebilirsiniz. Şehir merkezinden rahatlıkla ulaşabileceğiniz Kadınlar Denizi, Güzelçamlı, Pigale, Güvercinadası plajları ile Altınkum, Akbük ve Tavşanburnu plajları tertemiz sularıyla serin suların keyfine varabileceğiniz başlıca plajlardır.
+
+Kuşadası’na adını veren ve Güvercinada Kalesi’nin bulunduğu ve yüksek surlarla çevrili Güvercinadası uğrayacağınız ilk noktalardan biri olmalı. Burada şehrin manzarasının tadını çıkarabilir, keyif molası verebilir ve güzel kareler yakalayabilirsiniz.
+
+Koruma altına alınan ve bir doğa harikası olan Dilek Yarımadası Büyük Menderes Deltası Milli Parkı olmadan bir Aydın seyahati düşünülemez. Yemyeşil doğanın ve berrak suların tadını çıkarmak, zengin bitki çeşitliliği ve göçmen kuş türlerini gözlemlemek için eşsiz bir fırsattır. Milli park içinde farklı sportif aktivitelere katılabilir ya da Seyir Terası’ndan izlemeye doyulmaz manzaranın tadını çıkararak huzur dolu zaman geçirebilirsiniz.
+
+Milli Park giriş oldukça yakın mesafede bulunan ve sularında Zeus’un yıkandığı rivayet edilen doğa harikası Zeus Mağarası’nı ziyaret etmeden geçmeyin.
+
+Kuşadası ve Didim’de su altı dalışı ile keşfe çıkabilir, su üstü sporlarıyla adrenalin dolu bir gün geçirebilirsiniz. Limandan kalkan tekne turlarına katılarak koylara yolculuk yapabilir ve mavi suların üstünde dinginliğin keyfine varabilirsiniz. Körfezin mavi sularında yüzerken bir uçakla karşılarsanız sakın şaşırmayın. Dünyanın en büyük uçak batığına dalma şansına sahip olmak istiyorsanız sizleri Kuşadası’na bekliyoruz.
+
+Döneminin önemli kehanet merkezi olan Didyma’yı ve ünlü mabedi Apollon Tapınağı’nın kalıntılarını mutlaka görmek gerekir.
+
+Kuşadası Marina, Kuşadası Limanı ve Didim Marina’da yatların ve teknelerin mavi sularda süzülüşünü, gün batımında muhteşem manzarasını izleyebilirsiniz.
+
+Aydın’ın renkli ve hareketli gece hayatında eğlence imkanlarından yararlanabilir, Kuşadası Barlar Sokağı’nda müzik dolu bir akşam geçirebilirsiniz. Ayrıca Kuşadası farklı alışveriş olanakları ile ziyaretçilere geniş bir ürün yelpazesi sunar. Merkezdeki şık mağazalardan deri ürünler, mücevherat, geleneksel halı ve kilim, dekoratif objeler satın alabilirsiniz.
+
+Önemli Karia kentlerinden birbirine oldukça yakın olan Alinda ve Alabanda Antik Kentleri’nin kalıntıları arasında gezerken bölgenin zengin tarihini öğrenebilirsiniz. “Üç Gözler” olarak bilinen Gymnasium’u ile ilgi çeken Trailles Antik Kenti gezisini de bu rotanıza ekleyebilirsiniz.
+
+Ege Bölgesi’nin en büyük gölü ve farklı kuş türlerini barındıran kuş gözlem alanı olan Bafa Gölü’nü mutlaka görmelisiniz. Çevresindeki tarihi güzellikler ile birlikte doğa ve tarihin muhteşem buluşmasına tanık olabiliriniz. İlginç kaya oluşumları, kaya resimleri, manastırları, freskleri ile benzersiz bir yer olan Latmos Kayalıkları’nda keşfe çıkabilirsiniz. Yediler Manastırı’nın bulunduğu noktada şehrin muhteşem manzarasının tadını çıkarabilirsiniz.
+
+Aydın’ın yöresel lezzetlerinden Paşa Böreği, Pide, Keşkek gibi ana yemekleri ve Kedirgen Kavurması, Arapsaçı, Ebegümeci gibi zeytinyağlı ot yemekleri yerel işletmelerde tadılabilir.
+
+Aydın’a özgü bir lezzet olan ve kar kuyularında saklanan kar ve meyve şurubu ile hazırlanan Kar Helvası sıcak havalarda serinlik hissetmenizi sağlayacak. Şehrin özel tatlılarından Kabak Tatlısını mutlaka denemelisiniz.
+
+Verimli topraklarda yetişen, taze ve kuru tüketilebilen tescilli ürün Aydın incirini farklı sunumlarıyla yerel köylü pazarlarından ve mağazalardan alabilirsiniz. Sağlığın simgesi zeytinin farklı çeşitlerini bulabileceğiz Aydın’da yerel üreticilerden ve merkezdeki işletmelerden alabilmeniz mümkündür.</item>
+
+        <item>Eski bir Rum köyü olan, restore edilmiş eski taş evleri ve sokakları ile ünlü şirin bir köy olan Eski Doğanbey Köyü’nü ziyaret edebilir, sakin ve sade yaşamın hüküm sürdüğü yerel kültürü deneyimleyebilirsiniz. Burada denize ve Yunan adalarına karşı kahvaltı keyfi yapabilirsiniz.
+
+Yunan matematikçi Thales’in doğduğu şehir Milet Antik Kenti’ni ziyaret edebilir, Milet Müzesi’ndeki eserleri gezebilirsiniz.
+
+Balat Köyü’nde bulunan ve restorasyon projesiyle ödül alan İlyas Bey Külliyesi, Kuşadası merkezde bulunan Öküz Mehmet Paşa Kervansarayı, Barok tarzı mimarisiyle Cihanoğlu Cami, geniş çaplı kubbesiyle Eski Çine Ahmet Gazi Cami seyahatiniz sırasında ziyaret edilebilecek diğer kültürel yapılar arasında yerini alır.
+
+Dünya Miras Listesi’nde bulunan, Aşk ve güzellik tanrıçası Aphrodite’e adanmış Aphrodisias Antik Kentinin muhteşem kalıntılarını gezebilir, Afrodisias Müzesi’ndeki değerli eserleri ziyaret edebilirsiniz.
+
+Karacasu’ya gelmişken ünü ülke dışına yayılan Karacasu Çömlekleri’nin yapım sürecini seramik atölyelerinde deneyimleyebilirsiniz. Kullanım ve süs amaçlı birçok seramik ürünü çarşıdan satın alınabilir.  Geçmişten günümüze seramik, sıcak demir, deri ve diğer el sanatlarına ait eserlerin sergilendiği Karacasu Etnografya Müzesi’ni ziyaret edebilirsiniz.
+
+Yemyeşil doğası ve tertemiz havasıyla Bozdoğan’daki Madran Yaylası’na veya merkeze daha yakın Efeler’deki Paşa Yaylasına çıkarak doğa yürüyüşleri yapabilir, sakin ve huzurlu ortamda keyif molası verebilirsiniz.
+
+Türkiye’nin üç önemli şehri Muğla, Aydın ve Denizli’nin kesişiminde bulunan, Akçay’ın sularıyla hayat bulan ve nefis doğa manzaraları sunan Arapapıştı Kanyonu’nu mutlaka ziyaret etmelisiniz. Nehrin kıvrımlı yollarında tekne turuna katılabilir ya da Körteke Kalesi ve antik kalıntıları da görebileceğiniz dağ yürüyüşü yapabilirsiniz.
+
+Cittaslow ağına dahil edilen şehirlerden Yenipazar ilçesini ziyaret edebilir, yerel halkın sıcak selamlamasıyla şehrin gürültüsünden uzak vakit geçirebilirsiniz. Yörük Ali Efe Müzesi’ni, ilçenin ilk yerleşimi olan Orthosia Antik Kenti ve Dipsiz Gölü de ziyaret edebilirsiniz.
+
+Kaplıca olanaklarından yararlanarak günün yorgunluğunu atabilir ve termal sularda şifa bulabilirsiniz. Buharkent Termal Turizm bölgesinde ve Germencik ilçesinde bulunan Alangüllü Kaplıcaları’nda ya da Kuşadası’ndaki Davutlar Kaplıcaları’nda zengin minarelli sularda dinlenmek bedeninize ve ruhunuza iyi gelecektir.
+
+Aydın seyahatiniz boyunca şehrin simgesi olan Efeler’in kahramanlık hikayelerini dinlemeyi, Efelerin asaletinin dansa bürünmüş hali Zeybek oyununu izlemeyi ve iğne oyası gibi geleneksel el ürünlerinden almayı ihmal etmeyin.
+</item>
+    </string-array>
+
+
+    <string-array name="agri">
+        <item>Ağrı</item>
+        <item> Gezinize, havalimanına indikten sonra Ağrı’nın şehir merkezini keşfetmekle başlayabilirsiniz. Cumhuriyet Caddesi’nde gezinti yapılıp, Ağrı insanı ve kentini tanıma fırsatı değerlendirilebilir. Öğle yemeği için Ağrı’nın meşhur dönerini tatmalısınız. Kentten ayrılmadan propolis oranının yüksekliğiyle bilinen Ağrı Balı’nı, ister kendinize ister sevdiklerinize hediyelik olarak alabililirsiniz. Ağrı kent merkezinde Ulu Cami manzaralı fotoğraflar çekmeyi ihmal etmeyin. Şehir merkezine 22 km mesafedeki Hamur Kümbeti de görülmesi gereken bir tarihî eserdir.
+
+Öğleden sonra Doğubayazıt yolu üzerinde bulunan Diyadin ilçesine geçin. Burada Diyadin Kanyonu ve Meya Mağaraları’nı mutlaka ziyaret edin. Konaklama, dinlenme ve ertesi günkü Ağrı Dağı ve Doğubayazıt turuna enerji toplamak için en uygun yer, son derece modern tesislerin de bulunduğu Diyadin Kaplıcaları olacak.
+</item>
+        <item> Sabah kahvaltısı sonrasında erkenden Doğubayazıt ilçesine geçin. Yolculuğumuzun ilk durağı, Telçeker Köyü yakınlarında bulunan Nuh’un Gemisinin İzi olsun. Buradan Ağrı Dağı ve Küçük Ağrı Dağı’nın fotoğraflarını çekebilirsiniz. Bu arada yalnızca iki km mesafede yer alan Gürbulak Sınır Kapısı’ndaki freeshoplardan alışveriş yapma fırsatını kaçırmamalısınız. Aynı mevkideki Meteor Çukuru ise yine mutlaka görülmesi gereken yerlerden biri.
+
+Öğle yemeği için İshak Paşa Sarayı’nın karşısındaki eşsiz manzaralı kafelerde ızgara tercih edilebilir. Yemek sonrasında İshak Paşa Sarayı, Ahmed-i Hani Türbesi, Urartu Kalesi, yemekten sonra sizleri bekliyor olacak. İshak Paşa Sarayı yolu üzerinde bulunan halı ve kilim tezgâhlarına uğrayın. Doğubayazıt’ta akşam yemeği için en uygun tercih ise tabii ki Abdigor köftesi olacak!
+</item>
+    </string-array>
+
+
+    <string-array name="balikesir">
+        <item>Balıkesir</item>
+        <item>Balıkesir\'in tarihi yerleri kentin Osmanlı dönemindeki önemini yansıtmaktadır. Orta Çağ\'dan kalma önemli ve çarpıcı bir şekilde iyi korunmuş camilerden biri de, merkezde yer alan ve 1461 yılında inşa edilen Zağnos Paşa Cami\'dir.Buradan yola çıkarak, \'balık salatası\' tatmak veya sularda bir dalış yapmak için yakındaki adalara tekne gezisi yapabilirsiniz. Balıkesir\'de lezzetli deniz ürünleri sunan restoranlar da bulunuyor.
+
+Balıkesir\'de birçok günübirlik geziye çıkabilirsiniz. Gidebileceğiniz yerlerden biri de zeytinlikleri takip ederek ulaşıldığı için "Zeytin Rivierası" olarak bilinen Ayvalık\'tır. Ayvalık\'ın 25 güzel küçük adaya bakan ince kumlu plajları vardır. Muhteşem mimarisi ve mermer işçiliği ile Taksiyarkis Kilisesi\'ni hayranlıkla izleyip dünyanın en mükemmel gün batımlarından birine tanıklık etmek için "Şeytan Sofrası"nı ziyaret edebilirsiniz. Ayvalık\'ın en işlek bölgesi, balıkçı tekneleri ve gezi tekneleriyle dolu limanıdır. Denize bakan teras restoranlar ve kafeler yerli halk ve ziyaretçilerle doludur. Sadece 8 km uzaklıktaki Sarımsaklı, romantik bir ortamda beyaz kumlu plajlara sahiptir.
+</item>
+        <item>Yazın ziyaret edilebilecek en güzel yer, sakin Ege Denizi sayesinde Ayvalık\'tır. Burası şirin eski evlerin cazibesinde rahatlayıp dinlenebileceğiniz muhteşem bir yerdir.
+
+Kazdağı\'nın eteklerindeki Akçay, Balıkesir\'e yakın bir başka bölgedir. Şifalı kaplıcaları ile ünlüdür. Aynı zamanda Truva Savaşı\'na yol açtığı söylenen dünyanın ilk güzellik yarışmasının yapıldığı yer olarak efsanevi üne yakışır güzel doğal manzaralara da sahiptir.
+
+Gönen, Bandırma\'ya 30 km mesafede mükemmel bir dinlenme merkezidir. Bölge erken zamanlardan beri şifa amaçları için kullanılan kaplıcalara sahiptir.
+
+Marmara Adası ve Avşa Adası balık, şarap ve tarihi hazineleriyle ünlüdür. Ayrıca harika sahil şeritleri var. Ünlü Marmara mermerleri buradan gelir.
+
+Kuş Cenneti Milli Parkı, ev sahipliği yaptığı 266 kuş türü ile kuş gözlemcileri cenneti olarak kaçırılmaması gereken bir yerdir.
+
+Balıkesir\'deki yolculuğunuzun büyüleyici anlarını hatırlamak için Balıkesir\'in köylerinde yapılan orijinal Yağcıbedir halılarından almayı düşünebilirsiniz.</item>
+    </string-array>
+
+
+    <string-array name="bartin">
+        <item>Bartın</item>
+        <item>Birinci gün: Bartın merkezde yöre mimarisinin örnekleri olarak Taşhan, Şadırvan, camiler ve Ebu Derda Türbesi, Kilise binası, köprüler ve Bartın Evleri, Ceneviz Kalesi ve kıyı şeridinin güzel doğası ve mağaraları görmeye değerdir. Kızılkum, Mugada , İnkumu ve Güzelcehisar plajlarında serinlemek veya Tarihi Şehir Hamamı\'nda terlemek mümkün.</item>
+        <item>İkinci gün: Amasra\'da Amasra Kalesi, Bedesten, cami ve kiliseler, Osmanlı Hamamı, Antik Tiyatro kalıntıları, Yeraltı Galerileri, Kuşkayası Yol Anıtı ve doğa harikası Gürcüoluk Mağarası\'nın yanı sıra Amasra\'nın çevresindeki doğal güzellikleri, Çakraz, Göçkün ve Akkonak plajlarını ziyaret edebileceğiniz yerlerdir. Temiz ve ince kumlu plajlarda deniz ve güneşin tadını çıkartabilirsiniz.</item>
+    </string-array>
+
+
+    <string-array name="batman">
+        <item>Batman</item>
+        <item>Batman’da ilk gününüze Türkiye ve Dünya için son derece önemli ve değerli Hasankeyf Ören Yeri’ni ziyaret ederek başlayabilirsiniz. Ören yerinin içindeki Hasankeyf İç Kalesi’ni, içindeki mağara evler, derin ve heybetli kanyonları mutlaka ziyaret etmelisiniz. Daha sonra Ilısu barajı göl sahasında kalan anıtların yeni Hasankeyf ilçesindeki Arkeopark’a taşınan Akkoyunlu hükümdarının oğlu Zeynel Bey için yaptırdığı anıt mezarını, Artuklu Hamamını, Eyyubi Döneminde günümüze ulaşan İmam Abdullah Zaviyesi, Kızlar (Eyyubi) Cami (anıt mezarı), Süleyman Han, Er-Rızk Cami, kale kapılarından üçüncüsü olan Orta Kapı ve Daha erken dönemlerden günümüze ulaşan Koç Cami’ni bir arada görme Hasankeyf’in Orta çağını deneyimlemeyi yaşayabilirsiniz.  Arkeopark’ın hemen yanında bölgedeki kazılardan ortaya çıkarılan değerli buluntuların sergilendiği Hasankeyf Müzesi’ni ziyaret edebilirsiniz. Ziyaretin devamında Süryani Hristiyanları tarafından kutsal kabul edilen Turabidin bölgesinin en uç noktasında olan ve bu bölgede yer alan 80’e yakın kilise ve manastır içinde önemli bir yer tutan Mor Kiryakus Manastırı’nı görebilirsiniz. Ziyaretlerin sonunda eğer Batman Hasankeyf Kültür ve Sanat Festivali’ne de denk gelirseniz mutlaka festivale katılmadan gezinizi bitirmeyin.</item>
+        <item>Batman’daki gezilerinizin ikinci gününe Paleolitik Dönem ’den Orta Çağ’a kadar geniş tarih yelpazesinde yaklaşık 500 adet eser sergilenen Batman Müzesi ve Müze Park’ı ziyaret ederek başlayabilirsiniz. Daha sonra Kozluk ilçesinde bulunan Hızır Bey ve İbrahim Bey Cami’lerini mutlaka görmelisiniz. Sonrasında da Batman için simgelerinden olan Kandil Kalesi, Pertükan Kalesi ve Rabat Kalesi’ni ziyaret edebilirsiniz. Daha sonra eğer Batman’da doğal alanları ziyaret etmek tertemiz doğasını içinize çekmek isterseniz, tabiatın bütün güzelliklerinden nasibini alan Sason’da, renklerin bütün tonlarını içinde barındıran çiçek ve bitkilerin sarp ve yalçın kayalıklar arasından doğarak insanları güler yüzle karşılaması, insana ayrı bir haz vermektedir. İlkbahar aylarında rafting sporuna uygun bir zemin hazırlayan ve baş döndürücü bir hızla akışını sürdüren Sason Çayı, bu sporu sevenler için gayet uygun bir ortam yaratmaktadır. Dicle Nehri ve yan kolları olan Batman ve Garzan Çaylarında sportif olta balıkçılığı, Mereto, Aydınlık ve Raman Dağlarında doğa yürüyüşü ve kış sporları yapılarak Batman’ın o muhteşem doğal güzelliklerinden haz alarak ikinci gününüzü tamamlayabilirsiniz.</item>
+    </string-array>
+
+
+    <string-array name="bayburt">
+        <item>Bayburt</item>
+        <item>İlk gününüze şehrin simgesi olan ve en çok ilgi gören Bayburt Kalesi’ni ziyaret ederek başlayabilir, hem de Bayburt şehrine tepeden bakarak bütün şehrin o eşsiz manzarasını doya doya izleyebilirsiniz. Daha sonra Anadolu Selçuklu dönemi izlerini taşıyan Ulu Cami’ye gidebilir ve sonrasında hemen hemen şehrin her noktasından görülen şehrin en önemli simge yapılarından olan Saat Kulesi’ne geçebilirsiniz. Ziyaretlerin devamına kırsal yaşamın izlerini barındıran kapalı ve açık hava müzesi ile bir yöresel kültür kompleksi olan Kenan Yavuz Etnografya Müzesi’ni görebilirsiniz. Bayburt şehrini adeta ikiye ayıran Çoruh Nehri’nin o güzel görüntüsünü ölümsüzleştirip nehrin iki yakasındaki restoranlarda şehrin kendine özgü yemeklerinden tadarak gezintinize bir mola verebilirsiniz. Sonrasında eğer ziyaretiniz kış mevsimine denk gelmişse Kop Dağı Kış ve Kayak Merkezi mutlaka görmeli kayak yapıp, gecenizi çevredeki otellerde konaklayarak tamamlayabilirsiniz.</item>
+        <item>İlk gününüze şehrin simgesi olan ve en çok ilgi gören Bayburt Kalesi’ni ziyaret ederek başlayabilir, hem de Bayburt şehrine tepeden bakarak bütün şehrin o eşsiz manzarasını doya doya izleyebilirsiniz. Daha sonra Anadolu Selçuklu dönemi izlerini taşıyan Ulu Cami’ye gidebilir ve sonrasında hemen hemen şehrin her noktasından görülen şehrin en önemli simge yapılarından olan Saat Kulesi’ne geçebilirsiniz. Ziyaretlerin devamına kırsal yaşamın izlerini barındıran kapalı ve açık hava müzesi ile bir yöresel kültür kompleksi olan Kenan Yavuz Etnografya Müzesi’ni görebilirsiniz. Bayburt şehrini adeta ikiye ayıran Çoruh Nehri’nin o güzel görüntüsünü ölümsüzleştirip nehrin iki yakasındaki restoranlarda şehrin kendine özgü yemeklerinden tadarak gezintinize bir mola verebilirsiniz. Sonrasında eğer ziyaretiniz kış mevsimine denk gelmişse Kop Dağı Kış ve Kayak Merkezi mutlaka görmeli kayak yapıp, gecenizi çevredeki otellerde konaklayarak tamamlayabilirsiniz.</item>
+    </string-array>
+
+
+    <string-array name="bilecik">
+        <item>Bilecik</item>
+        <item>Ziyaretinize şehir merkezinden başlarsanız, kentin kültürel mirasını keşfetmek için Şeyh Edebali Türbesi\'ni, Osmanlı Padişahları Tarih Şeridini, Bilecik Belediye Binası\'nı, Saat Kulesi\'ni ve Bilecik Müzesi\'ni görmek isteyebilirsiniz. Şehir merkezinde kısa bir gezinti ve biraz vitrin alışverişi yaptıktan sonra bir arabaya binip Osmanlı İmparatorluğu\'nun memleketi olan Söğüt\'ü keşfedebilirsiniz. Orada Ertuğrul Gazi Hazretlerinin önünde nöbet tutan Kayı Alplerinin nöbet değişimlerini izleyebilirsiniz. Öğle yemeğinde geleneksel mercimekli mantı, fırın kebabı, Bilecik Güveci, Ovmaç Çorbası, Parmak ve Balaban Köftesi\'nin köftelerinin ardından meşhur ayva tatlısını,Dondurmalı Pazaryeri Helvası, Osmanlı Ayva Lokumlarını deneyebilirsiniz. Daha sonra Türk kır yaşamını ve işçiliğini keşfetmek için ekoköylerden birine gitmeyi tercih edebilirsiniz. Yoldaki hiçbir anıtı kaçırmamak için araba sürerken etrafa bakmayı unutmayın. Turunuzu bitirdikten sonra, başka bir geleneksel restoranı deneyin eğer hamur işinden hoşlanmıyorsanız, bıldırcın kebabını denemek isteyebilirsiniz.</item>
+        <item>Bilecik, özellikle verimli toprakları ve çeşitli fauna ve florası ile öne çıkar. Öyleyse güne Pazaryeri ilçesi, Kınık Köyü\'nde bir çömlek atölyesi ile başlayıp ardından, Bozcaarmut, Küçük elmalı doğal tabiat parkları, küçük hasankeyf Günyurdu göletine, oradan Osmaneli Tarihi Evleri, Papazın Konağı, Aya Yorgi Kilisesi, Sakarya Nehri\'ne oradan Yenipazar Harmankaya Kanyonu Tabiat Parkı, İnhisar Şelalesi, Kınık Şelalesi ve Bozüyük Metristepe, Erikli Yaylası Atatürk Köşkü, Kömürsu Yaylası gibi şehrin doğal güzelliklerinden birine doğru rota oluşturmak isteyebilirsiniz. Bu uzun günün ardından hafif bir akşam yemeği yemek ve otele erken dönmek isteyebilirsiniz. Ancak, bölgenin en küçük yerlerinde bile bulunan bir özel ürün olan boza\'yı tatmayı unutmayın.</item>
+    </string-array>
+
+
+    <string-array name="bingol">
+        <item>Bingöl</item>
+        <item>Bingöl merkezde doğal ve yöresel ürünlerle kahvaltı yapılmalı. Ardından şehri net bir şekilde görmek için en ideal nokta olan “Az Tepesi”nden panoramik Bingöl manzarası izlenmeli. Yüzen Adalar mutlaka görülmeli. Burada öğle yemeğinden sonra Zağ Kaya Sığınak Odaları’nda Urartular dönemine varan zaman yolculuğuna çıkılmalı. Buban Peri Bacaları’nda doğanın yarattığı mucizevî yeryüzü şekilleri ziyaret edilmeli. Akşam yemeğinde ayran çorbası, sörin, löl, keldoş ve Bingöl kavurması tadılmalı
+.</item>
+        <item>Karlıova’da gün doğumu izlenmeli. Kahvaltı sonrasında Hesarek Kayak Merkezi’nde mevsime göre kayak, kızak veya yamaç paraşütü yapılmalı. Öğle yemeğinden sonra Bağlarpınarı Köyü-Tarihî Mezarlıklar, cami, taş havuz ve çeşmeler ziyaret edilip Kiğı Kalesi ve Eskikavak Köyü Manastırı görülmeli. Alternatif olarak Kös Kaplıcaları’nda yorgunluk atılmalı ve Peri Suyu Vadisi’nde doğa yürüyüşü yapılarak dağ keçilerini yaban hayatı içerisinde görme fırsatı kaçırılmamalı. Bingöl’den ayrılmadan önce dünyaca ünlü Bingöl balı, coğrafi işaretli Çobantaşı kavurması ve el emeği ile doğal yünden üretilen Bingöl kilimi almak unutulmamalı.
+</item>
+    </string-array>
+
+
+    <string-array name="bitlis">
+        <item>Bitlis</item>
+        <item>İlk güne Bitlis şehir merkezinde panoramik gezi ile başlanmalı. Panoramik Bitlis turu; Büyük İskender’in hatıralarının hâlâ yaşadığı Bitlis Kalesi, tarihî İhlasiye Medresesi, Seyir (Şerifbey) Tepesi, Bitlis Evleri, El Aman Kervansarayı ve tarihî camiler, türbeler, köprüleri kapsayacak şekilde yaklaşık 5 saat sürecektir. Öğle yemeği için yöresel lezzetler bilhassa büryan tercih edilmeli.
+
+Ardından Bitlis’in güzel ilçesi Tatvan’a geçilmeli. Tatvan merkezinde yapılacak bir panoramik tur, Van Gölü kıyısında dinlenme, akşam yemeği ve konaklama ile ilk gün sona erdirilebilir.
+</item>
+        <item>Güne Van Gölü kıyısındaki Tatvan’da sofrada Bitlis balı ve peynirinin mutlaka bulunacağı bir kahvaltıyla başlanmalı. Kahvaltının ardından Nemrut Yanardağı ve Krater Gölü gezilmeli.
+
+Öğle yemeği için Tatvan’a geri dönüldükten hemen sonra vakit kaybetmeden UNESCO Dünya Kültür Mirası Geçici Listesi’nde yer alan Ahlat Mezar Taşlarının da bulunduğu Ahlat’a ya Van Gölü kıyısını takip eden yol ile ya da Van Gölü üzerinden tekneyle geçilmeli. Ahlat Mezar Taşlarının ardından Ahlat’ta bulunan kümbetler ve Urartuların izlerini günümüze taşıyan Harabe Şehir gezilmeli, Urartular ve tarih öncesi dönemlerden kalan eserleri görmek üzere Ahlat Müzesi’ne gidilmeli, Ahlat Sahil Kalesi görülmeli. Geziye Adilcevaz turuyla devam edilmeli. Adilcevaz’a uğrayıp Süphan Dağı uzaktan seyredilmeden ve Bitlis’i hatırlatacak bir hatıra olarak Adilcevaz ve Ahlat Bastonlarından edinmeden geri dönmemek gerekir.
+</item>
+    </string-array>
+
+
+    <string-array name="bolu">
+        <item>Bolu</item>
+        <item>Aşçılarıyla meşhur Bolu’daki ilk gününüze, mükemmel bir kahvaltıyla başlayabilirsiniz. Kahvaltınızın ardından dört mevsim ayrı güzellikleri içinde barındıran Gölcük Tabiat Parkı ve Abant Tabiat Parkı’nı ziyaret ederek göllerin çevresinde yürüyebilir, bisiklet sürebilir, muhteşem manzaralar önünde fotoğraflar çekebilirsiniz. Sonrasında Mudurnu ve Göynük’teki geleneksel Türk evlerini ziyaret edebilirsiniz. Eğer kamp yapmayı seviyorsanız, gününüzü Sülüklü Göl’de tamamlayabilir, günün tüm yorgunluğunu bol oksijen ve temiz hava sayesinde unutabilirsiniz.
+</item>
+        <item>İkinci gününüze Yedi Göller Milli Parkı’nı ziyaret ederek o muhteşem doğada kahvaltı yaparak başlayabilirsiniz. Daha sonra yaylalarda yapılan doğa yürüyüşlerine katılabilir ve mis gibi kekik kokusunu içinize çekebilirsiniz. Sonrasında şehir merkezindeki Bolu Müzesi’ni ziyaret edebilir, çarşıda gezebilir, kente özgü yemeklerin tadına bakabilirsiniz. Ayrılmadan önce Bolu Fındık Şekeri, Patatesli Köy Ekmeği, Bolu Çikolatası ve Çam Kolonyası alabilirsiniz.
+
+Eğer kış mevsimlerinde Bolu’yu ziyaret ediyorsanız kesinlikle çam ormanlarının ve karın verdiği o muhteşem manzara eşliğinde, Kartalkaya Kayak Merkezi’nde kayak yapabilir, kayak yapabilir, bölgedeki termal tesislerde yorgunluğunuzu atabilir, şifa bulabilirsiniz.
+</item>
+    </string-array>
+
+
+    <string-array name="burdur">
+        <item>Burdur</item>
+        <item>Burdur’da keşfedecek çok şey var. Burdur’u keşfetmeye lezzetli bir yöresel kahvaltının ardından bölgenin kültürel mirasını ve tarihi dokusunu en güzel şekilde yansıtan eserlere ev sahipliği yapan şehir merkezinden başlayabilirsiniz. Türkiye’nin en zengin müzelerinden biri olan Burdur Arkeoloji Müzesi’nde bölgenin tarihi geçmişi hakkında bilgi alabilir ve müzede bulunan Hacılar, Kuruçay, Höyücek Höyükleri ve Boubon, Kibyra, Sagalassos, Kremna Antik Kentlerinden çıkarılan birbirinden değerli eserleri inceleyebilirsiniz. Müzenin bahçesinde yer alan bir diğer tarihi yapı ise Osmanlı mimarisinin en güzel örneklerinden biri olan Pirkulzade Kütüphanesi’dir.
+
+Burdur merkezde Osmanlı’dan kalma konak, cami, saat kulesi, hamam gibi görülmeye değer muhteşem yapılar bulunuyor. Burdur Arkeoloji Müzesi’nden sonraki durak 14. yüzyıldan kalma tarihi Burdur Ulu Cami ve Saat Kulesi olacaktır. Buradan tarihi yapılardan bir diğeri olan ve yürüyerek kolaylıkla ulaşılabilen 17. yüzyıl klasik Osmanlı mimarisinin en güzel örneklerinden biri olan Taş Oda Konağı’nı görün. Konağı gezmeden önce konağın yeşillikler içerisindeki bahçesinde bir kahve içebilirsiniz. Taş Oda Konağı turunun ardından, Burdur merkezde yer alan, tarih ve mimari meraklılarının ilgiyle ziyaret ettikleri 17. yüzyıl Osmanlı mimarisinin zarif örneklerinden Bakibey Konağı ve konağın bahçesinde yer alan geleneksel Türk evi örneklerinden Çelikbaşlar Evi bulunur. Buradan sonra ayrıca, Piribaşlar ve mısırlılar Evi, Sadrazam Derviş Mehmet Paşa Kütüphanesi, Hocabali Hamamı ve Şeyh Sinan Camini görmeyi unutmayın. Bu zenginliklerin yanısıra Burdur Doğa Tarihi Müzesi’ndeki fosil kalıntılarını görebilirsiniz. Yolunuzun üstünde yer alan satış noktalarında Burdur ceviz ezmesi, kenevir helvası ve haşhaş helvası gibi yöresel lezzetleri de tadın. Gelmişken yöreye has el emeği göz nuru dokumaların olduğu Alaca Dokuma ürünlerinden almayı unutmayın.
+
+Öğleden sonra, Türkiye’nin turizme açılan ilk mağarası olan İnsuyu Mağarası’nı ziyaret edebilirsiniz. İnsuyu Mağarasından sonra Ağlasun ilçesinde bulunan ve UNESCO Dünya Mirası Geçici Listesi’ne giren Sagalassos Antik Kenti’ni ziyaret edebilirsiniz. Küçük Asya’da günümüze kadar en iyi korunmuş antik yerleşimlerden biri olan Sagalassos’ta dünyanın en yüksek rakımlı antik tiyatrosunu, 2000 yıldır akan muhteşem Antoninler Çeşmesi’ni ve daha pek çok değerli eseri görebilirsiniz.
+
+Tarihi dokusuyla size geçmiş esintileri yaşatacak Selçuklu mimari tarzının şaheserlerinden olan İncir Han ve Susuz Han’ı görmek için Bucak ilçesine yolculuğa başlayın. Burdur’a dönmeden önce Onaç Barajının da bulunduğu Bucak Kent Ormanı’nda şahane manzara eşliğinde akşam yemeğinin tadını çıkarın.
+
+Veya akşam yemeğini Burdur Merkezde yemek isteseniz Burdur merkezde yer alan yöresel restoranlarda başta Burdur Şiş olmak üzere pek çok geleneksel lezzeti keşfedebilirsiniz. Ayrıca, akşam Teke Yöresi kültürünü yakından tanımak ve yöresel kıvrak müziği dinlemek ve halk oyunlarını izlemek için Burdur’da düzenlenen özel etkinliklere katılabilirsiniz.
+</item>
+
+        <item>Burdur gezi rotanızın ikinci gününde Burdur Gölü\'nün kıyısında yer alan Lisinia Doğa’ya gidebirilirsiniz. Türkiye’nin ilk Yaban Hayatı Rehabilitasyon Merkezi’nden biri olan Lisinia Doğa’da, doğa ile iç içe keyifli zaman geçirebilirsiniz.  Özellikle Haziransonu, Temmuz başında bölgeye gelirseniz Akçaköy Lavanta Vadisi’nde birbirinden güzel fotoğraflar çekip muhteşem manzaranın keyfini çıkarabilirsiniz. Buradan Burdur denince akla ilk gelen doğa harikalarından biri olan Salda Gölü’ne geçebilirsiniz. Salda Gölü’ne yaklaşık 20 dakika mesafede, Eşeler Yaylası’nda bulunan Salda Kayak Merkezi ise bölgeyi ziyaret eden kayak severler için ideal destinasyonlar arasında yer alır. Kış aylarında bölgeyi ziyaret ediyorsanız çevresi yemyeşil ormanlarla kaplı olan kayak merkezinde, eşsiz göl manzarası eşliğinde kayak yapabilirsiniz.
+
+Burdur gezi rotanıza Burdur’un en değerli tarihi miraslarından Gölhisar ilçesinde bulunan ve 2016 yılında UNESCO Dünya Mirası Geçici Listesine alınan Kibyra Antik Kenti’ni mutlaka alınız. Antik Çağ’da gladyatörlerin savaştığı ve Anadolu’nun en görkemli stadyumlarından biri olan stadyum ve orkestra bölümünün zemininde bulunan, yapım tekniği ile dünyada tek olan Medusa başı tasvirinin bulunduğu dünyanın en büyük Odeonu, Kibyra’da görebileceğiniz eşsiz tarihi yapılar arasında sayılabilir.
+
+Burdur merkeze dönmeden önce akşam yemeğinde Gölhisar kavurması yiyebilir ve günün yorgunluğunu yöreye has çörek otu kahvesi yudumlayarak atabilirsiniz. Gölhisar İbecik köyüne özgü geleneksel bir dokuma çeşidi olan İbecik bezinden yapılan ürünleri ve İbecik bebeklerini de mutlaka inceleyin.
+
+Akşam ise Teke Yöresi kültürünü yakından tanımak ve yöresel kıvrak müziği dinlemek ve halk oyunlarını izlemek için Burdur’da düzenlenen özel etkinliklere katılabilirsiniz. Ayrıca akşam yemeğinde Burdur merkezde yer alan yöresel restoranlarda başta Burdur Şiş olmak üzere pek çok geleneksel lezzeti keşfedebilirsiniz.
+
+Burdur’un zengin tarihi ve kültürel varlıkları ile muhteşem doğal güzelliklerini görmek için elbette iki gün yeterli olmayacaktır. Burdur’un daha birçok değerlerini görmek ve yaşamak için daha çok zamana ihtiyacınız olacaktır.</item>
+    </string-array>
+
+
+
+    <string-array name="bursa">
+        <item>Bursa</item>
+        <item>Sabah, Bursa’da Koza Han’da kahvaltı eşliğinde Türk çayını yudumlayın. Muradiye Külliyesi, Yeşil Cami ve Ulu Cami’yi ziyaret edin.
+
+Yes, you absolutely deserve Bursa\'s famous İskender Kebab for lunch. Bursa offers you many local restaurants option for eating best İskender Kebab’s.
+
+Sabahın ilk ışıkları ile Armutlu Hamamı’na gidebilir ve bu muhteşem yerde tarihi içinize çekebilirsiniz.
+
+Kapalıçarşı’yı ziyaret edip halı satan hanları gezebilir, dostlarınıza hediyelik havlu satın alıp</item>
+
+        <item>Karagöz Müzesi’ni ziyaret etmeyi ve ardından ilk kablolu su kayağı tesisi olan Su kayağı parkına uğramayı unutmayın. Yaz aylarında çok daha eğlenceli olan parkın keyfini çıkarabilirsiniz.
+
+Günün sonunda şehre özgü Anjelik Reçeli, Tahinli Pide ve Kestane Şekeri almayı da sakın unutmayın.
+
+Kapalıçarşı’yı ziyaret edip halı satan hanları gezebilir, dostlarınıza hediyelik havlu satın alabilirsiniz.
+
+Anadolu Arabaları Müzesi’ne gidip Anadolu’da binlerce yıllık otomobil endüstrisi ve kültürünün mihenk taşlarını keşfedebilirsiniz.
+
+Günün sonunda şehre özgü Anjelik Reçeli, Tahinli Pide ve Kestane Şekeri almayı da sakın unutmayın.</item>
+    </string-array>
+
+
+    <string-array name="canakkale">
+        <item>Çanakkale</item>
+        <item>Kahvaltınızı boğaz manzarası eşliğinde Çanakkale Kordon’da yaparak ardından sahil şeridinde yürüyüşe çıkın. Yürüyüşünüz bittiğinde, sahilde yer alan Truva Atı’yla hatıra fotoğrafı çektirmeyi unutmayın.
+
+Çanakkale Boğazı’nın diğer tarafına geçerek Kilitbahir Kalesi’ni ziyaret edin. Çanakkale Boğazı’nın bu tarafı I. Dünya Savaşı’nda savaş alanı olduğundan Çanakkale Savaşları’nı anlatan birçok anıt ve şehitlik bu taraftadır.
+
+Kilitbahir Kalesi ziyaretiniz bittiğinde önce Eceabat’taki Seyit Onbaşı Anıtı’na, oradan da Çanakkale Destanı Tanıtım Merkezi’ni ziyaret edin.
+
+Çanakkale Destanı Tanıtım Merkezi’nde de sıkça adı geçen Anzak Koyu ve 57. Alay Şehitliği sadece 5 kilometre uzaklıkta olduğundan buraları da ziyaret etmeden dönmek olmaz.
+
+Akşam yemeği ve konaklama için tekrar Çanakkale tarafına geçerek,; asma yaprağında sardalye, lüfer pilavı, Gelibolu peynir helvası gibi yerel lezzetlerin tadına bakın.</item>
+
+        <item>Kahvaltıdan sonra sırasıyla Troya Antik Kenti ve Alexandria Troas Ören Yeri’nde gezin ve yaşanmış tarihe tanıklık edin.
+
+Öğle molasını Babakale’de vererek kale manzarasının keyfini çıkarabilir, isterseniz denize de girebilirsiniz.
+
+Babakale molanız bittikten sonra Apollon Smintheion Örenyeri’ni gezerek Hellenistik Dönem’de bir zaman yolculuğuna çıkın. Son olarak Assos’u da ziyaret ederek tarihi puzzle’ın parçalarını tamamlayın.</item>
+    </string-array>
+
+
+    <string-array name="cankiri">
+        <item>Çankırı</item>
+        <item>İlk güne Çankırı mutfağının yöresel ürünlerinden oluşan zengin bir kahvaltıyla başlayabilirsiniz.  Kahvaltının ardından Çankırı’nın en ilgi çekici yerlerinden biri olan Tuz Mağarası’na gitmek yerinde bir seçim olacaktır.  Burada tuzdan yapılan heykelleri, Orhun Abideleri’nin birebir ölçüde yapılmış replikalarını görebilirsiniz.  Tuz Mağarası’nın ardından sırasıyla Taş Mescit, Çankırı Kalesi ve Emir Karatekin Türbesi, Çankırı Müzesi, Tarihi Çamaşırhaneyi ziyaret edebilir ardından öğle yemeği için merkezde bir restoranda yöresel lezzetlerden biri olan yaren güvecini deneyebilirsiniz.
+
+Yemek sonrası biraz da dinlendikten sonra gezinize Sultan Süleyman Cami, Çivitçioğlu Medresesi, Buğdaypazarı Medresesi, ile devam edip, ardından hem biraz yürüyüş yapmak hem de şehrin tarihi evlerini görmek için Eski Çankırı Evleri Sokağı’na gidebilir buradan da Çankırı Araştırmaları Merkezi ile Radyo Müzesi’ni gezerek bir Yaran Gösterisi ile gününüzü tamamlayabilirsiniz.   </item>
+
+        <item>İkinci güne tarihi bir yol olan İstiklal Yolu’nda yürüyüş yaparak başlayabilirsiniz. Doğayla iç içe vakit geçirmek için Kadınçayırı - Yıldıztepe Turizm Merkezi’ne uğrayıp, Ilgaz Doruk Kayak Merkezi’ne çıkabilir, ardından Kırkpınar Yaylası’na gidebilirsiniz. Buradan sonra Bayramören Ahşap Köprü’yü görebilir ve Çavundur termal tesislerinde şifalı sulara kendinizi bırakıp biraz dinlenebilirsiniz.
+
+Dönüş yolunda Atkaracalar ilçesi Ilıpınar Köyündeki Asker Balıkları gördükten sonra, Orta Sakaeli Köyü Kaya Mezarları ve Peribacaları, Hüyük Köyü Yeraltı Şehri’ne uğrayıp merkeze dönerek günü güzel bir akşam yemeği ile bitirebilirsiniz. </item>
+    </string-array>
+
+
+    <string-array name="corum">
+        <item>Çorum</item>
+        <item>Sabah Çorum mutfağının enfes lezzetleriyle yapacağınız bir kahvaltının ardından en ilgi çekici yerlerinden biri olan Hattuşaş’a gitmek üzere yola çıkabilirsiniz. Boğazkale Hattuşaş kentinde göreceğiniz kalıntılar epey vaktinizi alacak. Kenti gezdikten sonra yürüme mesafesinde olan Yazılıkaya Açık Hava Mabedi’ne doğru hareket edebilirsiniz. Ardından arabayla yarım saat mesafede olan Alacahöyük’e doğru yola çıkabilir veya Sungurlu’ya uğrayarak Sungurlu Saat Kulesi’ni görebilirsiniz. Burada tavuklu pilav ile bir yemek molasının ardından Alacahöyük’e doğru devam edip, ardından şehre dönerek Çatak Tabiat Parkı’nda keyifli vakit geçirerek günü bitirebilirsiniz.</item>
+        <item>Çorum’daki ikinci gününüzde sırasıyla Çorum Müzesi Hıdırlık Camii ve Türbesi, Ulu Camii, Çorum Saat Kulesi, ziyaretinin ardından Çorum Kalesi’ni ziyaret edebilirsiniz.  Ardından 1,5 saat mesafede yer alan İskilip’e doğru hareket edebilir ve öncelikle bir öğle yemeği molası verip İskilip Dolması deneyebilirsiniz. Yemeğin ardından Şeyh Muhittin Yavsii Camii, İskilip Kalesi ve Kaya Mezarları’nı ziyaret edebilir sonrasında hem yörenin geleneksel el sanatlarını görmek hem kendinize bir hatıra almak için ahşap el sanatlarının yapıldığı yerlere ve Halk Eğitim Merkezi’ne uğrayabilirsiniz. Buradan sonra İskilip Yaylaları’na çıkarak biraz doğal güzelliklere vakit ayırabilirsiniz. Ardından şehre dönerek günü kent merkezindeki dükkanları gezerek, biraz alışveriş yaparak bitirebilirsiniz.</item>
+    </string-array>
+
+
+    <string-array name="denizli">
+        <item>Denizli</item>
+        <item>Merkezde bulunan ve şehrin simgesi olan Hierapolis Antik Kenti’nin ihtişamlı mimarisini gezebilir, tarihi bir yolculuğa çıkabilirsiniz. Hierapolis Örenyeri içinde bulunan Hierapolis Arkeoloji Müzesi mutlaka ziyaret edilmelidir. Travertenlerin eşsiz güzelliğini keşfederek şifalı termal suların tadını çıkarabilirsiniz. Balon turu ile kuş bakışı seyir keyfi yaşayabilirsiniz.
+
+Denizli mutfağının vazgeçilmez lezzeti Denizli Kebabı, Tavas Baklavası ve Ballı Tahinli Pidesinin tadına bakabilirsiniz. Karahayıt, Sarayköy, Yenicekent Kaplıcalarının termal sularında şifa bulabilir, sağlık turizmi olanaklarından yararlanabilirsiniz. Tarihi Buldan evleri ve Buldan çarşısını ziyaret edebilir, yörenin geleneksel dokumacılık ürünlerinden satın alabilirsiniz.  Babadağ’ın hem doğal güzelliklerini hem de renkli evlerini gezebilir, nostaljik bir yolculuğa çıkabilirsiniz.</item>
+        <item>Ekoturizm olanakları ile öne çıkan Çameli’nde dağ bisikleti parkurlarında ve yamaç paraşütü pistinde spora ve doğaya doyabilirsiniz. Emecik Kanyonu’nun serin sularında doğanın yenileyici gücünden yararlanabilirsiniz. Çameli’nin yöresel el sanatı ürünü Elmalı bezi ve kilimlerinden, tescilli ve lezzetiyle özgün Çameli fasulyesinden satın alabilirsiniz. Çameli’nin köylerinde yöre insanının yerel kültürünü deneyimleyebilir, kuşaktan kuşağa aktarılarak günümüze ulaşan çam düdüğünü yerel halktan dinleyebilirsiniz. Acıpayam ilçesine uğrayarak fosil bir mağara olan Keloğlan Mağarasını doğal güzelliğini keşfedebilirsiniz. Doğa sporlarıyla ilgileniyorsanız Acıpayam Kanyonu’nun dik yamaçlarında tırmanış yapabilir, yaban hayatını ve tarihi değirmenlerini keşfedebilirsiniz. Denizli’nin önemli bir kültürel değeri olan Zeybek havasını dinlemeyi ve Tavas Zeybeğinin ihtişamlı gösterisini izlemeyi ihmal etmeyin. Pamukkale Travertenlerinin muhteşem güzelliğini gün batımında seyretmeden Denizli’den ayrılmayın.</item>
+    </string-array>
+
+
+    <string-array name="diyarbakir">
+        <item>Diyarbakır</item>
+        <item>Tarihi Hasan Paşa Han’ında kahvaltı ile güne merhaba dedikten sonra Diyarbakır Surları etrafında ve Hevsel Bahçesi yürüyüşü muhakkak yapılması gereken bir rota. Ulu Cami, Hz. Süleyman Cami, İçkale Arkeoloji Müzesi, bölgenin ve Diyarbakır ilimizin yükselen yıldızı Zerzevan Kalesi ve Mithras tapınağı ziyareti ve gezisi ardından Ben–u Sen buru ve yedi kardeş burcu muhakkak gezilmesi ve görülmesi gereken yerlerden.</item>
+        <item>Tarihi, kültürü, inanç merkezleri ve gastronomisi ile Diyarbakır 48 saatte anlatılmayacak bir kent. İkinci günümüzde ise kahvaltıdan sonra;
+
+Halk kültürünü sesleri ile yansıtan Denbej evinde muhakkak dengbejler dinlenilmeli,
+
+Diyarbakır’ın en güzel sivil mimari örneklerinden biri olan Kent Müzesi Cemil Paşa konağı, Eğil İlçemizde bulunan Peygamber Kabirleri Ziyaret edilmelidir.
+
+İlimize gelen yerli ve yabancıların eğlence amaçlı kentimizin modern yüzü olarak bilinen Kayapınar Merkez İlçemizde, 75. Cadde olarak adlandırılan eğlence bölgesi herkesin rahatlıkla erişim sağlayabileceği, müzik ve eğlence sektörü açısından çok gelişmiş bir bölgedir.</item>
+    </string-array>
+
+
+    <string-array name="duzce">
+        <item>Düzce</item>
+        <item>Birçok doğa aktivesi yapabileceğiniz Düzce’de sabah erkenden Topuk Yaylası ve Gölet’inde kahvaltı ile güne başlayabilirsiniz.  Ardından, Samandere Şelalesi Tabiat Parkı’nda Düzce merkeze yakın konumda Prusias ad Hypium Antik Kentinde bulunan Düzce Konuralp Müzesi, Antik Tiyatro ve Roma Köprüsü’nü ziyaret ettikten sonra yolunuzu Akçakoca’ya çevirebilirsiniz. Düzce\'nin en uzun mesafeli sahiline sahip en büyük ilçesi olan Akçakoca; sivil mimarisi, dağ çilekleri tarlaları, kestane balı, fındığı, uzun kıyıları ve kumu, yemyeşil yeşillikleri, Fakıllı Mağarası, Çuhallı Plajı, yöresel lezzetleriyle size tam bir Karadeniz havası yaşatacak Yukarı Mahalle Yöresel Pazarı ve tarihi evleri, Ceneviz Kalesi, Aktaş Şelalesi görülmeye değer. İlçede, büyük ve küçük balıkçı teknelerinin olduğu liman ve balıkçı barınakları sayesinde deniz manzarası eşliğinde taze balık yiyebilirsiniz.</item>
+        <item>İkinci gün ise kendinizi tamamen doğa teslim edebilirsiniz. Aydınpınar Şelalesi Tabiat Parkı’nda yöresel kahvaltının ardından; Efteni Gölü, Güzeldere Şelalesi Tabiat Parkı, Pürenli ve Balıklı Yaylalarında; doğa yürüyüşü, çadır kampı, foto safari vb. aktiviteler yapılabilir. Kültür Park, Cumayeri Dokuzdeğirmen Köyü Rafting alanında profesyonel rafting yapabilir.</item>
+    </string-array>
+
+
+    <string-array name="edirne">
+        <item>Edirne</item>
+        <item>Edirne\'de ilk gününüze bölgedeki Osmanlı mimarisinin en güzel örneklerini keşfederek başlamalısınız. Selimiye Camii, şehrin merkezi olarak kabul edilebilir; şehir merkezinin hemen her yerinden kolayca görülebilir ve gezi maceranıza başlamak için mükemmel bir yerdir. Camide, Mimar Sinan\'ın tasarladığı caminin kusurundan dolayı Tanrı\'nın mükemmelliğini sembolize etmeye çalıştığı 999 pencere bulunmaktadır. Kubbe ve iç kısım pembe ve mavi renklerle boyanmış geometrik desenlerle süslenmiştir.
+
+Öğle yemeğinde eşsiz bir lezzet sizi bekliyor: “Edirne Ciğeri”. Edirne mutfağının en sevilen yemeklerinden biridir. Edirne\'de üretilen ayçiçek yağında ince kıyılmış ciğerin kızartılmasıyla hazırlanır. Yine Edirne\'ye özgü kırmızıbiberler kavrulur ve ciğerle birlikte servis edilir. Edirne\'de Edirne ciğerini tadabileceğiniz birçok lokanta var.
+
+Şehir merkezinde yürümeye devam edelim. Selimiye Camii\'nin yakınında, iç duvarlarında çarpıcı hat sanatı bulunan Eski Cami ve dört farklı şekilde tasarlanmış minareli Üç Şerefeli Camii (bugün bile nadir görülen bir manzara) var.
+
+İlk günü bitirmek için Edirne ayrıca pek çok park, sanat galerisi, müze ve alışveriş alanı sunuyor - kent hepsini keşfetmeniz için sizleri bekliyor. Ayrıca 1568-69\'da Mimar Sinan tarafından yaptırılan Sokullu Mehmet Paşa Hamamı\'nı da deneyin. Şehri gezerek geçirdiğiniz uzun bir günün ardından bir Türk Hamamı deneyimi rahatlamanın en iyi yoludur ve bir Türk hamamı denemenin böylesine güzel ve tarihi bir binadan daha iyi bir yolu olabilir mi?</item>
+        <item>Edirne\'de ikinci güne başlamak için Edirne Arkeoloji ve Etnografya Müzesi harika bir seçenek! Atatürk\'ün emriyle 1925 yılında açılan Edirne\'deki ilk müzedir. Arkeoloji ve Etnografya bölümlerinden oluşan müze 1971 yılında açılmıştır. Arkeoloji bölümü fosil, sikkeler, taş eserler, metal eserler, kemik eserler ve kiremit rengi çamurdan yapılmış eserler olarak düzenlenmiştir.
+
+Doğru zamanda Kırkpınar Yağlı Güreşleri\'ni izlemelisiniz. Dünya üzerinde art arda düzenlenen en uzun spor etkinliği için Guinness Rekorlar Kitabı unvanına sahiptir. 2010 yılında festival, UNESCO\'nun İnsanlığın Somut Olmayan Kültürel Mirası Temsili Listesi\'ne de girmiştir. Bu festival, gerçekten eşsiz bir geleneğin şiddetle tavsiye edilen bir kutlamasıdır. Geleneksel yağlı güreşten geleneksel şarkı söylemeye, dansa ve ziyafete kadar her ziyaretçinin mutlaka uğraması gereken yerin adıdır Kırkpınar!
+
+Saros Körfezi ve Edirne\'deki Milli Parklar, her mevsim Edirne\'deki yolculuğu bitirmek için doğa tutkunlarına çeşitli eğlence ve spor aktiviteleri sunmaktadır. Saros Körfezi’nde sörf ve yelkencilik oldukça popüler olup ayrıca birçok dalış noktası da bulabilirsiniz.</item>
+    </string-array>
+
+
+    <string-array name="elazig">
+        <item>Elazığ</item>
+        <item>Elazığ’ın en büyük rekreasyon alanı olan Kültür Park’ta kahvaltının ardından Harput’a geçilmeli. Burada Harput Kalesi ve hâlen kullanılan Anadolu topraklarındaki en eski ibadethanelerden biri olan Meryem Ana Kilisesi görülmeli. Sonrasında tarihî Harput Ulu Cami ve Şefik Gül Kültür Evi gezilerek bölge mimarisi ve kültürüne tanık olunmalı. Bir başka tarihî yapı olan Kurşunlu Cami gezilerek bahçesindeki anıt çınar ağaçları gölgesinde dinlenmeli. Sonrasında Balak Gazi Anıtı ve aynı adı taşıyan parkta seyir terasından Harput’un panoramik görüntüsü izlenmeli ve yöresel Çedene Kahvesi molası verilmeli. Harput\'tan sonra Keban ilçesine gidilerek Çırçır Şelalesi’nin doğal güzelliği eşliğinde burada yetiştirilen alabalıklarla öğle yemeği yenmeli. Ardından şehir merkezine geçilip günün son etkinliği olarak Kapalıçarşı ve Bakırcılar Çarşısı gezilmeli. Elazığ türküleri, ünlü Kürsübaşı Geceleri’nde dinlenmeli.</item>
+        <item>After having breakfast in Eskibaglar vineyard, you should take a boat tour on Lake Hazar and see the famous Sunken City. You should visit Hazarbaba Ski Center and do skiing and sledding in winter, paragliding, trekking and paragliding in spring or summer. From here, you should visit Palu and enjoy local delicacies such as Palu fry, kellecoş, Harput köfte and kofik stuff for lunch. You should cross the historical Palu Bridge on the Murat River and see the Palu Castle and the Palu Urartian Inscription. Then you should visit Palu Ulu Mosque, Palu Historical Church, bath and mosque ruins. Alternatively, you should take a nature walk in the Saklıkapı Canyon of Baskil district until the banks of the Euphrates River. Then, you should sail to the Black Stork Canyon by boat over the Euphrates River, and you should enjoy the magnificent scenery, while observing the rare black storks. For dinner, you should go to Kömürhan to taste the famous Kömürhan fried meat.Eskibağlar üzüm bağında kahvaltı yaptıktan sonra Hazar Gölü’nde tekne turu yapılmalı ve ünlü Batık Şehir görülmeli. Hazarbaba Kayak Merkezi ziyaret edilerek kış ise kayak ve kızak keyfi, bahar veya yaz ise yamaç paraşütü, doğa yürüyüşü ve yamaç paraşütü etkinlikleri yapılmalı. Buradan Palu’ya geçilerek öğle yemeğinde Palu tava, kellecoş, Harput köftesi, kofik dolması gibi yöresel lezzetlerin tadı çıkarılmalı. Murat Nehri üzerindeki tarihî Palu Köprüsü’nden geçilmeli, Palu Kalesi ve Palu Urartu Yazıtı görülmeli. Ardından Palu Ulucami, Palu Tarihî Kilise, hamam ve cami kalıntıları gezilmeli. Alternatif olarak Baskil ilçesi Saklıkapı Kanyonu içerisinde Fırat Nehri kıyısına kadar doğa yürüyüşü yapılmalı. Ardından Fırat Nehri üzerinden tekne ile Kara Leylek Kanyonu’na hareket edilerek bir yandan muhteşem manzaranın tadı çıkarılırken diğer yandan nadir bulunan kara leylekler gözlemlenmeli. Akşam yemeği için ünlü Kömürhan kavurmasını tatmak üzere Kömürhan’a gidilmeli.</item></string-array>
+
+
+    <string-array name="erzincan">
+        <item>Erzincan</item>
+        <item>Kemah’ta yöresel kahvaltıyla güne başladıktan sonra Melik Gazi Türbesi’ni ziyaret edip Anadolu’nun en eski, dünyanın sayılı doğal kalelerinden biri olan Kemah Kalesi’ni gezin, eşsiz manzarasının fotoğraflarını çekin. Ardından Gülabi Bey Cami ve Hamamı ziyareti ile yöresel ürün (kemah tuzu, dut, kaysı kurusu, ceviz, dövmeç, bal, tulum peyniri) alışverişinin ardından Aydınlık Kanyon’da tekne turu ve rafting yapmak için İliç ilçesine geçin. Tekne turu ve rafting heyecanını yaşadıktan sonra, doğası ve mimarisiyle büyüleyen Kemaliye’ye doğru yola çıkın, burada öğlen yemeği yiyerek meşhur Mani Yolu ile gezinize başlayın. Etkileyici sivil mimarisiyle Kemaliye Evleri’ni görüp taş sokaklarda tarihte yolculuk yapın.
+
+Kısa bir molanın ardından, dünyanın en zorlu yolları arasında gösterilen ve yapımı 132 yılda tamamlanan sekiz kilometrelik Taş Yol’u, ister araçla ister yürüyerek geçin. Dünyanın en uzun kanyonlarından olan Karanlık Kanyon’un etkileyici manzarası eşliğinde Taş Yol gezisini tamamlayabilir, Karanlık Kanyon’da tekne turu yapabilir ve birçok branşta doğa sporu yapmaya elverişli olan Kemaliye’de, trekking, rafting, kano, wing süit, base jump, motorkros gibi macera sporları deneyimleyebilirsiniz.  Son olarak akşam yemeğinde Erzincan ve Eğin türküleriyle hüznün, mutluluğun ve eğlencenin bir arada yaşanıldığı Eğin Sıra Geceleri eğlence programını ardından dinlenmek üzere Erzincan’a dönebilirsiniz.  </item>
+
+        <item>İkinci gününüzde Çermik Mesire Alanı’nda yöresel ürünlerden oluşan (köy tereyağı, bal, tulum peyniri, beyaz peynir, çökelek piyazı, köy yumurtası, kavurma, gorava, kuru kaysı, ceviz içi, Erzincan ketesi, tandır ekmeği, kopul gibi) köy kahvaltısı yaparak Üzümlü’ye geçebilirsiniz. Burada Cimin Bağları gezisi ve yöresel ürün alışverişinin (bastık, kesmece, saruç, dövmeç, Cimin üzümü) ardından Altıntepe Urartu Kalesi ve Ekşisu Mesire Alanı’nı gezebilirsiniz. Zengin minerale sahip doğal maden suyu olan ve yörede Ekşisu olarak bilinen maden suyunu tadabilirsiniz.
+
+Girlevik Şelalesi gezisi için yola çıkıp şelaleye varınca hemen öğlen yemeğine geçiebilir, yemeğin ardından şelaleyi gezip renkli bitki örtüsü ve doğal manzarası altında fotoğraf çekebilirsiniz. Mevsimlerden kışsa, donan şelalede buz tırmanışı yapmak mümkün. Yüksek rakımda dağ havasını teneffüs etmek, kış sporları yapmak, manzara seyretmek ve fotoğraf çekmek için Ergan Dağı Kış Sporları Doğa Turizm Merkezi’ne uğrayabilir, burada kayak, snowboard, snowkite, kar motorsikleti, kızak, buz pateni, buz tırmanışı gibi kış sporları yapabilirsiniz. Ardıçlı Gölü’nde gondol turu yaptıktan ve Erzincan manzarası seyrettikten sonra çay molası verip akabinde merkeze dönüş yoluna çıkabilirsiniz. Akşam yemeğinde; kesme çorbası, ekşili, gendime çorbası, Erzincan yaprak döneri, dermason kuru fasülyesi, gendime pilavı, yaprak sarması, kelecoş, kahküllü pilav, keşkek, sarığıburma, kasefe, Erzincan kesme kadayıfı gibi yöresel yemek ve tatlılardan yiyerek yerel sanatçıların müzik ziyafeti sunduğu mekânlarda eğlenerek Erzincan ziyaretinizi noktalayabilirsiniz.</item>
+    </string-array>
+
+
+    <string-array name="erzurum">
+        <item>Erzurum</item>
+        <item>The itinerary that is made up of historical sites located in the city center and within walking distance from one another, is the best cultural route that is also known as the historical campus. Destinations that shed light on the Erzurum of the Roman, Saltuklu, Seljuk, Ottoman and Republic eras will give you general information about Erzurum.
+
+You can choose one of the restaurants that serve local dishes such as ayranaşı soup, cağ kebab and kadayıf dolma.
+
+Bastions of Erzurum, Abdurrahman Gazi Tomb, the magnetic road and Palandöken Ski Resort can easily be added to the daily route.</item>
+        <item>The itinerary can be designed as a day-trip starting in the central district of Erzurum, then visiting Bağbaşı and Öşvank Monasteries, Tortum Lake and Waterfall in Uzundere district, and taking a lunch break at Seven Lakes.
+
+You can order some Cağ Kebab - the local special - or red-scale trout for health and vitality.
+
+After lunch, make sure that you visit the Fairy Chimneys of Narman which is called the Land of Red Fairies.</item>
+    </string-array>
+
+
+    <string-array name="eskisehir">
+        <item>Eskişehir</item>
+        <item>Günün erken saatlerinde Eskişehir’e geldiysen Porsuk Nehri kenarında bir fincan Türk kahvesi içip güne başla. Keyifli bir gezi için enerjiye ihtiyacın olacak. İnönü Caddesi üzerindeki kafelerde Eskişehir Simidinin de eşlik ettiği güzel bir kahvaltı yap. Ardından Hamamyolu Caddesi üzerinden tarihi Odunpazarı’na gel.
+
+Tarihi Odunpazarında başlayan gezide dar sokakların iki yanına sıralanan ve 19. yüzyıl sivil mimarinin en güzel örneklerinden olan Odunpazarı evleri arasında yürüyüş yap. 16. yüzyılda yapılmış bir Osmanlı eseri olan Kurşunlu Külliyesi ve Cami’ni gezebilirsin.
+
+Kurşunlu Külliyesi’nin tabhane olarak adlandırılan bölümde bulunan Eskişehir El Sanatları Çarşısı’nda ney yapımı, lületaşı, ebru, tezhib, hat, gümüş işlemeciliği, gibi el sanatlarının en güzel örneklerini görebilirsin. Çarşının hemen yanında yer alan ve dünyada sadece Odunpazarı’nda bulunan Lületaşı Müzesi’ne uğramayı unutma.
+
+Odunpazarı evlerinden aşağıya doğru inince, eskiden odunlarını satmaya gelen tüccarların kaldığı, günümüzde ise lületaşının yanı sıra geleneksel el sanatları ürünlerinin üretildiği ve satıldığı Atlıhan El Sanatları Çarşısı’na uğra. Mimarisi ve dokusuyla bulunduğu ortama tamamen uyum sağlamış olan Odunpazarı Modern Müzesi’ni ziyaret ettikten hemen sonra yanında bulunan Çağdaş Cam Sanatları Müzesi ilgini çekebilir.
+
+Tüm bu müzeleri gezerken Odunpazarı’nın tarihi dokusunda, mutlaka Eskişehir ile bütünleşen çibörek tatmalısın.
+
+Eskişehir tarihinde gerilere uzanmak ve eski bir tarihi tanımak için Eti Arkeoloji Müzesi’ne gidebilir, interaktif uygulamalarla tarihe tanıklık edebilirsin.
+
+Sabah kıyısında yürüdüğün Porsuk Nehri’nde şimdi gondola binme zamanı. Gondol veya tekneyle turlayabilir, şehri bir de bu açıdan izleyebilirsin.
+
+Hala vaktin varsa Eskişehir’e gelmişken 1961 yılında üretilen ve Türkiye’nin ilk yerli üretim otomobili olan Devrim’i görmeyi de unutma.
+
+Günü Eskişehir’in bir diğer lezzeti olan Balaban Kebap yiyerek tamamlayabilirsin.</item>
+
+
+        <item>Frig’lerin Eskişehir topraklarında bıraktıkları mirası, kentin en görkemli anıtı Yazılıkaya Midas Anıtı\'nı görün.
+
+Kümbet\'te Zahren Vadisi\'ni gezin.
+
+Mihalıççık\'ta Gürleyik Şelale\'sini görün.
+
+Osmanlı\'nın ilk fethettiği kale olan Karacahisar Kalesi\'nin izini sürün.
+
+Sivrihisar\'da Ulu Cami\'deki ahşap işçiliğini, Alemşah Kümbeti\'ndeki Selçuklu sanatını görün; Nasreddin Hoca\'nın doğduğu evi, Ermeni Kilisesi\'ni ve Pessinus Ören Yeri’ni gezerek tarihe tanıklık edin.
+
+Seyitgazi\'de Seyyid Battal Gazi ve Şeyh Sücaeddin-i Veli Külliyesi ve Türbesi’ni ziyaret edin.
+
+Karabayır Bağları\'nda bisiklet turuna çıkın.
+
+Seyitgazi Seyircek Kalesi\'nden doyumsuz manzarayı seyredin.
+
+İnönü Uçuş Eğitim Merkezinde hava sporlarını deneyin.
+
+Çatacık Ormanları\'ndaki geyiklerin doğal yaşamına şahit olun.
+
+Mahmudiye\'de ata binmenin heyecanını yaşayın.
+
+Çifteler’de Sakarya Nehri’nin doğduğu yerde dalış yapın.</item>
+    </string-array>
+
+
+    <string-array name="gaziantep">
+        <item>Gaziantep</item>
+        <item>Güne, Gaziantep\'in merkezindeki çeşitli müzeleri keşfederek başlayabilirsiniz. Öncelikle 25 Aralık Panoroma Müzesi, Hamam Müzesi ve Emine Göğüş Mutfak Müzesi\'ni gezebilirsiniz. Bu müze turlarından sonra Gaziantep Kalesi\'ne çıkıp yukarıdan şehrin muhteşem manzaralarına şahit olabilirsiniz. Yaparken öğrenebileceğiniz etkinlikler ilginizi çekiyorsa, farklı mutfak becerilerini uygulayabileceğiniz zeytin atölyesini deneyebilirsiniz. Atölye çalışmasının ardından Milli ve Gümrük Kervansarayları‘nıgezebilirsiniz. Biraz alışveriş yapmayı planlıyorsanız, farklı yöresel lezzetleri ve hediyelikleri bulabileceğiniz Zincirli Çarşısı, Bakırcılar Çarşısı ve Almacı Çarşısı\'nı ziyaret edebilirsiniz. Gaziantep geziniz sırasında mola verirken Tahmis Kahvesi‘ni tadabilirsiniz. Mevlevi inancını daha iyi anlamak için Mevlevi Tekkesi ve Semazen Vakıf Müzesi\'ni ziyaret edebilirsiniz. Pişirici Kastel ve Kozluca Kastel\'i ziyaret ederek gününüzü tamamlayabilirsiniz.</item>
+        <item>Gaziantep şehir merkezinde yer alan bölgenin en ünlü müzelerinden birini ziyaret ederek güne başlayabilirsiniz. Zeugma Mozaik Müzesi, muhteşem bir mozaik koleksiyonuna sahiptir. Ardından, Gaziantep Arkeoloji Müzesi\'ni ziyaret edebilir ve bölgede bulunan tarihi eserleri inceleyebilirsiniz. Bey Mahallesi\'nin sokaklarında dolaşıp kendinizi Gaziantep’in yerlisi gibi hissedebilirsiniz. Atatürk Anıt Müzesi ve Ali İhsan Göğüş Müzeleri gerçekten görülmeye değer. Şehri çocuklarınızla geziyorsanız, farklı dönemlere ait güzel bir oyuncak koleksiyonuna sahip Oyun ve Oyuncak Müzesi\'ni keşfedebilirsiniz. Kurtuluş Camisi’ni ziyaret ederek muhteşem Osmanlı mimarisine şahit olabilirsiniz. Bayazhan Kent Müzesi, Gaziantep ve insanının ekonomik, doğal ve sosyal hayatına ışık tutuyor. Son olarak, güzel bir aile cazibe merkezi arıyorsanız, yaklaşık 1000 dönümlük bir alanı kaplayan Gaziantep Hayvanat Bahçesi\'niziyaret edebilirsiniz.</item>
+    </string-array>
+
+
+    <string-array name="giresun">
+        <item>Giresun</item>
+        <item>İlk gün Giresun’un yöresel lezzetleri ile kahvaltı edip yeşil ve mavinin şehri Giresun’da dolaşmaya hazırsınız. Giresun gezinize, 19. yüzyılın ortalarından kalma yaklaşık 150 yıllık bir Ortodoks kilisesi  Gogora Kilisesi (Giresun Müzesi) ile başlayabilirsiniz. Zeytinlik semtinde, tarihi evler ve dar sokaklar arasında Giresun’un geçmişine yolculuk edin. Fatih Sultan Mehmet’in uç beylerinden Seyyid Vakkas’ın türbesinin ardından,  Tarihi Millet Bahçesi ve eski Valilik binası, Osmanlı döneminde Lonca Mahallesi’nde Hacı Muhiddin Ağa tarafından inşa edildiği tahmin edilmekte olan Kale Cami, antik kaynaklarda “Bronz Duvarlı Kale” olarak anılan Giresun Kalesi ziyaretleri ile geziye devam ediniz. Kale, yeşil ve mavinin buluştuğu Giresun\'u yüksekten izlemek için ideal bir noktadır. Doğu Karadeniz’in antik çağ ve orta çağda yerleşime sahne olmuş ve birçok efsaneyi bünyesinde barındıran tek adası olan Giresun Adası’na geçip dönüşte aksu vadisinden içinde 1800 metre orman içi travertenleri, sodalı ve kükürtlü su gözeleri ile doğa harikası Kuzalan Tabiat Parkı, ardından gökyüzünün rengine göre renk aldığı söylenen yöre halkı tarafından Göğ Göl olarak adlandırılan, Mavi Göl gezisi ve büyüleyici Göksu Travertenleri’ni görüp istirahat için şehre dönebilirsiniz.  </item>
+
+        <item>Tarihi İpek Yolu (Erimez Yolu) kullanılarak Kulakkaya Yaylası ve Alçakbel Mesire Alanı’nda keyifli bir doğa yürüyüşünün ardından içimine doyum olmayan doğal maden suyu tadılarak  Sultan 2. Abdulhamid Han önderliğinde, işçi ve köylülerin çekiçlerle çalışması sonucu yapılan Halil Rıfat Paşa Tüneli ve mis gibi havasıyla Tamzara Mahallesi ardından Şebinkarahisar Meryemana Manastırı, Şebinkarahisar Kalesi ve Taşhanlar gezisinin devamında bol oksijenli havası ile Kümbet Yaylası ve  Koçkayası Tabiat Parkı ziyaret  ederek, kültür rotasını içinde Kırkharman Kilise , Hacı Abdullah Duvarı, Çakrak Köprü ve Kilisesi gezilerinden sonra Ağanın Köprüsü’nü de görüp sahil bandına inip Andoz Kalesi, Tirebolu Kalesi ve ardından Görele Kemençe Müzesi gezisi ile Görele pidesi tattıktan sonra Eynesil Kalesi’nde gezinizi sonlandırabilirsiniz.</item>
+    </string-array>
+
+
+
+    <string-array name="gumushane">
+        <item>Gümüşhane</item>
+        <item>Gümüşhane şehir gezisine Zigana Dağı’nın muhteşem manzarası altında zengin yemek kültürüyle yoğrulmuş mekanlarında kahvaltıyla başlayabilirsiniz. Et tesislerinde doğal pirzola tadabilirsiniz. Daha sonra eğer hava şartları uygunsa Zigana Kayak Merkezi’nde kayak yapabilir o muhteşem doğanın tadını doyasıya çıkarabilirsiniz. Gün içerisinde Limni Gölü Tabiat Parkı’nı, Torul Kalesi Cam Seyir Terası’nda muhteşem görüntüleri ve adrenalin duygusunu yaşayıp, sonrasında Türkiye’nin incisi, doğanın milyonlarca yıl uğraş vererek ortaya çıkardığı bir şaheser olan sabırla nakşedilen, her noktasına aynı özenin gösterildiği muhteşem bir yapıt olan Karaca Mağarası’nı ziyaret edebilirsiniz. Sonrasında Tomara Şelalesi Tabiat Parkı’nı ziyaret ettikten sonra seyir terasında muhteşem doğa manzarasında fotoğraf çekebilir, gününüzü sonlandırmadan önce,  eğer denk gelirseniz düzenlenen Uluslararası Kültür ve Sanat Festivalleri’ne katılıp eğlenebilirsiniz. Ardından hem yöresel tatların tadına bakma fırsatı bulabilir hem de şehre ait sergilenen el sanatlarını görme imkanına sahip olabilirsiniz. Konaklamak için ister Şiran ilçesini ister il merkezini seçebilirsiniz. </item>
+        <item>Gümüşhane gezinizin ikinci gününde ise şehir merkezindeki tarihi mimari açıdan son derece etkileyici Gümüşhane Konakları’nı gezebilirsiniz. Daha sonra Süleymaniye Mahallesi’ni, Meşhur Tohumoğlu Köprüsünü, Keçikalesini, Sarıçiçek Köy odalarını gördükten sonra Taşköprü yaylasında öğle yemeği olarak terbiye edilmeden tüketilen et pirzola yiyebilirsiniz.  Karadeniz Bölgesi’nin en dikkat çeken Santa Harabeleri, İmera ve Krom antik kentlerini gezdikten sonra Türkiye’nin incisi, doğanın milyonlarca yıl uğraş vererek ortaya çıkardığı bir şaheser olan sabırla nakşedilen, her noktasına aynı özenin gösterildiği muhteşem bir yapıt olan Karaca Mağarası’nı ziyaret edebilir, Limni Gölü Tabiat Parkı’nda konaklayabilirsiniz.</item>
+    </string-array>
+
+
+
+    <string-array name="hakkari">
+        <item>Hakkari</item>
+        <item>Güne erken saatte başlayıp, özgürce gezip tırmanabilecek, kamp yapılabilecek Cilo Sat Dağları Milli Parkı  ve Buzullar keşfedilmeyi bekleyen 3000 metre üzerinde onlarca buzul gölü, Reşko Zirvesi, Mergan Yaylası,Tarihi Kiliseler, Cennet Cehennem vadilerini keşfedebilirsiniz. Daha sonra 5000 yıllık olduğu tahmin edilen ve günümüzde gizemini hala koruyan Kaya Resimlerini görmek için Yüksekova’da bulunan Gevarok Vadisi’ne geçebilirsiniz.
+
+Buradaki yürüyüşü tamamladıktan sonra olan Şemdinli ve çevresini gezebilir, Şemdinli Çayı’nın huzur dolu sesine kulak verip biraz dinlenebilirsiniz. Şemdinli Çayı üzerinde yer alan ve 1898 yılında yapılan Taş Köprü’yü görmeden ilçeden ayrılmamalısınız. </item>
+
+        <item>Hakkâri ziyaretinin ikinci gününde eğer seyahatiniz kış mevsimine denk geldiyse Mergabütan Kayak Merkezi’ne uğramanızı tavsiye ederiz. Daha sonrasında Konak köyünde bulunan Koçanis Kilisesi’ne gidebilir ve Berçelan Yaylası’na geçerek yörede yetişen çiçek ve otları arasında eşsiz doğanın keyfini çıkarabilirsiniz. Daha sonra Zap Suyu eşliğinde Zap Vadisini gezebilir, Çukurca ilçesinde yer alan Tarihi Taş Evler ve değirmenler, Emir Şaban Camisi ve Sidan Su Kemerini gezebilirsiniz.  Sonrasında şehir merkezine dönerek şehrin simgesi olan ve en çok ilgi gören yerlerden biri olan Hakkâri Meydan Medresesi\'ni ve Çölemerik Kalesi\'ni ziyaret ederek gününüzü sonlandırabilirsiniz.</item>
+    </string-array>
+
+
+
+    <string-array name="hatay">
+        <item>Hatay</item>
+        <item>Güne Harbiye Şelaleleri’nde, sıcak çayınız eşliğinde ceviz ve narenciyelerden yapılmış reçeller, kahvaltılık mezeler, Hatay’a özgü çeşit çeşit peynir, lezzetli zeytinler ve sofradaki her tabakta yerini bulan zeytinyağıyla dolu bir kahvaltıyla başlayabilirsiniz. Kahvaltınızın ardından, tarih kokan eski Antakya evleri ve sokaklarında gezerken Türk kahvenizi yudumlayın. Dünyanın en büyük mozaik koleksiyonunu ve tabii ki Suppiluliuma heykelini görmek için Arkeoloji Müzesi’ni, daha sonra yöre halkının kültürü ve geleneklerini yaşatan Hatay Şehir Müzesi’ni gezdikten sonra Uzun Çarşı’da sevdiklerinize alacağınız hediyelikler için ihtiyacınız olan enerjiyi künefeyle alabilirsiniz. Üç büyük dinin hoşgörü içerisinde yaşadığı Antakya’da, Ulu Cami ve Aziz Paul Kilisesi’ni aynı gün içerisinde ziyaret edebilir, Asi Nehri’ne karşı yorgunluğunuzu atabilirsiniz. Amanos Dağları’nın taze havasını içinize çekeceğiniz Belen’de Belen tava yedikten sonra Arsuz’daki upuzun sahilin keyfini çıkarmak iyi bir fikir olacaktır. Eğer şanslıysanız Antakya Medeniyetler Korosu’nun bir konserine de denk gelebilir, gününüzü ruhunuza dokunacak bir müzik ziyafetiyle sonlandırabilirsiniz.</item>
+
+        <item>Tadı damağınızda kalacak ve bol enerji depolamanızı sağlayacak zengin Hatay kahvaltısının ardından Hatay’ı keşfe devam edebilirsiniz. Anadolu’nun ilk camisi Habib-i Neccar’ı, dünyanın en büyük kapalı ören yeri ve 1050 metrekare tek parça mozaiğin bulunduğu Necmi Asfuroğlu Müzesi’ni, ardından dünyadaki ilk kilisesi St. Pierre Kilisesi’ni ziyaret ederek sonar Haron (Cehennem Kayıkçısı)’u yakından görmek istiyorsanız tırmanmaya uygun ayakkabıları giydiğinizden emin olun.  Tıbbi Aromatik Bitkiler Müzesi’ne yapacağınız ziyaretin ardından Antakya Kurtuluş Caddesi’nde yiyeceğiniz Haytalı gününüzü renklendirecek. Titus Vespasianus Tüneli, Kaya Mezarları ve Beşikli Mağara’yı gezmek üzere Samandağ’a doğru yapacağınız yolculukta Samandağ Doğa Yürüyüş Yolu’nda keyifli vakit geçirebilirsiniz. Yemeğinizi Vakıflı Köyü’nde yedikten sonra Hz. Musa’nın asasını yere vurmasıyla oluştuğuna inanılan Musa Ağacı’nın bulunduğu Hıdırlı Köyü’nde ab-ı hayat suyu ile birlikte yorgunluk kahvenizi yudumlarken Hatay’a doyamadığınızı düşüneceğinize ve daha uzun kalmak isteyeceğinize eminiz. </item>
+    </string-array>
+
+
+
+    <string-array name="igdir">
+        <item>Iğdır</item>
+        <item>Iğdır’ın yöresel lezzetlerinin yer aldığı mekânlardan birinde kahvaltı yaparak güne başlayabilirsiniz. Çakırtaş Kul Yusuf Kümbeti, Anıt Müze ziyaret edip İrem Bağlarını gezebilirsiniz. Öğle yemeği için şehir merkezinde bulunan Taş Köfte ve Bozbaş gibi yöresel yemekler yapan mekânlardan birini tercih edebilirsiniz. Ardından sırasıyla; Koç Başı Mezarları, Ağrı Dağı Milli Parkı, Karasu Kuş Cenneti gezilip su maymunları görülebilir. Büyük Ağrı ve Küçük Ağrı, manzaraları mutlaka dikkatinizi çekecektir.</item>
+        <item>Kent ormanında yöresel kahvaltı yaparak güne başlayabilirsiniz. Ejder Kervansarayı ziyaretinden sonra Tuz Mağarası, Tuz Gölü, Üçkaya Vadisi, Üçkaya Gölü’nü gezebilirsiniz. Tuz mağarasına gitmişken tuz lambalarından satın alabilirsiniz. Yemek için Tuzluca Hamurkesen Köyü’nde alabalık tercih edebilirsiniz. Öğle yemeğinin ardından sırasıyla Gökkuşağı Tepeleri, Tekelti Dağı, Aras Nehri Kuş Cenneti gezisiyle gün tamamlanabilir.</item>
+    </string-array>
+
+
+    <string-array name="isparta">
+        <item>Isparta</item>
+        <item>İl merkezinde bulunan Etnografya ve Halı Müzesi’ne Çay Boyu’ndan yürüyerek gidin. Isparta’da dokumuş halıları görün ve müzenin en üst katından Isparta’yı seyredin.
+
+Üzüm Pazarı’nda ve Firdevs Bey Bedesteni’nde alışveriş yapın, öğle yemeğinde ise Kabune Pilavı yiyin.
+
+Öğleden sonra Gölcük Gölü Tabiat Parkı’nda yürüyüş yapın, onlarca fotoğraf çekin!</item>
+        <item>Günün ilk ışıklarıyla gül bahçelerinde gül toplayıp, gül yağı ve gül suyu üreten atölye ve fabrikaları ziyaret edin.
+
+Öğleden sonra ise Eğirdir’de Hızırbey Camisi, Dündar Bey Medresesi ve Kovada Gölü Milli Parkı’nı gezdikten sonra Akpınar köyü seyir terasında Eğirdir Gölü manzarası ile gün batımı seyredin.
+
+Lavanta bahçelerinde fotoğraf çekin, lavanta yağı ile lavanta suyu alın ve sevdiklerinize lavanta tacı hediye edin.
+
+Öğleden sonra ise Pisidia Antiokheia Antik Kenti’ni, Yalvaç Müzesi’ni ziyaret edin ve Yalvaç’tan deri, keçe ve minyatür at arabası gibi hediyelik eşyalar alın.
+
+Kış aylarında, Davraz Kayak Merkezi’nde kayak yapın. İslamköy’de Süleyman Demirel Müzesi’ni ve anıt mezarını ziyaret edin. Atabey’de Ertokuş Medresesi’ni mutlaka görün.
+
+Yazılı Kanyon Tabiat Parkı ise yılın her ayı ziyaret edilebilecek bir doğa harikası. Kanyona gidince ülkemizin en iyi korunmuş antik kentlerinden biri olan Adada Antik Kenti’ini de ziyaret edebilirsiniz.</item>
+    </string-array>
+
+
+    <string-array name="izmir">
+        <item>İzmir</item>
+        <item>İzmir lezzetlerini, klasik bir İzmir kahvaltısı olan yumurta ve boyoz ile deneyimlemeye başlayın. Kahvaltı sonrası keşfe Konak Meydanı’nda yer alan ve aynı zamanda şehrin buluşma noktalarından biri olan İzmir Saat Kulesi\'ni görerek başlayabilirsiniz.
+
+Müze gezmeyi seviyorsanız İzmir Mask Müzesi, Kadın Müzesi, Radyo ve Demokrasi Müzesi, Oyun ve Oyuncak Müzesi, İzmir Neşe ve Karikatür Müzesi, İzmir Resim ve Heykel Müzesi, Ahmet Priştina Kent Arşivi ve Müzesi, İzmir Atatürk Evi ve Müzesi, TCDD Müze ve Sanat Galerisi tam da size göre!
+
+Çarşı, 500 yıllık tarihiyle, İzmir\'de mutlaka görmeniz ve alışveriş yapmanız gereken yerlerden biri.  Bakırcılardan çantacılara, kuyumculardan hediyelik eşyacılara kadar pek çok dükkân burada sizi bekliyor.
+
+İzmir\'in en eski oteli Yeni Şükran\'ın yanı sıra Milli Kütüphane ve Devlet ve Opera Balesi de burada yer almaktadır. Yorgun olduğunuzda Kızlarağası Hanı\'nda bir kahve içmeyi ve alışverişinizi bitirdikten sonra çok yakın olan Tarihi Saat Kulesi\'ni görmeyi unutmayın.
+
+İkinci Gün
+</item>
+        <item>Yöresel dokusunu korumayı başarmış şirin sahil kasabalarına ilgi duyuyorsanız pazar sabahı erken saatlerde Sığacık\'a gidebilir, burada kahvaltı yaptıktan sonra organik marketten alışveriş yapabilirsiniz.
+
+Karataş semtindeki tarihi asansör ve Balçova\'daki teleferik, İzmir\'in en güzel manzaralarından ikisini görmek için uğramanız gereken adreslerdir.
+
+Dario Moreno, İzmir\'de yaşamış en büyük sanatçılardan biridir. Asansörden indiğinizde Dario Moreno\'nun bir dönem yaşadığı meşhur Dario Moreno Sokağı\'nı göreceksiniz.
+
+Bu sokak, eski Rum evleri, tatlı kafeleri ve hediyelik eşya dükkanlarıyla dolu, kısa ama keyifli bir sokaktır.
+
+Sokakta alışveriş yapabilir, kafe ve barlarda oturabilirsiniz. Sonrasında sokağın paralelindeki Kordon\'a gitmeyi ve temiz havada yürüyüş yapmayı ihmal etmeyin. Alsancak\'ta gece hayatının tadını çıkarabileceğiniz pek çok yer bulunmaktadır. Dilerseniz vapura binip Karşıyaka\'ya gidebilirsiniz.
+
+Tarihe meraklıysanız bir gününüzü Efes Antik Kenti\'ne ayırabilirsiniz. Bergama, Agora, Erthrai ve Teos İzmir\'de sizi bekleyen diğer antik kentler arasında yer almaktadır.</item>
+    </string-array>
+
+
+    <string-array name="kahramanmaras">
+        <item>Kahramanmaraş</item>
+        <item>Yöresel gıdalar ve Türk çayı ile mükemmel bir kahvaltıyla güne başlayabilirsiniz. Ardından Kahramanmaraş’ın tarihi ve kültürel zenginliğine tanık olmak için Kahramanmaraş Müzesi’nden başlayarak Germanicia Mozaik Alanı Örenyeri, Kahramanmaraş Kalesi, Ulu Cami, Taş Medrese’yi gezdikten sonra öğle yemeği için çarşıdaki restoranlardan birinde mola verebilirsiniz. Burada ekşili çorba vb. yöresel lezzetlerle öğle yemeğinizi tamamladıktan sonra Dondurma Müzesi (Katip Han), Tarihi Maraş Çarşıları, Kurtuluş Destanı Panorama Müzesi, Abdulhamithan Cami, Malik Bin Ejder Türbesi, Taş Köprü’yü keşfedebilirsiniz. Tarihi çarşıları gezerken sevdikleriniz ve kendiniz için Maraş dondurması, biberi, tarhanası, fıstık ezmesi, şıra ürünleri (samsa, sucuk, bastık) vb. gıdalar ve kuyumculuk, ahşap oymacılık, bakırcılık, yemeni-çarıkçılık, Maraş işi sim-sırma gibi el sanatları ürünlerinden satın alabilirsiniz. Yöresel mutfağın özgün yemeklerinden oluşan bir sofra ile günü tamamlayabilirsiniz.
+</item>
+        <item>Sabah erken kalkıp kahvaltı ettikten sonra Eshab-ı Kehf Külliyesi’ne hareket ederek semavi dinler açısından kutsal kabul edilen Eshabı Kehf Mağarası ve etrafında inşa edilen tarihi külliyeyi gezebilirsiniz. Sonrasında Dulkadiroğlu ilçesi Gazipaşa Mahallesi\'nde 1860\'lı yıllarda inşa edilen Yedi Güzel Adam Edebiyat Müzesini gezebilirsiniz. Ardından Ilıca Kaplıcası’na hareket ederek kaplıcanın sıcak suyunda hem şifa bulup hem de dinlenebilirsiniz. Öğle yemeği için Fırnız Çayı Mesire Alanı’nda alabalık yiyebilir, sonrasında Taş Köprü ve Menzelet Mesire Alanı’nı görebilirsiniz. Başkonuş Yaylası’na hareket edip, burada biraz vakit geçirdikten sonra dönüş yoluna geçebilirsiniz.
+</item>
+    </string-array>
+
+
+
+    <string-array name="karabuk">
+        <item>Karabük</item>
+        <item>Karabük’teki ilk gününüzde güzel bir kahvaltının ardından Safranbolu Hıdırlık Tepesi’nden tüm şehir manzarasını seyrettikten sonra tarihi mimari örnekleri olan İzzet Mehmet Paşa Cami, Cinci Hanı, Köprülü Mehmet Paşa Cami ve Güneş Saati’ni ziyaret edilebilirsiniz. Biraz soluklanmak ve alışveriş yapmak için Yemeniciler Arastası’na gidebilir ardından Demirciler ve Bakırcılar Çarşısı’nda gezip yöreye özgü el sanatlarını inceleyip hediyelik eşya alabilirsiniz. Çarşı içinde çay ya da kahve molası verdikten sonra  öğle yemeğinde yöresel yemekler denenebilir. Günü sonlandırmadan Safranbolu Kalesi’den şehri izledikten sonra Kent Tarihi Müzesi, Saat Kulesi’ne uğrayabilirsiniz.</item>
+        <item>Karabük’teki ikinci gününüzü şehrin doğal güzelliklerini ve kültürünü keşfetmeye ayırabilirsiniz.  Güzel bir kahvaltının ardından öncelikle şehir merkezinde Türk mutfağında önemli bir yere sahip olan Türk kahvesi kültürünü ve tamamlayıcı değerlerini görmek için Türk Kahvesi Müzesi’ni ziyaret edebilirsiniz.  Müze ziyaretinin ardından şehir merkezine yarım saat mesafede olan Bulak Mencilis Mağarası’na doğru yola çıkabilir, buradan İncekaya Su Kemeri ve Cam Teras’a uğrayabilir, ardından 1 saat mesafede olan Yenice Ormanları’na doğru yola çıkabilirsiniz. Burada yer alan Ihlamur Terası’nın ardından 6,5 km uzunluğa sahip Şeker Kanyonu ziyaret ederek nehir kenarında piknik ya da kaya tırmanışı yapabilirsiniz. Doğayla baş başa huzur içinde geçireceğiniz birkaç saatten sonra son olarak 1 saat mesafede olan Eskipazar Hadrianopolis Antik Kentini ziyaret ederek tarihi M.Ö. 1. yy. dan M.S. 8. yy. a kadar yaşamın var olduğu düşünülen kentte geçmişe yolculuk yapabilirsiniz.</item>
+    </string-array>
+
+
+    <string-array name="karaman">
+        <item>Karaman</item>
+        <item>Kentteki birinci güne lezzetli bir kahvaltının ardından Karaman merkezde bulunan Karaman Kalesi’ni keşfederek başlayabilir ve sonrasında yürüme mesafesinde bulunan Karaman Müzesi’ne giderek burada bulunan etnoğrafik ve arkeolojik eserleri inceleyebilirsiniz. Müzenin hemen yanındaki Hatuniye Medresesi\'ni ziyaret edebilirsiniz. Sırasıyla Aktekke Camii ve büyük Türk şairi Yunus Emre’nin türbesinin de bulunduğu Yunus Emre Cami’sine uğrayabilirsiniz Türk mimarisinin en güzel örenklerinden olan Hürrem Dayı Evi’ni ve Tartanlar Konağı’nı ziyaret edebilirsiniz. . Karaman merkez ve diğer ilçelerinde bulunan lokantalardan yerel tatların tadına bakmak için küçük bir öğle yemeği molası verebilirsiniz. Sonrasında Karaman merkeze 46  km uzaklıkta  bulunan Taşkale’ye uğrayabilir ve uzunluğu bir kilometreyi aşan İncesu Mağarası’nı,  Manazan Mağaraları’nı ve Taşkale Tahıl Ambarlarını ziyaret edebilirsiniz. </item>
+        <item>Kentteki ikinci güne Karaman merkezden Ermenek ilçesine hareket ederek başlayabilirisiniz. İlçeye ulaştıktan sonra ilk olarak Zeyve Pazarı’na uğrayıp su değirmenlerinden gelen suların sesini dinleyebilir ve seyahatinize huzur katabilirsiniz. Sonrasında seyahatiniz yaz aylarına denk geliyorsa Ermenek Barajı’na gidip su sporları yapabilirsiniz. Buradan yürüme mesafesinde bulunan Tol Medrese’yi ziyaret edebilir ve üzüm pekmezinden elde edilen meşhur Ermenek Helvası ve Ermenek Bandırmasının tadına bakarak enerji depolayabilirsiniz.</item>
+    </string-array>
+
+
+
+    <string-array name="kars">
+        <item>Kars</item>
+        <item>Kars’taki ilk günümüzü Kars’ın şehir merkezinde geçirebiliriz. Zira şehir merkezinde ziyaret etmemiz gereken birçok yer, görmemiz gereken birçok şey var!
+
+Kaleiçi Mahallesi’ndeki Eski Osmanlı yerleşimini görerek güne başlayabiliriz. Ardından Kars’ın Çarlık Rusya hâkimiyetinde olduğu dönemde, ızgara plana sahip Ortakapı, Cumhuriyet ve Yusufpaşa mahallelerini görelim.
+
+Öğle yemeğinde eşsiz bir kaz eti yedikten sonra Kars’ı keşfetmeye kentin batısına yerleşen Arkeolojik Müze’den devam edebiliriz. Müzede Paleolitik Dönem, Erken Tunç Dönemi, Urartu, Roma, Bizans, Selçuklu ve Osmanlı’dan kalan eserleri görebilirsiniz.
+
+Kars Kalesi’nde, bir mola vermeye ve sıcak bir çay eşliğinde Kars’ı izlemeye ne dersiniz? Moladan sonraki durağımız, Kars Kalesi\'nin güneyinde, 10. yüzyılda bir Ermeni kilisesi olarak inşa edilmiş, 11. yüzyılda camiye çevrilmiş olan Kümbet Cami’si! İlk günün son durağı ise 19. yüzyıl sonunda, dönemin Rus Çarı 2. Nikola tarafından Baltık mimarisi tarzında inşa ettirilen Katerina Av Köşkü olabilir!</item>
+        <item>Kars’taki ikinci günün bir kısmını Ani Ören Yeri’nde geçirmeliyiz. Zira Kars’a gelip de Ani Ören Yeri’ni ve o eşsiz harabeleri görmeden ayrılmak olmaz! Kars’ın şehir merkezinden bir saatlik bir yolculuk ile Ermenistan sınırındaki Ani’ye varmak mümkün.
+
+Ani Ören Yeri’ni keşfetmek ve oradaki birbirinden değerli eserleri görmek birkaç saatinizi alabilir. Ardından, öğle yemeği için Çıldır Gölü, en iyi seçenek gibi duruyor!
+
+Çıldır Gölü en iyi seçenek gibi duruyor, zira kışları buz tutan, üzerine yürüme imkanı veren bu göl, aynı zamanda çok lezzetli Sarı Balık’lara ev sahipliği yapıyor. Kars’ın kaşar peyniri ve kaz eti gibi eşsiz bir lezzete sahip bu Sarı Balık’lar, Kars’a geldiğimizde tatmamız gereken lezzetlerden!
+
+Günün sonuna doğru ise Kars’a geri dönüş yapmak gerekiyor. Akşam, yine Kars’a özgü, başka bir yerde denk gelemeyeceğiniz bir aktiviteye katılabilirsiniz: Aşık dinletisi.</item>
+    </string-array>
+
+
+
+    <string-array name="kastamonu">
+        <item>Kastamonu</item>
+        <item>Kastamonu’da ilk gününüzde yöresel lezzetlerden oluşan bir kahvaltının ardından  Cumhuriyet Meydanı, Kastamonu Hükümet Konağı ve Kent Tarihi Müzesi’nin gezebilir, buradan şehrin en güzel göründüğü yerlerden biri olan Saat Kulesi’ne çıkıp manzaranın tadını çıkarabilirsiniz. Kent merkezinde Nasrullah Külliyesi ve Münire Medresesi El Sanatları Çarşısı, Yılanlı Külliyesi, Liva Paşa Konağı Etnografya Müzesi’ni ziyaret edebilirsiniz.
+
+Öğle yemeğinizi yöresel yemek evlerinden birinde yedikten sonra, Arkeoloji Müzesi, Kastamonu Kalesi, Ev Kaya Mezarları ve Mimar Vedat Tek Kültür ve Sanat Merkezi’ni gezebilir, ardından İsmail Bey Külliyesi ile El Sanatları Çarşısı’nı gezerek alışveriş yapıp birinci gün programını bitirebilirsiniz.</item>
+        <item>İkinci gün Küre Dağları ve Kastamonu sahil bandının merkezine bir program yapabilirsiniz. Sabah erken yola çıkarak Küre Dağları’na doğru gidebilir, burada Ersizlerdere Kanyonu’nda doğa yürüyüşü yapabilirsiniz. Burada Kanyon manzarası eşliğinde kahvaltı ederken Ecevit Çorbasını deneyebilirsiniz.
+
+Küre ilçesinde Akşemseddin Cami ve diğer tarihi eserlerin gezilmesi sonrasında İnebolu’ya hareket edebilir,  burada kırmızı aşı boyalı İnebolu Evleri arasında İnebolu’yu keşfedebilirsiniz. Daha sonra Beldeğirmeni Köyü’nde 6 asırlık çınar altında dinlenip bir kahve molası verdikten sonra yeşille mavinin buluştuğu muhteşem doğasını görmek için Çatalzeytin’e gidebilir, burada Ginolu Kalesi ve plajını gezildikten sonra Küre Dağları’nın en yüksek noktası Yaralıgöz Dağı’nın gölgesinden geçip Kastamonu merkeze hareket edebilirsiniz.
+
+</item>
+    </string-array>
+
+
+
+    <string-array name="kayseri">
+        <item>Kayseri</item>
+        <item>Sabah erken saatlerde yapılan geleneksel bir kahvaltının ardından sırasıyla Arkeoloji Müzesi, Esnaf Müzesi, Güpgüpoğlu Konağı ve Etnografya Müzesi, Atatürk Evi, Kale, Vezir Han, Ulu Cami, Kapalı Çarşı, Gevher Nesibe Tıp Tarihi Müzesi ( Selçuklu Uygarlığı Müzesi) ve Döner Kümbet’i görebilirsiniz. Sonrasında lezzetli bir öğle yemeği için mola verip yöresel lezzetlerden oluşan bir seçkiyle farklı tatları deneyebilirsiniz. Yemekten sonra Mimar Sinan’ın doğduğu yer olan Ağırnas’a doğru hareket edebilir, yol üzerinde Gesi Bağları’na uğrayarak buradaki güvercinlikleri keşfedebilir, Kültepe Höyüğü’nde durup tarihe tanıklık edebilirsinizAğırnas’a vardığınızda burada insanı hayrete düşüren en z 3 bin yllık geçmişe sahip yeraltı şehirlerini keşfedebilir, Mimar Sinan Evi’ni ziyaret edip Sinan Çeşmesi’ni görebilirsiniz. Eğer yorgun hissetmiyorsanız son olarak 1 saatlik mesafede olan Tuzla Gölü’ne uğrayabilir ve doğada biraz kafa dinledikten sonra dönüş yoluna geçebilirsiniz.</item>
+        <item>İkinci gün sabah erkenden önce Hürmetçi ve Dokuzpınar’a uğrayarak, bölgedeki sazlık çevresinde koşturan Yılkı Atları’nı görüp, fotoğrafını çektikten sonra, bölgeye özgün manda kaymağı, sucuğu ve parstımalarının tadına bakıp,Soğanlı Vadisi’ne doğru yola çıkabilirsiniz. Akköy Baraj Gölü’nden başlayarak uzanan vadi içerisinde Geyikli, Tahtalı (Santa Barbara), Kubbeli, Saklı, Yılanlı, Karabaş, Tokalı ve Ballık kiliselerini ziyaret edilebilirsiniz. Birçok bölgede olduğu gibi yöresel kültürü yansıtan bez bebeklerden satın alabilir ve buradan sonra Sultansazlığı’na geçerek bu doğa harikasını görebilir, temiz havada güzel bir öğle yemeğinin ardından günün geri kalanı için Erciyes Kayak Merkezi’ne doğru yola çıkabilirsiniz. Erciyes’te günün geri kalanında kayak ya da dilerseniz yürüyüş yapabilirsiniz. Şehre döndüğünüzde Kapalı Çarşı’ya uğrayıp bir kaç hediyelik alabilir ardından bir yerde oturup meşhur Kayseri Mantısı ile kendinize bir ziyafet çekebilirsiniz.</item>
+    </string-array>
+
+
+
+    <string-array name="kirklareli">
+        <item>Kırklareli</item>
+        <item>Güne 180 milyon yıllık tarihe sahip görenleri büyüleyen Dupnisa Mağarası\'nı gezerek başlayın. 2.720 metre uzunluğunda ve bir yeraltı nehri olan site, gezi güzergahına eklenmelidir. Roma Döneminde garnizon olarak kullanılan ve halen ayakta kalan ve etkileyici bir cepheye sahip olan Sislioba Kalesi ile devam edin. İğneada Ormanları her gezinin hoş durağıdır. Çok nadir bulunan taşkın yatağı ormanlarıyla kaplı bu tertemiz oksijenli bölgede yürümek ruhunuzu dinlendirecek. Yemyeşil manzara ve ormancılık, berrak göllere yansır ve muhteşem bir siluet oluşturur. Özenle korunan bu doğa mucizesi mekan, ormanları, yüzlerce bitki ve hayvanı içerir. Burayı Kırklareli\'nde yapılacaklar listenize eklemenizi öneririz. İğneada Longoz ormanına sadece kısa bir sürüş mesafesindeki bir diğer güzel seçenek ise birçok doğal zenginliği ile yeşilin her tonunu görebileceğiniz enfes bir alan olan Saka Gölü Taşkın Yatağı’dır. Saka Gölü Taşkın Yatağı, Kırklareli\'de gezilecek yerler listesine eklenebilecek bir gezi durağıdır. Keşfedilmeyi bekleyen bir tatil beldesi olan Panayır İskele Koyu\'nda günü sonlandırın. Burası Kışlacık Köyü\'nde koruma altındaki bir plaja ve kutu benzeri yapılara sahiptir. Kırklareli\'nin tabiat hazinelerine güzel bir örnek olan Panayır Koyu\'nu gezilecek yerler listenize eklemenizi tavsiye ederiz.</item>
+
+        <item>Yılın her döneminde ziyaret edilebilen tuğla ve kireç taşı ile inşa edilen Zindan Baba Türbesi\'ni ziyaret ederek güne başlayın. Kırklareli tarihi mekanlarının güzel bir örneği olan Zindan Baba Türbesi ziyaretçilerini bekliyor.
+
+Kırklareli şehir merkezine sadece 3 km uzaklıkta, elverişli bir konumda bulunan Aşağı Pınar Höyüğü, Neolitik dönem insanlarının yaşam alanları ve eşyaları ile büyük bir tarihi gezi alanıdır. Ünlü Trakya devletinin merkezi olan Vize halkı, bu kaleyi Roma İmparatorluğu ile mücadeleleri sırasında inşa etmişlerdir. Günümüze kadar gelen Kalesi, Kırklareli geziniz sırasında mutlaka ziyaret etmeniz gereken yerlerden biridir. Kırklareli\'nin tarihi yerleri arasında önemli bir yere sahip olan Vize Kalesi, Kırklareli\'nin ören yerleri listenize eklenmelidir. Karadeniz kıyılarına doğru devam edin. İnce mimari becerilerin simgesi olan kayalara oyulmuş Kıyıköy\'deki Aya Nikola Manastırı, zamanının en iyisi olarak dikkat çekiyor. Kırklareli\'nin tarihi mekanlarının güzel bir örneği olan St. Nicholas Manastırı, İmparator IV. Justinianus tarafından yaptırılmış olup yerli ve yabancı ziyaretçileri cezbeder. Bunu Kırklareli\'deki mekanlarda yapılacaklar listenize koymalısınız. Kışlacık Köyü sınırları içerisinde yer alan Poliçe Koyu, doğal güzelliği nedeniyle ilgi çekici bir yerdir. Yemyeşil ormanlarla çevrili ve tertemiz bir denizi ile, yolculuğunuz için ideal bir mola noktasıdır.</item>
+    </string-array>
+
+
+    <string-array name="kirikkale">
+        <item>Kırıkkale</item>
+        <item>Güne yöresel ürünler ve hamur işinden oluşan zengin bir kahvaltıyla başlanabilir.  Kahvaltının ardından Yahşihan Merkez Gar Binası, Tarihi Çelik Köprü, Silah Müzesi, Yeşil Vadi - Obaköy ile Macera Adası gezilebilir. Ballı Cami Aslan Bey Konağı, Tayyar Bey Konağı ve Koçubaba Türbesi gezilerinin ardından öğle yemeğinde Keskin Tava yenilebilir. Öğle yemeğinin ardından Karabekir Konağı, Şeyh Cami ve Türbesi, Yeşil Cami, Kalekışla Köyü Kalesi, Gavurevi Ören Yeri ve İn Mağarası gezilerek gün tamamlanır.</item>
+        <item>Kırıkkale’deki 2. gününüze Celal Bayar Millet Bahçesi veya Karaahmetli Tabiat Parkında yapılacak açık hava kahvaltısıyla başladıktan sonra, Köprüköy istikametinde yol alınarak Çeşnigir Köprüsü ve Çeşnigir Kanyonu ziyaret edildikten sonra öğle yemeğinde Kızılırmak’tan avlanan taze turna veya kadife balığı yenebilir.
+
+Öğle yemeğinden sonra Büklükale Arkeolojik Yerleşimi gezisi yapılır ve Keskin ilçesine doğru yol alınır. İlçede bulunan Sulu Mağara Ören Yeri, Kibrithane, Fişekhane, Bedesten çarşısı, Rahmi Pehlivanlı Sanat Evi, Hacı Taşan Evi, Rum Kilisesi ve Ceritkale Kaya Mezarları ziyaret edilebilir. Taş Mektep’te (Hacı Taşan Sanat Evi) Keskin yöresi halk müziği dinletisinden sonra dönüşte Hasandede Külliyesi ziyaret edilerek gün tamamlanır.</item>
+    </string-array>
+
+
+
+    <string-array name="kirsehir">
+        <item>Kırşehir</item>
+        <item>Kırşehir’deki ilk gününüzün sabahında, Kırşehir’deki Cumhuriyet dönemi sivil mimarinin nadir örneklerinden olan, Ağalar Konağı’nda çığırtma, organik bal ve tereyağını tadabileceğiniz zengin bir Kırşehir kahvaltısının keyfini yaşayarak güne başlayın.
+
+Hem sosyal hem de kültürel aktivitelerin olduğu, su ve yeşilin birleştiği bir mekân olan Kent Park’ı gezdikten sonra; esnaf ve sanatkârlarımızı teşkilatlandıran Ahi Evran-ı Veli’nin türbesinin de bulunduğu Ahi Evran Külliyesi’ni ziyaret edin.  Daha sonra Selçuklu döneminde inşa edilen ve dünyanın ilk Astronomi ve Uzay Bilimleri Araştırma Merkezi olan Cacabey Cami ve Medresesi’ni ziyaret ederek eşsiz mimarisini görün.
+
+Tarihi İpekyolu üzerinde bulunan, 4.000 yıllık kültürel mirası barındıran, 35 yıldır kazı çalışmaları sürdüren ve bugüne kadar 2 bini aşkın eserin ortaya çıkarılmasını sağlayan Kaman Kalehöyük Arkeoloji Müzesi’ni ziyaret edin. Kalehöyük Arkeoloji Müzesi’nin yanında bulunan, Japonya sınırları dışında bulunan en büyük botanik bahçe olan Japon Bahçesi’nin doğal güzelliğinin tadını çıkarın.
+
+Yöresel Kırşehir yemeklerinden oluşan bir akşam yemeği yiyerek ilk günü tamamlayın.</item>
+        <item>İkinci gününüzde, yaz-kış 19 derece sıcaklığı olduğu için üzerinde nilüferlerin eksik olmadığı, içinde bin bir çeşit balığın olduğu Hılla Gölü manzarası eşliğinde kahvaltının tadını çıkarın.
+
+Kızılırmak Nehri’nin kenarında bulunan ve heybetli taç kapısı, aslan figürleri, sivri kemerleri gibi zengin mimari özellikleriyle dikkat çeken Kesikköprü Kervansarayı’nı ve kervansarayın hemen yanında bulunan, Selçuklu Dönemi’nde ticari anlamda büyük öneme sahip olan on üç gözlü Kesikköprü’yü ziyaret ederek tarihin izlerini ve doğanın güzelliğini aynı anda görün.
+
+M.S. 2. yüzyılda, Roma döneminde savaş ve baskınlar sırasında halkın korunması amacıyla yapılan, yerden 7-8 metre derinlikte olan ve 42 adet odası bulunan Mucur Yeraltı Şehri’ni ziyaret edin. Başta flamingolar olmak üzere, 167 türden oluşan 600-700 bin kuşun yaşadığı, Mucur Seyfe Gölü Milli Parkı’nda doğal güzelliklerin huzurunu yaşayın.
+
+Mimarisi ve iki farklı renkte olan toprak yapısıyla dikkat çeken Kepez Yeraltı Şehri’ne uğrayarak günü tamamlayın.
+
+Günün akşamında termal tesislerde sıcak termal suyun keyfini çıkarın.</item>
+    </string-array>
+
+
+
+    <string-array name="kilis">
+        <item>Kilis</item>
+        <item>Kilis’in yöresel lezzetlerinin yer aldığı mekanlardan birinde kahvaltı yaparak güne başlayabilirsiniz. İlk olarak tarihi taş sokakları ve tarihi konakları gezip, ardından 22 sahabe türbesinden birkaçını ziyaret edilebilirsiniz. Öğle yemeğinde yöresel lezzetlerin tadına bakabilir ve ardından Ravanda Kalesi’ne geçebilirsiniz. Ravanda Kalesi keşfinin ardından rotanızı, kazı çalışmaları devam eden, Ortadoğu’nun en büyük höyüğü olan Oylum Höyük’e çevirebilir, Erken Bizans Sanat Dönemi\'nin özelliklerini yansıtan Mozaikli Bazilika’yı görebilirsiniz. Son olarak merkeze dönerek tarihi çarşılardan yöresel zeytinyağı, gerebiç ve kahvaltılık zahter alıp lezzetli bir akşam yemeğiyle günü tamamlayabilirsiniz.</item>
+
+    </string-array>
+
+
+
+    <string-array name="kocaeli">
+        <item>Kocaeli</item>
+        <item>Kocaeli, Gebze’ye bağlı Tavşanlı Köyü sınırında bulunan Ballıkayalar Tabiat Parkı\'nda kaya tırmanışı ve trekking için mükemmel bir rota olacaktır. Yol boyunca tavşan, tilki, çakal, domuz ve alaca karga gibi hayvanlarla da karşılaşmanız çok olasıdır. Kolay ve orta seviyeli parkurları vardır. Trekking rotası boyunca irili ufaklı şelalelerin döküldükleri yerde açtıkları küçük göletlerden geçerek güzel manzarlar eşliğinde gün boyunca keyifli bir yürüyüş yapabilirsiniz.</item>
+        <item>Şelaleleri keşfetmeye meraklıysanız Serindere Kanyonu iyi bir seçim olacaktır. Yükseklikleri 10 ile 20 metre arasında değişen 6 adet şelalesi bulunan Serindere Kanyonu, Kocaeli\'nin ve bölgenin en zorlu kanyonudur. İzmit’e 26 kilometre uzaklıkta bulunan Serindere Kanyonu’nda şelaleleri ve göletleri keşfederken şelale altında serinleyebilir, doğa yürüyüşü veya kaya tırmanışı yapabilirsiniz.  Kocaeli geziniz boyunca yöresel tatlar olan; Umaç Çorbası, Kandıra Yoğurdu, İzmit Pişmaniyesi, İzmit Simidi, Mancarlı Pide, Simit Dolma, Dartılı Keşkek gibi geleneksel yemeklerin tatlarına bakılmalıdır. Dönüş yolunda şehir merkezinde bulacağınız dükkanlardan alacağınız; Karamürsel Sepeti veya lefke kumaşından üretilen eşyalar ise hatıra olarak güzel hediye alternatifleri olabilirler.</item>
+    </string-array>
+
+
+
+    <string-array name="konya">
+        <item>Konya</item>
+        <item>Sabahları Konya\'da bozkırın temiz kokusu eşliğinde çok zengin bir kahvaltıda Türk çayını yudumlayın. Mevlana Müzesi\'ni ziyaret edin. Daha sonra tarihin güzelliklerinde kendinizden geçmeye devam edin; Konya Panorama Müzesi, İnce Minare Medresesi ve Karatay Medresesi\'ni ziyaret edin. Öğle yemeğinde Konya\'nın ünlü Etli Ekmek\'ini yiyin. Öğle yemeğinden sonra Alaaddin Tepesi\'ndeki Alaaddin Cami ve Selçuklu Sarayı\'nın kalıntılarını ziyaret edin. Konya Arkeoloji Müzesi\'ni ve Kelebek Bahçesi\'ni ziyaret edin. Bir zamanlar Anadolu Ortodokslarının yaşadığı Sille köyüne gidin ve Aya Eleni Kilisesi\'ni ziyaret edin. Meram Bağları\'nda dinlenin. Akşam yemeğinde Fırın Kebabı yedikten sonra Mevlana Kültür Merkezi\'ne gidin ve Sema Töreni\'ne katılın. Mistik müzik ile huzur bularak günü tamamlayın.</item>
+        <item>Sabahın ilk ışıklarıyla Çatalhöyük Neolitik Kenti\'ne gidin ve binlerce yıl önce bu muhteşem yerde tarihe tanıklık edin.
+
+Kilistra\'ya gidin ve peri bacası benzeri yerleşimi ile bu antik tarihi yerde havasını soluyun.
+
+Daha sonra Beyşehir ilçesine taşının ve Beyşehir Gölü\'nün eşsiz doğasını ve çevresindeki tarihi güzellikleri keşfedin.
+
+Ünlü Türk mizahçısı Nasreddin Hoca\'nın dünyanın merkezi olarak kabul ettiği Akşehir\'e gidin. Nasreddin Hoca\'nın mezarını ziyaret edin. Nasreddin Hoca\'nın çok komik fıkralarını anlatan heykellerle donatılmış Gülmece Parkı\'na gidin. Tarihi Akşehir evlerinde yürüyün ve tarihi Nasreddin Hoca Arkeoloji ve Etnografya Müzesi\'ne ulaşın.
+
+Günün sonunda, Mevlevi kültürüne özgü hediyelik eşyaları ve Konya\'nın lezzetli şekerlerini almayı unutmayın. </item>
+    </string-array>
+
+
+
+    <string-array name="kutahya">
+        <item>Kütahya</item>
+        <item>Kütahya’daki ilk gününüze enfes lezzetlerden oluşan yöresel Ege kahvaltısı ile başlayabilirsiniz. Kahvaltının ardından tarihte en az çağdaşları Efes, Bergama, Side Antik Kentleri kadarönemli bir yere sahip olan Aizanoi Antik Kenti ile Zeus Tapınağı’nı ziyaret etmek için yola çıkabilirsiniz. Antik kent turunu tamamladıktan sonra şehir merkezine dönüp burada yer alan Çinili, Dönenler ve Ulu Cami’yi keşfedebilirsiniz. Ulu Cami’den çıkıp bir yemek molası verebilir, Kütahya’nın meşhur haşhaşlı pidesini deneyebilirsiniz. Yemeğinizin ardından çinileriyle ünlü Kütahya’da en göz alıcı eserleri görmek için Türkiye’nin ilk ve tek Çini Müzesi’ni ziyaret edebilir, yöresel giyim ve el sanatları ürünlerini görmek için sonrasında Germiyan Sokağı’na geçerek buradan sevdiklerinize hatıra olacak ufak hediyeler alabilirsiniz.</item>
+        <item>Kütahya’daki 2. güne merkezdeki tarihi Kütahya konaklarında keyifli bir kahvaltı ile başlanılabilir. Ardından Miyosen döneminden itibaren Paleolitik, Kalkolitik, Eski Tunç, Hitit, Frig, Helenistik, Roma, Bizans, Selçuklu ve Osmanlı dönemlerine ait eserlerin sergilendiği Arkeoloji Müzesi’ne gidebilirsiniz. Müze ziyareti sonrası Frig Vadisi’ne doğru yola çıkmadan evvel şehrin sembolik yapılarından biri olan Kütahya Kalesi’ne uğrayabilirsiniz. Ardından merkeze yarım saat mesafedeki Frig Vadisi’ne doğru yola çıkabilirsiniz. Eski bir yanardağ olup Türkmen dağının tüfleriyle örtülü ve M.Ö. 900-600 yılları arasında Frigler tarafından iskan edilmiş olan Frig vadilerini, buradaki kalıntıları keşfedebilirsiniz. Yoğun geçen ikinci günün yorgunluğunu ise Domaniç Ormanları’nda kamp kurarak ve kendinizi tamamen doğanın huzuruna bırakarak atabilirsiniz.</item>
+    </string-array>
+
+
+
+
+    <string-array name="malatya">
+        <item>Malatya</item>
+        <item>Sabahleyin Karakaya Baraj Gölü’nün yanında kahvaltı yapabilirsiniz. Silahtar Mustafa Paşa Kervansarayı’nı ziyaret edebilirsiniz. Daha sonra tarihin güzelliklerinde kendinize gelebilir ve Malatya Eski Malatya Sanat Sokağı , Poyraz Konağı Yaşam Müzesi , Ulu Cami ve Arslantepe Höyüğü’nü ziyaret edebilirsiniz. Öğle yemeğinde Malatya’nın ünlü Kağıt Kebabı’nı tadabilirsiniz. Öğle yemeğinden sonra Kent Müzesi, Şire Pazarı  (kuru kayısı tadabilirsiniz) ve Bakırcılar Çarşısı’nı ziyaret edebilirsiniz. Malatya Kanalboyu’na gidip akşam yemeğinizi kanalın yanında bulunan restoranlardan yiyebilirsiniz. Akşam yemeğinde Analı Kızlı Köfte, Kiraz Yaprağı Sarması,Tarhana Çorbası ve Kayısı Tatlısı yedikten sonra Malatya Kanalboyu’nda yürüyüş yapabilirsiniz. Gün içinde bir ara Kuru Kayısı ve mevsiminde Dalbastı Kirazı almayı unutmayın. </item>
+        <item>Sabahları Gündüzbey Mahallesi’ne gidip kahvaltınızı bu muhteşem doğada yapabilirsiniz. Yeşilyurt Konakları’na ve Yeşilyurt Çarşısı’na gidebilir, bu tarihi yerin havasını hissedebilirsiniz. Yeşilyurt İlçesi’nden sonra Malatya Arkeoloji Müzesi ve Beşkonaklar Etnografya Müzesi’ne gidebilirsiniz. Vaktiniz varsa Atatürk Evi Müzesi, Malatya Radyo ve Gramofon Müzesi, Malatya Fotoğraf Makinesi  Müzesi ve Malatya Kültür Evi’ni ziyaret edebilirsiniz.  Akşam yemeğinde ise Yeşilyurt’un meşhur tavasını tadabilirsiniz.</item>
+    </string-array>
+
+
+
+
+    <string-array name="manisa">
+        <item>Manisa</item>
+        <item>Manisa, tarihi ve doğal güzelliklerinin yanı sıra birçok aktivitenin de yer aldığı bir kenttir. En eski yerleşimlerin olduğu Manisa\'da farklı uygarlıkların mimari özelliklerini taşıyan tarihi eserler bulunmaktadır. Kentin köklü kültürünü ve doğal güzelliklerini keşfetmek ilk yapılacak şeyler arasında yer alıyor. Doğayı seviyorsanız, şehir merkezine yakın ve muhteşem havaya sahip Spil Dağı\'nı ziyaret etmelisiniz. Burada ayrıca dünyaca ünlü Manisa Laleleri\'ni de görebilirsiniz. Akşam yemeğinden önce, Mesir macunu tatmak ve el sanatları satın almak için şehir merkezinde hızlı bir tur yapın. Keçe, folklorik bez bebek, folklorik takılar, dantel, bakır objeler ve Manisa halı ve kilimleri gibi el sanatları da unutulmaz birer hatıra olacaktır.</item>
+        <item>Tarihe dalmak için Salihli Gökeyüp Köyü\'ne gidin ve eski evlerin ruhunu keşfedin. Salihli\'de el yapımı çömlek ve seramik ürünleri de görmek mümkündür. Daha sonra Kula Volkanik Bölgesi\'ni keşfetmek için Kula\'ya gidin. Bu muhteşem alan, doğal güzelliği ile ziyaretçileri büyülemektedir. Tektonik olarak çok aktif bir bölge ve Türkiye\'nin en genç volkanik alanlarından biri olan Kula\'da peri bacaları görmek de mümkündür. Kula-Salihli Jeopark\'ta büyük bir lav platosu, lav mağaraları ve bazalt sütunlar bulunmaktadır. Dönüşte, görkemli tarihi evlerine ve iyi korunmuş kentsel dokusuna hayran kalacağınız Kula\'ya uğrayın. </item>
+    </string-array>
+
+
+
+
+    <string-array name="mardin">
+        <item>Mardin</item>
+        <item>Sabahın erken saatlerinde güneş daha yeni yükselirken Mardin Kalesi’nin hemen altındaki tarihi şehirden uçsuz bucaksız Mezopotamya ovasını izle. Bu muhteşem manzara sonrası şehrin dar sokaklarını keşfederken bir restorana girip kendine mükemmel bir kahvaltı sipariş et. Eğer şehri keşfetmeye hazırsan öncelikle Mardin Müzesi’ni ziyaret et ve burada sergilenen geçmiş çağlara ait eserleri incele. Ardından Ulu Cami’ ye doğru yola çık ve hemen ardından Kasımiye ve Zinciriye Medreseleri’ni ziyaret et. Buradan Kırklar Kilisesi olarak da bilinen Mor Behnam Kilisesi’ne geçerek zengin koleksiyonu incele. Öğle yemeği için şehir merkezine geçerek ünlü restoranlardan birinde Kaburga Dolması ve yöresel lezzetleri tat.
+
+Sonrasında adını bölgede yetişen safrandan alan Deyrulzafaran Manastırı’na geçerek burayı keşfettikten sonra manastırın bahçesinde bir mola verip safranlı çay iç. Günü bitirmeden önce Mardin’in tarihi çarşılarını gezerek yöresel ürünlere göz at.</item>
+        <item>İkinci gün şehir merkezine yaklaşık 45 dakika mesafede olan Dara Antik Kenti’ne gitmek için kahvaltının ardından yola çık. Üç farklı dine ait izlerin olduğu bu büyüleyici kenti keşfet. Hem güzel bir öğle yemeği hem de doğayla iç içe olmak için Beyazsu Vadisi’ne doğru yola çık. Vadideki Alabalık tesislerinde dinlenirken öğle yemeği için alabalık sipariş et. Ardından geçmişi Asurlulara kadar dayanan, Süryanileriçin önemli bir merkez olan, Müslümanlar, Hristiyanlar ve Ezidilerin birlikte yaşadığı, barışın ve hoşgörünün simgesi haline Midyat’a doğru yola çık.  Burada dünyanın ayakta duran en eski Süryani Ortodoks manastırı olan Mor Gabriel Manastırı’nı gez. Gün sonunda Midyat tarihi çarşılarında kaybolurken alışveriş ve şarap tadımı yapmadan dönme.</item>
+    </string-array>
+
+
+    <string-array name="mersin">
+        <item>Mersin</item>
+        <item>Mersin’de güne yat limanında deniz ve tekneler eşliğinde muhteşem bir kahvaltı ile başlayıp şehir turu ile devam edebilirsiniz. Mersin’in şehir merkezinde çok renkli bir müze turu sizi bekler. Mersin Arkeoloji Müzesi farklı antik kentlerden gelen el yapımı tarihi eserler ile dikkat çeker. Ayrıca, Atatürk Evi ve Müzesi, Mustafa Erim Kent Tarihi Müzesi, Mersin Deniz Müzesi de kenti ve bölgeyi keşfetmenizi sağlayacak diğer önemli müzeler arasında yer alır.
+
+Yumuktepe ve Soli Antik Kenti dünyanın en eski yerleşim yerlerindendir. Mersin’in zengin tarihi ve kültürel geçmişini günümüze taşırken tarih sevdalılarını da antik çağlarda adeta gizemli bir yolculuğa çıkartır.
+
+Öğle yemeğinde şehir merkezinde Mersin yöresine özgü tantuninin tadına bakabilir ve şalgam suyu içebilirsiniz. Öğle yemeğinin ardından yöreye özgü tatlılardan cezerye ya da kerebiç bir fincan Türk kahvesi ile çok iyi gidebilir.
+
+Öğleden sonra, Mersin’in inanç, arkeoloji ve kültürel turizmi ile gözde ilçesi Tarsus’a doğru yola çıkarsınız. Tarsus Müzesi, St. Paul Anıt Müzesi ve Kuyusu, Kleopatra Kapısı, Antik Roma Yolu, Eshab-ı Kehf Mağarası (Yedi Uyurlar Mağarası), Gözlükule, Roma Hamamı, Danyal Peygamberin Mezarı ve Gülek Kalesi Tarsus’un görülmeye değer önemli turistik yerleridir. Tarihi Tarsus evlerinin bulunduğu sokaklarda yürürken bölgenin tarihi ve nostaljik dokusunu da içinizde hissedersiniz. Kırkkaşık Bedesteni mola verip yerel ürünler ve hediyelik eşyalar satın alacağınız harika bir çarşıdır. Buraya özgü kaynar adı verilen yöresel şerbeti de tadarak günün yorgunluğunu atarsınız.
+
+Doğal güzellikleri keşfetmek için, çam ağaçları ile çevrili harika doğası, serin havası, şaşırtıcı güzellikte bir göl ve şelalesi ile Çamlıyayla’ya doğru ilerlersiniz. Çamlıyayla, bölgenin doğal güzelliklerini keşfedip serinlemek, karsambaç tatmak hatta ahşap yayla evlerinde bir gece geçirmek isteyebileceğiniz güzellikte bir yerdir.</item>
+
+        <item>Güne Silifke’de bulunan Cennet Cehennem Obruğu yakınlarında yöresel bir kahvaltı ile başlayabilirsiniz. Restoranlarda sıkma (bazlama/gözleme) ve çeşitli narenciye reçelleri gibi farklı yöresel lezzetlerin tadına bakabilirsiniz. Kahvaltıdan sonra, ilk durak Cennet Cehennem Obrukları sonrasında da Astım Mağarası’dır.
+
+Öğleden sonra güneşin tadını çıkarıp biraz serinlemek için denize girmek isteyebilirsiniz. Narlıkuyu Akdeniz’in berrak ve mavi sularında serinlemeniz için sizi bekler. Sesi, Cennet Çukuru’nun dibinden duyulabilen yer altı nehri burada Akdeniz ile buluşur, Narlıkuyu’nun turkuaz denizinde ferahlayıp, koyun çevresindeki restoranlarda ızgara balık ve özel mezelerin tadına bakabilirsiniz. Öğle yemeğinin ardından ilk durak mozaikleriyle kendisine hayran bırakan Narlıkuyu Mozaik Müzesi olacaktır.
+
+Silifke’ye devam ettiğinizde, Adamkayalar, Roma Tapınağı, Aya Tekla Manastırı ve Uzuncaburç’u ziyaret edebileceksiniz. Tarih tutkunları Silifke Müzesi ve Etnografya Müzesi\'ne kayıtsız kalamayacaklar.
+
+Harika denizin ve kumsalın tadını çıkarmak isterseniz Silifke\'de bir çok seçeneği bir arada bulursunuz. Dünyanın en güzel koylarından biri olarak seçilen Silifke’nin Tisan Koyu, mavi ile yeşilin birleştiği Akdeniz’in saklı cenneti olarak bilinen bir doğa harikasıdır. Mavi bayraklı Boğsak Koyu da yine Silifke’de bulunur.
+
+Akşam yemeği için restoran tercihiniz mavi yengeç ya da ıstakoz servisi olanlardan biri olabilir. Sadece Mersin’in değil, Türkiye’nin de en özel deniz ürünlerinden biri olan mavi yengecin tadına bakmadan Mersin’den sakın ayrılmayın.</item>
+    </string-array>
+
+
+    <string-array name="mugla">
+        <item>Muğla</item>
+        <item>Muğla’nın kültürel, tarihi ve turistik alanlarını keşfetmeye Muğla’nın merkezini gezerek başlayabilirsiniz. Merkezde öncelikle Muğla Müzesi’ne uğrayabilir ve bölgede yapılan kazılar sonucu çıkarılan milyonlarca yıl öncesine ait fosilleri, etnografya bölümünde giyim-kuşam, günlük kullanım eşyalarını görebilirsiniz. Ardından sırasıyla Muğla Kültür Evi, Yağcılar Hanı, Saatli Kule ve Saburhane Meydanı’na gidebilir, buradan Tarihi Arasta’yı gezerek bir yemek molası verebilirsiniz. Yemekte yörenin özel lezzetlerinden birini tadarak Kurşunlu ve Şeyli Cami’yi ziyaret edebilir ardından biraz uzaklaşarak doğayla iç içe vakit geçirmek için Karabağlar Yaylası’na giderek dinlenip günü bitirebilirsiniz.</item>
+        <item>Muğla merkezde yer alan tarihi, kültürel ve doğal alanlarda birinci gün vakit geçirdikten sonra ikinci gününüzü;
+
+Muğla’nın hepsi ayrı bir cennet olan Bodrum, Fethiye, Marmaris, Köyceğiz, Datça, Milas, Ortaca ilçelerinden bir ya da birkaçını ziyaret edip deniz-kum-güneşin tadını çıkararak birbirinden güzel koylara tekne turu ve mavi yolculuk yaparak, Muğla’nın ilçelerinde yer alan antik kent, müze ve örenyerlerinden Bodrum ıüzesi, Mausolleion Anıt Müzesi, Fethiye Müzesi, Marmaris Müzesi, Xanthos-Letoon Antik Kentleri (UNESCO Miras Listesi), Stratonikeia Antik Kenti, Herakleia Antik Kenti, Kaunos Örenyeri, Knidos Antik Kenti, Tlos Antik Kenti, Hekatomnos Anıt Mezarı ve Kutsal Alanı’ndan bir ya da bir kaçını ziyaret ederek,Likya veya Karia Yolu gibi yürüyüş yollarında yürüyüş parkurlarına katılarak,
+
+Kelebekler Vadisi’nde kelebek familyasını veya İztusu plajında caretta carettaları görerek, tamamlayabilirsiniz.</item>
+    </string-array>
+
+
+
+    <string-array name="mus">
+        <item>Muş</item>
+        <item>Şehir merkezinde yöresel kahvaltının ardından sırasıyla Muş Kalesi , Muş Ulu Cami, Yıldızlı Han’ı, Arak Kilisesi ve Hasbet Kalesi’ni ziyaret edebilirsiniz. Sonrasında öğle yemeğini merkezdeki yöresel lokantalardan birinde yiyebilir, Muş Mutfağı’nın özel yemeklerini tadabilirsiniz. Geleneksel Muş Evleri arasında bir yürüyüş yapıp, öğleden sonra Bulanık ve Malazgirt’e geçebilirsiniz. Bulanık’ta Haçlı Gölü ve Esenlik Camisini Malazgirt’te Malazgirt Kalesi ve Zafer Anıtı’nı ziyaret edebilirsiniz. Akşam yemeğinde Muş türküleri eşliğinde yerel lokantalardan birinde hez dolması, çorti, cavbelek gibi yerel tatları deneyebilirsiniz. </item>
+        <item>İkinci gününüzde Varto ilçesini ziyaret ederek burada yöresel bir kahvaltı yapabilirsiniz. Daha sonra Hamurpet Gölü’ne gidip doğa yürüyüşü yapmak hiç de fena bir fikir değil.  Alabalık tesislerinde balık yedikten sonra Kayalıdere Antik Kenti’ni ziyaret edip dönüş yolunda Murat Köprüsü tesislerinde köz çayınızı yudumlarken tarihi köprüyü ve gün batımını izlemenin tadını çıkarabilirsiniz. . Gün sonunda şehir merkezindeki kısa bir gezintiden sonra yerel marketlerden Muş Balı almayı ihmal etmeden Muş seyahatinizi iki güne sığdırabilirsiniz!</item>
+    </string-array>
+
+
+
+    <string-array name="nevsehir">
+        <item>Nevşehir</item>
+        <item>Çoğu yerde güne tam kahvaltı ile başlamanız tavsiye edilir. Ancak size dünyanın en muhteşem manzaralarından birini sunan bir yer olan Kapadokya\'daysanız, Kapadokya\'nın büyülü manzarasını ve ünlü peri bacalarını yükselen güneşin ışığında görmek için şafakta kalkıp sıcak hava balonlarından birini görmenizi veya binmenizi öneririz. Güneş doğarken, büyülü atmosferin etrafındaki güneş ışınlarının oyunuyla büyüleneceksiniz. Bu görsel gösterinin ardından, biraz güç toplamak için lezzetli bir Türk kahvaltısı yapabilirsiniz. İşte o zaman Kapadokya\'yı gerçekten keşfetmeye hazır olacaksınız!
+
+Uçhisar Kalesi Kapadokya\'nın panoramik manzarası için en yüksek noktadır ve başlangıç için en iyi noktalardan biridir. Bu dev doğal kale, ziyaret edilecek en popüler yerler arasında yer alan Göreme, Avanos Çavuşin, Ortahisar ve Güvercin Vadisi\'ne genel bir bakış sunmaktadır.
+
+Bir sonraki hedef noktası Göreme Açık Hava Müzesi’dir. 1985 yılından beri UNESCO Dünya Mirası Listesinde yer alan müze, Hristiyanlığın ilk dönemlerine kadar uzanan oyma kiliseleri ile ünlüdür. Manastırların, İncil\'den fresklerin kalıntılarını görebilirsiniz ve bunlardan bazılarının 1000 yıllık olması sizi hayrete düşürebilir. Karanlık ve Tokalı Kiliselerini ziyaret etmeyi unutmayın! Bunlar Göreme Açık Hava Müzesinin en ünlü ve iyi korunan kiliseleridir.
+
+Birçok yöresel seçenek ile Avanos\'ta öğle yemeği yiyebilirsiniz. Lezzetli testi kebabı, fasulye, çorba, kabak tatlısı, helva ve yöresel şaraplar... Burada tüm ağız sulandıran seçenekleri listelemek için yeterli yer yoktur. Öğle yemeğinin ardından, bir çömlek atölyesini ziyaret edebilir ve kendiniz veya sevdikleriniz için bir hatıra seçebilirsiniz. Hatta burada kendi çömleğinizi yapmayı deneyebilirsiniz! 
+
+Ardından, Keşişler Vadisi ya da Paşabağları Vadisi ziyaret edilmeyi hak ediyor. Burada birçok muhteşem peri bacası vardır ve bazıları Aziz Simeon adına bir şapel ve münzevi keşiş hücreleridir. Üç vadiden oluşan, 9. ve 13. yüzyıl erken Hristiyanlık dönemine ait önemli bir yerleşim yeri olan Zelve\'de inanç yolunu takip edebilirsiniz. Burada ayrıca meşhur Üzümlü ve Balıklı Kiliseler de bulunmaktadır. Devrent Vadisi\'nde daha fazla peri bacası sizi bekler. Burada çok çeşitli şekillerde olan ve güneş ışınları ile size görsel bir şölen sunan volkan konilerini izleyebilirsiniz.
+
+İlk gününüz yavaş yavaş sona eriyor. Atmosfer ve yeni deneyimler ile nefes nefese kaldıktan sonra, şimdi gün batımı manzarası, akşam yemeği ve otelde dinlenme için hazırsınız.  Bir sonraki gününüz de harika olacak  </item>
+        <item>İkinci gün rotanız Ürgüp\'te başlıyor. En ünlü peri bacaları burada bulunur ve "Üç Güzeller" olarak adlandırılır. Bizans döneminde Osiana veya Assiana, Selçuklularda Başhisar ve Osmanlılarda Burgur Kalesi olarak adlandırılan Ürgüp, Kapadokya\'nın önemli bir merkezidir.
+
+Ürgüp\'te dev bir peri bacası olan Ortahisar Kalesi\'ni kale olmanın ötesinde görebilirsiniz! Yerleşimin burada uzun bir geçmişi vardır: M.Ö.1500 Hititlere kadar uzanmaktadır. Yine de, kalenin etrafında sizi zaman içinde bir yolculuğa çıkaracak çok sayıda geleneksel mimari bulunmaktadır. Mustafapaşa Köyü, antik Sinassos mimarisi ve Konstantin Eleni Kilisesi, Aya Nikolaos Manastırı ve Bebek Müzesi\'ni görmek için iyi bir noktadır.   
+
+Dünkü ziyafette kaçırdığınız lezzetleri ve yemekleri keşfedeceğiniz öğle yemeğinden sonra, artık Kapadokya\'nın geri kalanını keşfetmeye hazırsınız. Birçok seçenek vardır: Kızıl Vadi’yi ziyaret edebilir ve burada yürüyüş yapmayı veya ata binmeyi deneyebilirsiniz. Kapadokya çok lezzetli kabak, üzüm, elma,armut, kayısı ve daha fazla yetiştiren çok verimli bir toprağa sahiptir. Bu üzümlerin bazıları lezzetli yerel şaraplar üretmek için kullanılır. İsterseniz, yerel butik şarap fabrikalarını ziyaret edebilir ve Kapadokya şaraplarının üretimine tanık olabilirsiniz.   
+
+Seçenekler çok fazladır. Kaçırmamanız gerekenler: Kapadokya\'nın yeraltı şehirleri! Burada 300\'e yakın yeraltı şehri vardır, ancak zamanınız sınırlı olduğu için Kaymaklı ve Derinkuyu iyi seçeneklerdir. Yeraltı şehirlerinin ilk yerleşimcileri ve inşa edenler bilinmemekle birlikte, yapım nedenlerine dair çeşitli söylentiler vardır: Salgın hastalıklar, ağır iklim koşulları, askeri transferler, ilk Hristiyanlar için saklanma yeri vb ... Ancak depolar, mayalama odaları, kiliseler, tüneller, mutfaklar, hatta mezarlar ve ahırları içeren muhteşem sığınaklardır.   
+
+Artık masalınız sona eriyor, şimdi Kapadokya\'nın güzelliğini, tarihini ve lezzetini dinlenme ve hazmetmenin tam zamanı. Sizi tekrar görmeyi ve tatlı rüyalar ile güvenli bir dönüş diliyoruz </item>
+    </string-array>
+
+
+
+    <string-array name="nigde">
+        <item>Niğde</item>
+        <item>Sabah erkenden yöresel bir kahvaltı ile güne başlayıp ardından Niğde şehir merkezine 25 dk mesafedeki Tyana Su Kemerleri ve Roma Havuzu’na doğru yola çıkabilirsiniz. Burada MS ikinci ve üçüncü yüzyılda inşa edilmiş su kemerleri ve havuzu gördükten sonra ayrıca Köşk Höyük’e de uğrayabilirsiniz. Ardından Niğde merkezde sırasıyla Niğde Müzesi, Niğde Kalesi, Saat Kulesi, Alaeddin Cami, Sungurbey Cami’yi görüp Gümüşler Manastırı’na geçebilirsiniz. Gümüşler Manastırı’nı gezdikten sonra öğle yemeği için bir mola verebilir, lezzetli bir yemeğin ardından şehirde Cullaz Sokağı ziyaret edebilirsiniz.</item>
+    </string-array>
+
+
+
+    <string-array name="ordu">
+        <item>Ordu</item>
+        <item>Güne Paşaoğlu Konağı Etnografya Müzesi’ni ziyaretle başlayabilirsiniz. Toplamda 4361 kayıtlı eserin yer aldığı bu tarihi müzenin ardından şimdilerde bir kültür merkezi olan tarihi Taşbaşı Kilisesi’ni ziyaret edebilirsiniz. Taşbaşı Mahallesi’nde yer alan kiliseyi ziyaret ederken restorasyon çalışması yapılmış olan eski Osmanlı, Rum ve Ermeni evlerinin bulunduğu Sıtkıcan Caddesi ve Menekşe Sokak’ı gezmeyi ihmal etmeyin. Sonrasında ise Ordu’yu 450 metre yükseklikten seyredebileceğiniz, bu anlamda da şehrin en güzel manzarasına sahip yeri sayılan Boztepe’ye çıkabilirsiniz. Teleferikle çıkılan bu alana karayolu ile ulaşım da mümkündür. Yamaç Paraşütü yapabilirsiniz. Yeme-içme mekanlarının bulunduğu Boztepe’de vereceğiniz bir molanın ardından günün kalanında görebileceğiniz yerler şunlardır:
+
+-Hoynat Adası ve Kuş Cenneti
+
+-Perşembe Yason Burnu ve Kilisesi
+
+-Sahil Yolu, Medreseönü, Yalıköy, Bolaman
+
+-Fatsa Bolaman Haznedaroğlu Konağı
+
+-Fatsa Gaga Gölü
+
+-Ünye Şehir Merkezi, Bakırcılar Çarşısı, Ünye Müze Ev, Kadılar Yokuşu Saray Hamamı, Ünye Kalesi, Saray Hamamı, Ayanikola, Yunus Emre Türbesi
+
+-At çiftliği</item>
+        <item>İkinci gününüzde biraz daha doğayla iç içe olabilirsiniz. Bu bağlamda Ordu’nun eşsiz güzellikteki yaylaları sizi bekliyor:
+
+-Çambaşı Yaylası ve Çambaşı Kayak Merkezi
+
+-Turnalık Yaylası
+
+-Mesudiye Yeşilce, Kızılağaç Gezisi
+
+-Gölköy Şehir ve Kale Gezisi
+
+-Gölköy Ulugöl Tabiat Parkı
+
+-Aybastı Perşembe Yaylası</item>
+    </string-array>
+
+
+
+    <string-array name="osmaniye">
+        <item>Osmaniye</item>
+        <item>Osmaniye’deki ilk gününüzde temiz çam kokusu eşliğinde seyir tepesinden eşsiz doğa manzarası ile çok zengin bir kahvaltıda Türk çayını yudumlayın. Seyir tepesinden eşsiz doğa manzarası ile Osmaniye\'yi izledikten sonra Zorkun Yaylası turunda öğle yemeğinde meşhur Zorkun Tava yiyip yolculuğun vermiş olduğu yorgunluğu atabilirsiniz. Öğle yemeğinden sonra Toprakkale Kalesi’ni, Düziçi ilçesinde Harun Reşit Kalesi’ni ziyaret ederek tarihin güzellikleri içinde kendinizi kaybetmeye devam edin, Ceyhan Nehri kıyısında bulunan Haruniye Kaplıca manzarası eşliğinde güzelliğine güzellik katın.</item>
+        <item>İkinci gününüzde sabahın ilk ışıklarıyla Çukurova’nın Efes’i Kastabala Hierapolis Antik Kenti\'ne gidin ve bu muhteşem yerde binlerce yıl önceki tarihe tanık olun. Dünyaca ünlü kilimlerin dokunduğu Kadirli ilçesi Karatepe köyünde doğal kök boyalı Anadolu Türk obalarının yüzyıllardır dokuduğu özgün motif ve renkler esas alınarak dokunan kilimlerden alışveriş yapabilirsiniz. Karatepe’nin Sarıdüz Mahallesi’nde bulunan Kilim Kooperatifinde köy havasının doğallığını yaşayabilir yöresel kahvaltı yapabilir veya öğle yemeği yiyebilirsiniz. Türkiye’nin ilk açık Hava Müzesi olan Karatepe-Aslantaş Açık Hava Müzesi\'nin bu kadim tarihi mekânda havasını soluyun. Kadirli İlçe Merkezinde bulunan Çukurova’nın Ayasofyası konumunda yer alan Ala Cami’yi ziyaret edebilir, Kadirli Sucuk Ekmeği tadabilirsiniz.  Günün sonunda Osmaniye’ye özgü hediyelik eşyalar ve Osmaniye Yer Fıstığı almayı unutmayın.</item>
+    </string-array>
+
+
+
+    <string-array name="rize">
+        <item>Rize</item>
+        <item>Rize’nin Derepazarı sahilinde Karadeniz’in eşsiz manzarası eşliğinde köy kahvaltısı ile güne başlamak en doğrusu olacaktır. Sonrasında şehrin kültürel, tarihi ve doğal alanların ziyaretine başlanabilir.
+
+Birbirinden güzel alternatifler sunan Rize’de ilk gün için ziyaret edilebilecek noktalar;
+
+Kalkandere Hüseyinhoca Köyü Cami, Şimşirli Köyü Cami, Güneyce Hacı Şeyh Cami,
+
+Anzer, Petran Yaylaları Gezisi, Sivrikaya Yaylası ve Sivrikaya Evleri- Ovit Dağbaşı Buzul Gölü, Ilıca Köyü Termal Kaplıcaları (Öğle Yemeği), Cimil Vadisi ve Cimil Şelalesi.
+
+Sonra şehir merkezine dönülerek;
+
+Tarihi Rize Kalesi’nde eşsiz Rize manzarası seyretmek, Ziraat Botanik Çay Bahçesi’nde Rize çayı içmek, Rize Etnografya Müzesi ile Atatürk Evi Müzesi’nde sergilenen tarihi eserleri görmek, İslampaşa (Kurşunlu) Cami’nde tarihe şahitlik etmek, Güneysu Kıbledağı Dua Tepesinde akşam güneşin batışını seyretmek, Akşam yemeği için Çayeli’nde meşhur Rize Kavurması ve kuru fasülyesi ile günü bitirmek.</item>
+        <item>Şehirdeki ikinci gününüzde şehrin ve ülkemizin en önemli doğa turizm destinasyonu olan Fırtına vadisine doğru hareket ederek başlıyoruz.
+
+Fırtına vadisindeki tarihi kemer köprülerin üzerine çıkarak Fırtına deresinin coşkun akan suyunun sesini dinlemek, istenirse rafting yapmak.
+
+Osmanlı (Timisvat köprüsü) – Mikron Köprüsü –  Şenyuva Köprüsü
+
+Sonrasında ülkemizin en görkemli Kalesi sıralamasında ilk sırada olan tarihi Zilkale’yi ziyaret etmek.
+
+Çat vadisi boyunca devam ederek coşkun akan sesiyle Palovit şelalesinde dinlenmek.
+
+Sonra Rize’nin birbirinden güzel yaylaları içinde kendini adeta ilk günkü güzelliğiyle bugüne kadar getiren Sal ve Pokut yaylalarında Kaçkar Dağlarının eşsiz manzarasına şahitlik etmek.
+
+Öğle yemeği için fırtına deresinin kırmızı benekli alabalığını yemeyi unutmamak.
+
+Ayder yaylası ve kaplıcası için mutlaka zaman ayırmak gerekli. Rize’nin turizm başkenti olan bu yaylada yılın her döneminde festival ve şenliklere rastlayabilirsiniz.
+
+Sonra Fırtına Vadisinden ayrılarak Rize’nin Fındıklı ilçesinde çay ve fındık bahçeleri içerinde yer alan tarihi konaklarda tarihe şahitlik etmek.
+
+Program bitimine doğru zaman kalması durumunda Hemşin Akyamaç şelalesi tabiat parkı ile Çayeli ilçesindeki Ağaran şelalesi ve Çayeli Doğal Yaşam Müzesi görülmesi gereken yerlerden sadece birkaçı.</item>
+    </string-array>
+
+
+
+    <string-array name="sakarya">
+        <item>Sakarya</item>
+        <item>İstasyonun karşısında yer alan Sakarya Müzesi "mutlaka görülmesi" gereken bir müzedir. 1. Roma ve Bizans Dönemine ait bir grup arkeolojik eserin sergilendiği sergi salonu bulunmaktadır. Etnografik eserler arasında Atatürk\'ün kullandığı eşyalar ile Osmanlı ve Cumhuriyet Dönemine ait silahlar, bakır eşyalar, mühürler ve el işlemeleri yer almaktadır. 2. katta konferans salonu bulunmaktadır. Müzenin bahçesinde, Sakarya\'da bulunan Roma ve Bizans dönemlerine ait mimari parçalar sergilenmektedir.
+
+Sakarya masalsı kalelere sahiptir. Küçük bir tepe üzerinde yer alan Harmantepe Kalesi bir hektarlık bir alanı kaplamaktadır ve Adapazarı Harmantepe Köyü\'nde yer almaktadır. Sınır koruma kalesi olarak görev yaptığı düşünülen Adliye Kalesi, Adapazarı\'nın Arifiye Beldesi\'nin güneyinde yer almaktadır.
+
+Osmanlı İmparatorluğu tarafından 15. yüzyılda inşa edilen Orhan cami ve Yunus Paşa cami dikkat çekici ve görülmeye değerdir. Elvanbey İmareti\'nin tarihi 1450 yılına kadar uzanır.
+
+Justinianus Köprüsü 429 metre uzunluğunda, sekiz kemerli bir köprüdür. Bizans İmparatoru Justinianus (527-565) tarafından Sakarya Nehri üzerinde inşa edilen bu köprü ziyaretçilerin ilgisini çeker. Günümüze kadar bu köprüyü sağlam tutan işçilik ve beceri muhteşemdir.
+
+Geyve merkezini Ali Fuat Paşa ilçesine bağlayan Ali Fuat Paşa Köprüsü, Sakarya Köprüsü olarak da bilinir ve 1495 yılında Sultan II.Bayezit tarafından yaptırılmıştır. Sakarya göller, plajlar, ormanlar, vadiler, kanyonlar, kaplıcalar ve maden suyu kaynaklarıyla doludur. Bu muhteşem yer, özellikle mükemmel bir hafta sonu için talebinizi karşılayan Sapanca Gölü ile donatılmıştır. Burası sörf, yelken, kürek gibi su sporların yapıldığı bir macera spor cennetidir.
+
+Arifiye Ormanı bu tatlı su gölünün yanındadır. Orman bir kamp alanı ve piknik yeri olarak hizmet vermektedir. Burası gözlemlenecek birçok kuş türünden dolayı kuş gözlemcileri için ayrıca heyecan vericidir. Çevrede başka güzel göller de bulunmaktadır. Büyük Akgöl, Küçük Akgöl ve Poyrazlar Gölleri önemli örneklerdir.
+
+Karadeniz kıyısında yer alan Sakarya, 60 km uzunluğundaki sahil şeridi çok sayıda kumlu plaja sahiptir. Karasu ve Kocaali de dahil olmak üzere sahilin pek çok yeri, yeterli tesislere ve otellere sahip tatil beldeleridir.
+
+Kuzuluk Kaplıcası, şifalı ve tedavi edici özellikleriyle dünyanın dört bir yanından gelen ziyaretçiler için büyük bir cazibe kaynağıdır. Akyazı ve Taraklı ilçelerinde bulunan kaplıca tesisleri, kaplıca ve şifalı turizmin diğer noktalarıdır.</item>
+
+    </string-array>
+
+
+    <string-array name="samsun">
+        <item>Samsun</item>
+        <item>Atatürk’ün şehri Samsun’u ziyaret için başlangıç noktası, Atatürk ve silah arkadaşlarının heykelleriyle süslenen tütün iskelesidir. 19 Mayıs 1919 hatırasına yapılan bu anıt şehrin merkezinde, sanayi rıhtımı karşısında yer almaktadır. Onur Anıtı, Tütün İskelesine yaklaşık 500 metre mesafededir.1932 yılında şehrin kalbine konuşlandırılan bu heykel, Samsun’un en bilinen simgesi ve en çok ziyaret edilen noktası olmuştur. Gazi Müzesi, Onur Anıtı’ndan yaklaşık 500 metre batıdadır. Atatürk’ün Samsun’a çıktıktan sonra konakladığı Mantika Palas Otel’in müzeye dönüştürülmesiyle ortaya çıkan bu yapıda Atatürk’ün kişisel eşyalarından, Kurtuluş Savaşının önemli hatıralarına dek birçok eser sergilenmektedir. Atatürk’ü Samsun’a getiren Bandırma Vapuru’nun aslına sadık kalınarak yapılan bu dev maketi, Doğupark’ta Onur Anıtı’nın yaklaşık 5 km doğusunda yer almaktadır.
+
+Doğupark’ta Çayı, şehrin ortasında bir yeşil vaha olan bu alanda, deniz kıyısında çayınızı yudumlayarak dinlenebilirsiniz. Batıpark ve Amisos tepesi, İlkadım ve Atakum ilçelerinin tam ortasındaki bu alana Doğupark’tan tramvayla veya özel aracınızla ulaşıp, teleferikle Amisos tepesine çıkabilirsiniz. Samsun’u panoramik bir açıyla izleyeceğiniz bu turun sonunda binlerce yılllık kral mezarlarına ve çeşitli yeme-içme tesislerine ulaşacaksınız. Ya da dilerseniz Batıpark içinde yer alan Amazon Köyü Müzesi’ni ziyaret edip sahil kenarındaki restoranlarda balık veya Samsun pidesi yiyebilirsiniz. Atakum Sahilinde dilerseniz bisiklet kiralayarak onlarca km uzunluğunda sahile paralel bisiklet yolundan, ya da ağaçların gölgesindeki geniş kaldırımlardan yürüyerek toplam 11 mavi plaja ev sahipliği yapan Atakum sahilinde gezebilirsiniz. Yabancılar Pazarı, Mecidiye Caddesi ve Çiftlik (İstiklal Caddesi), akşama doğru ise şehir merkezine dönüp hediyelik eşya almak için şehrin merkezindeki bu 3 noktayı ziyaret edebilirsiniz. Yaya olarak çok daha rahat gezebileceğiniz bu 3 merkezde şehrin canlılığına şahit olacaksınız.</item>
+        <item>Unesco Geçici Miras Listesi’nde yer alan Kızılırmak Kuş Cenneti’ne 19 Mayıs ilçesinden gidilir. Bölgeye araç girişleri karbon salınımını sınırlandırmak için yasaklandığından, yolunuza Kuş Cennetinden itibaren Büyükşehir Belediyesi’ne ait tur otobüsleriyle veya bisikletinizle devam edebilirsiniz. İlimizdeki 5 turizm merkezinden biri olan Nebiyan Dağı ve Yaylası hem sosyal tesisleriyle hem de eşsiz el değmemiş doğası ve ferah iklimiyle yaz aylarında özellikle görülmesi gereken yerlerin başında gelmektedir. Bafra pidesi, dondurması ve nokulu; Samsun mutfağının sembollerinden olan bu üçlünün tadına bakmak için 19 Mayıs ilçesinin yaklaşık 20 km batısında yer alan Bafra’yı mutlaka görmelisiniz.
+
+Altınkaya barajının sularıyla ortaya çıkan Bafra Kolay Turizm Merkezi, Bafra’nın yaklaşık 15 km kuzeyindedir. Sadece doğal güzellikleriyle değil, kaya mezarları ve Tependeliği gibi tarihi noktalarıyla da bölge ziyaretçilerine birçok alternatif sunmaktadır.</item>
+    </string-array>
+
+
+
+    <string-array name="siirt">
+        <item>Siirt</item>
+        <item>Hızlı bir Siirt turu arıyorsanız kayadan oyma “cas” evlerle ünlü bölgeyle başlayın, oradan İsmail Fakirullah Türbesine geçin. Acıktıysanız Perde pilavı  ve Büryan Kebap öneririz. Yörenin ünlü fıstıklarının tadına da bakabilirsiniz. Çarşıdayken Bıttim sabunu, Siirt battaniyesi ve dünyaca ünlü Jirkan kilimi aramayı da ihmal etmeyin. Çarşının bir başka olmazsa olmazı da tabi ki Bakırçılar Çarşısı’dır. Burada kendinizi ustaşarın çekiç darbeleriyle yarattığı müziğin ritmine bırakın deriz.</item>
+
+    </string-array>
+
+
+
+    <string-array name="sinop">
+        <item>Sinop</item>
+        <item>Sinop’un yöresel lezzetlerinin yer aldığı mekanlardan birinde kahvaltı yaparak güne başlanır. Pek çok alternatif sunan şehirde ilk gününüzde ziyaret edilebileceğiniz başlıca adresler;
+
+Öncelikle Ada turu, Karakum gezintisi (Türkiye’nin en kuzeyinde Akdeniz iklimine sahip güney sahilinde kordon boyu yürüyüş)
+
+Ardından Şahin Tepesi, en yukarıdan kuşbakışı Sinop seyri
+
+Şehrin en önemli inanç turizm merkezi olan Seyyid İbrahim Bilal Türbesi ziyareti
+
+Şehrin binlerce yıllık geçmişini barındıran Sinop Müzesi (etnografya-arkeoloji) ziyareti
+
+Pervane Medresesi Sinop’un yöresel ürün alışverişi ve Alaaddin Külliyesi ve Cami ziyareti
+
+Sinop’un marka değerlerinden biri olan Sinop Tarihi Cezaevi
+
+Yöresel lezzetler deneyebileceğiniz öğle yemeği
+
+Ardından Sinop’un doğal güzelliklerinden olan Akliman, Hamsilos, Sarıkum, Türkiye’nin en kuzey noktası olan İnceburun
+
+Turistlerimizin uğrak mekanlarından olan Bektaşağa Göleti ve Erfelek Takım Şelaleri
+
+Şehirdeki ilk gününüzde görüp ziyaret edebileceğiniz önemli yerleri oluşturmaktadır.
+
+Günün akşamında Sinop merkezde bulunan restoranlardan birinde balık yenilebilir. </item>
+        <item>Güne Sinop’un yöresel lezzeti olan katlama, nokul ve çay eşliğinde başlayabilirsiniz
+
+Asırlardır tarihi benliğini koruyan Boyabat Kalesi ziyareti
+
+Boyabat Bazalt Kayalıkları ziyareti
+
+Salar Kaya Mezarları
+
+Kasaplar Çarşısı yöresel ürünler alışverişi
+
+Öğle yemeği Boyabat Sırık Kebabı
+
+Öğle yemeğinden sonra binlerce yıllık tarihi olan Durağan Terelek Kaya Mezarları gezintisi
+
+Durakhan Kervansarayı
+
+Buzluk Mağarası Tabiat Anıtı
+
+Saraydüzü Ambarkaya Mezarı
+
+İkinci günde görüp ziyaret edebileceğiniz yerleri oluşturmaktadır.
+
+Akşam Sinop’a gelinir ve yöresel bir lezzetimiz olan Mantı yenir.</item>
+    </string-array>
+
+
+
+    <string-array name="sivas">
+        <item>Sivas</item>
+        <item>ivas’ın yöresel lezzetlerinin yer aldığı mekanlardan birinde kahvaltı yaparak güne başlamak en doğrusu olacaktır. Ardından pek çok alternatif sunan şehirde ilk gün gezinize Tarihi Kent Meydanı ve Arkeoloji Müzesini ziyaret ederek başlayabilirsiniz. Kent meydanında yürürken Hükümet Konağı’nın göz alıcı mimarisini fotoğraflamak isteyebilirsiniz.
+
+Buradan sırasıyla Jandarma Binası, Sivas Atatürk ve Kongre Müzesi, Çifte Minareli Medrese, Buruciye ve Şifaiye Medreseleri’ne devam edebilir sonrasında Ulu Cami ve Meydan Cami’ye gidebilirsiniz.
+
+Sokakları yürümeye devam ederken lokal lezzetlerin olduğu bir restorana girip Sivas’ın meşhur sebzeli kebabıyla kendinize bir ziyafet çekebilirsiniz.  Gezinin devamında 1576 yılında inşa edilen Behrampaşa Hanı; 16. yüzyılda inşa edilerek günümüzde esnafların kuru gıda satışı yaptığı Subaşı Hanı; 19. yüzyılda yapılmış olan ve günümüzde mağaza ve kafelerin olduğu Taşhan’ı keşfedebilirsiniz. Taşhan’da bir kahve içebilir hemen ardından eski Sivas evleri, eğlence mekânları, konaklama ve alışveriş alanlarını bir arada bulabileceğiniz Sivas Kale Evleri’ne doğru yola çıkabilirsiniz. Kale civarında kolaylıkla ulaşabileceğiniz Gök Medrese Vakıf Müzesi, Aziz Vlas mezarı ve Abdi Ağa Konağı’nı da görmeden dönmemelisiniz. Buradan eğer yorgun değilseniz yaklaşık 35 km mesafedeki Sıcak Çermik’e gidebilir, akşam yemeğinden önce kendinizi şifalı sulara bırakıp biraz dinlenebilirsiniz.</item>
+        <item>Gezinizin ikinci gününde biraz erken kalkıp fırınlardan alabileceğiniz sıcacık Sivas Katmeri ve Çöreği ile hızlıca bir kahvaltı edip 2 saat mesafede olan Divriği’ye doğru yola çıkabilirsiniz. Divriği’de şehrin en önemli kültür varlığı olan ve 13. yy’dan günümüze kadar varlığını koruyarak 1985 yılında UNESCO Dünya Kültür Miras Listesi’ne alınan Divriği Ulu Cami ve Darüşşifası; Çaltı Çayı\'na bakan yamaçta kayalık arazinin üzerinde bulunan Divriği Kalesi ve kalenin içinde uçurumun hemen kenarında bulunan seyir terasından vadiyi seyredebilir, Divriği Kale Cami; kendisine özgü mimarisi ile tescilli Divriği Konakları’nı ziyaret edebilirsiniz. Burada öğle yemeği için ara verip, yöresel lezzetleri keşfedebilirsiniz. Yemeğin ardından merkeze dönerken İç Anadolu’nun bozkır manzarasını seyretmek size huzur verecektir.
+
+Kangal ilçe merkeze varınca dünyaca ünlü doktor balıkların bulunduğu Balıklı Kaplıcayı ve Kangal Köpeği Üretim, Eğitim ve Koruma Merkezi’nde ziyaret edebilir, bir hatıra fotoğrafı çektirebilirsiniz. Akşam yemeğinden önce Yamaç Evler’e gidebilir ve Hobbit Evleri görüp, dilerseniz fotoğraf çekebilir sonrasında doğayla iç içe huzurlu birkaç saat geçirebilirsiniz.</item>
+    </string-array>
+
+
+
+    <string-array name="sanliurfa">
+        <item>Şanlıurfa</item>
+        <item>Tarih öncesi yerleşimlerden, Asur, Hitit, Pers, Yunan, Roma ve İslami döneme dair sayısız ören yerinin ve kalıntının bulunduğu Şanlıurfa Kent Merkezi’nde öncelikle, Balıklıgöl, Ulu Cami, Reji Kilisesi, Fırfırlı Cami, Hz. Eyyub\'un sabır makamı (Mağarası) ziyaret edildikten sonra Şanlıurfa Arkeoloji Müzesi’nde paleolitik dönemden günümüze uygarlık tarihinin bütün evrelerine dair sayısız buluntuyu görebilir, hikayelerini öğrenebilir ve fotoğraf çekebilirsiniz. Mitolojide sık sık adları geçen Amazon kadınlarının antik çağda yapılmış tasvirlerini ise Haleplibahçe Mozaik Müzesi’nde görebilirsiniz. Dünyanın ilk anıtsal tapınak yapısı Göbeklitepe ziyareti ve Asur İmparatorluğu’nun son başkenti, Sin Tapınağı ve Sabiileri ile meşhur, Roma İmparatorluğu’nun Partlara (İranlılara) karşı tarihinin en büyük yenilgilerinden birini aldığı, Roma İmparatoru Caracalla’nın öldürüldüğü konik çatılı eşsiz evleriyle Harran ziyareti ile tamamlanacak günün akşamında Şanlıurfa’daki tarihi konaklardan birinde yapılan sıra gecesine katılın.</item>
+        <item>Yaklaşık 12 bin yaşında olan, dünyanın bilinen en eski anıtsal tapınağı ile başlayan, birçok pagan inanca dair inanç merkezleri ve sembollerin bulunduğu Şanlıurfa aynı zamanda semavi dinlerin atası olarak kabul edilen Hz. İbrahim’in de doğduğuna inanılan şehirdir. Bazda Mağaraları, Han-el Ba’rür, Soğmatar, Şuayib Şehri’ni içeren bu rotada ilkel ve semavi dinlere ait  birçok  inanç merkezini ziyaret edip çeşitli inanç ve mabet mimarisine dair çok değerli bilgiler edinilebilir ve fotoğraflayabilirsiniz.</item>
+    </string-array>
+
+
+
+    <string-array name="sirnak">
+        <item>Şırnak</item>
+        <item>Şırnak’taki ilk gününüzde yöresel kahvaltının ardından Bırcabelek’e doğru yola çıkabilirsiniz.  Ardından Ulu Cami, Kırmızı Medrese, Hz. Nuh Türbesi ve Mem u Zin Türbesi’ni ziyaret edebilirsiniz. Bir yemek molasının ardından sırasıyla Meryem Ana Kilisesi, Öğündük Kilisesi ve Mor Dodo Kilisesine gidebilir ve sonrasında şehre dönüş yoluna geçebilirsiniz.</item>
+
+    </string-array>
+
+
+
+    <string-array name="tekirdag">
+        <item>Tekirdağ</item>
+        <item>Güne Tekirdağ’ın merkezinde yapacağınız bir turla başlayın. Tekirdağ’ın eski karakteristik evlerini gezdikten sonra sıra Rüstem Paşa Külliye’sini keşfetmeye gelir. Yöresel ürünler satan dükkanlara uğrayabilir ya da bir fincan Türk kahvesi eşliğinde kısa bir mola verebilirsiniz. Kısa molanın ardından şehrin tarihi özelliklerini daha yakından tanımak için Arkeoloji ve Etnografya Müzesi’ne doğru ilerleyebilirsiniz. İlgi alanınıza göre başka müzeler de seçebilirsiniz. Öğle yemeğinde meşhur ve bir o kadar da lezzetli Tekirdağ Köftesi\'ni ve tatlıları denemeye ve unutulmaz bir deneyim yaşamaya hazır olun.</item>
+        <item>Geleneksel bir Türk kahvaltısından sonra, Şarköy’e doğru yola çıkın. Deniz kıyısına gelip upuzun kumsalla tanışın. Buraya gelirken mayonuzu yanınıza almayı da sakın unutmayın. Güzel bir deniz keyfinin ardından yöre pazarına uğrayıp yerel zeytinyağının tadına bakmak ve hediyelik eşyalardan satın almak istemez misiniz? Şarköy’de bir çay molasının ardından rotayı şarapçılığın merkezine doğru çeviriyoruz ve üzüm bağlarına doğru yola çıkıyoruz. Üzüm bağlarının harika ve bir o kadar huzur veren manzarası çok etkileyicidir. Şarap içmeyenler Trakya üzümlerinden yapılmış hem sağlıklı hem de çok lezzetli üzüm suyunu deneyebilirler. Üzüm suyu bölgenin en favori içeceğidir. Gezinizin sonunda, bağ evinde bir akşam yemeğinin ardından buradaki malikanelerden birinde kalabilirsiniz.</item>
+    </string-array>
+
+
+
+    <string-array name="tokat">
+        <item>Tokat</item>
+        <item>Tokat’ta birinci gün şehri keşfetmek ve tarihini daha iyi anlamak için ilk önce Tokat Müzesi’ni gezebilirsiniz. Buradan çıkıp müzenin hemen karşısında yer alan Sulu Sokak’ı gezebilir, burada tarihi Tokat evlerini görebilirsiniz. Ardından şehrin simgelerinden birisi haline gelmiş Selçuklu dönemi eseri Hıdırlık Köprüsü’nü görebilirsiniz. Anadolu Selçuklu mimarisinin özelliklerini taşıyan, bimarhane ve şifahane olarak kullanılan Gök Medrese’ye uğrayabilir ardından bir yemek molası verip testi kebabı yiyebilirsiniz. Yemekten sonra Anadolu’nun en büyük hanlarından biri olan Taşhan’a gidebilirsiniz.
+
+Zamanında Bizans İmparatoru Romanos Diogenes ve III. Vlad diğer adıyla Drakula’nın tutsak kaldığı Tokat Kalesi’ni şehrin her yerinden görebilirsiniz. Son olarak Tokat Saat Kulesi ve o bölgede yer alan Bey Sokak’ı ile Mevlevihane Müzesi’ni ziyaret edebilir, günü çarşıda bir kahve içerek bitirebilirsiniz.</item>
+        <item>İlk olarak,  Roma İmparatoru Julius Sezar\'ın Zela Savaşı sonrası galibiyetini müjdelemek için \'\'Veni Vidi Vici (Geldim Gördüm Yendim)\'\' dediği Zile Kalesi’ni görmek için Zile’ye doğru yola çıkabilirsiniz. Bu ziyaret sonrasında, Kaz Gölü ve Pazar ilçesinde Mahperi Hatun Kervansarayı, sarkıt ve dikitleriyle ünlü ve UNESCO Dünya Miras Geçici Listesi’nde bulunan Ballıca Mağarası’nı ziyaret edebilirsiniz. Tokat şehir merkezine dönerek öğlen yemeği molasında bakla dolması deneyebilirsiniz. Yemek sonrası kısa bir yürüyüş ile Tokat\'ın tarihi ticaret merkezi olan Deveciler Hanı, Yağı Basan Medreseleri, Suluhan, Paşa Han\'ı keşfettikten sonra Latifoğlu Konağı, Gök Medrese’yi ziyaret edilebilir, Yeşilırmak’ta tekne turuna katılabilirsiniz. Gün sonunda biraz doğayla baş başa zaman geçirmek isterseniz Kaz Gölü’ne gidebilirsiniz.</item>
+    </string-array>
+
+
+
+    <string-array name="trabzon">
+        <item>Trabzon</item>
+        <item>Trabzon\'da yapılacak en iyi şey, şehrin yöresel lezzetlerini sunan restoranlardan birinde güne enfes bir kahvaltıyla başlamaktır. Harika bir kahvaltının ardından şehir merkezindeki kültürel, tarihi ve doğal yerleri gezmeye başlayabilirsiniz.
+
+Şehir merkezinde ziyaret edebileceğiniz birkaç adres bulabilirsiniz. Ama seçmek zorundasınız!
+
+İlk durak olarak Atatürk Köşkü\'ne ne dersiniz? Bu köşk, Gazi Mustafa Kemal Atatürk\'ün 3 kez ziyaret ettiği Trabzon\'da, vasiyetini yazdığı muhteşem bir yapıdır. Ardından şehrin en eski yapıları olan, iyi korunmuş Trabzon Kale Duvarlarını ziyaret edebilirsiniz.
+
+Trabzonspor, şehrin en önemli değerlerinden biridir. Bu yüzden şehrin spor kültürünü tanımak için Trabzonspor Müzesi\'ne gitmek iyi bir seçenektir. Burada Trabzonspor tarihi ile ilgili kupalar, eski formalar, kramponlar ve daha birçok malzemeyi görebilirsiniz. Başka bir müze ile devam edelim. Şehir Müzesi, Trabzon\'un hükümet, eğitim, spor, medya, basın, sağlık, kültür, sanat, sözlü ve ulaşım tarihinin yanı sıra Trabzon\'un coğrafi yapısı, mimari dokusu, kentsel dokusu, kültürel ve ekonomik yapısı, geleneksel el sanatları ve turistik değerlerini 3 boyutlu (3D) olarak bulabileceğiniz bir müzedir.
+
+Şehre tepeden bakan Boztepe\'yi ziyaret etmeden lütfen ilk gününü bitirmeyin! Burası şehirdeki ilk gününüzde ziyaret edebileceğiniz en önemli yerlerden biridir.
+
+Not: Şehir merkezinde çeşitli yerel restoranlar bulacaksınız. Bu restoranlarda Trabzon\'un en iyi lezzetlerini keşfedin!</item>
+        <item>Şehirdeki ikinci gününüzde, Maçka\'daki Altındere Vadisi\'ne bakan Karadağ\'ın eteklerinde, Bizans İmparatoru I. Theodosius (375-395) döneminde inşa edilen ve UNESCO Geçici Miras Listesi\'nde yer alan şehrin en önemli kültürel varlığı Sümela Manastırı\'nı ve Sümela Manastırı\'na bağlı olması muhtemel 18-19. yüzyıllardan kalma Sümela Manastırı yakınlarındaki Ayavarvara Manastırı\'nı ziyaret edebilirsiniz.
+
+İkinci günün ikinci durağı ise mavi gökyüzü, bembeyaz bulutlar ve yemyeşil bir ormanla karşılanacağınız Uzungöl olabilir.</item>
+    </string-array>
+
+
+
+    <string-array name="tunceli">
+        <item>Tunceli</item>
+        <item>Tunceli’ye ulaşmak için kara yolu kullanmanız gerekiyor. Zira kente en yakın havalimanı Elazığ’da. İstanbul’dan uçakla 1,5 saat, Ankara’dan 1 saatlik uçuşla Elazığ’a geldikten sonra gün içinde yarım saatte bir kalkan minibüslerle Keban Baraj Gölü üzerinden yaklaşık 20 dakika süren feribot yolculuğu ile bugün bir ada üzerinde yer alan tarihî Pertek Kalesi görüntüsü eşliğinde Pertek ilçesine ulaşırsınız. Elazığ-Tunceli arası 75 km’lik bu yolculuğunuz yaklaşık 1,5 saatinizi alacaktır. Tunceli’de konaklama yerinize ulaştıktan sonra şehir merkezinde önce Munzur Suyu ile Pülümür Suyu’nun birleştikleri yerde bulunan Gole Çeto Ziyareti’ni görür, ardından bu mekânın hemen üst kısmında bulunan Cem Evi’ni gezerek yöre insanının inanç esasları, ritüelleri ve davranışları konusunda bilgiler alıp gözlemler yapabilir, iki suyun birleştiği manzaranın karşısında fotoğraflar çekebilirsiniz. Cem Evi ziyaretinden sonra Pülümür Yolu üzerinde şehre 3 km uzaklıkta Örenönü Tabiat Parkı’nda mola verip doğal güzellikler içerisinde dinlenme ve yeme-içme ihtiyacınızı karşılayabilirsiniz. Gezinin bu kısmını tamamladıktan sonra il merkezine dönüp bir çay molası verdikten sonra mutlaka görülmeden gidilmemesi gereken yerlerden “Tunceli Müzesi”ni gezmeniz yaklaşık 2 saatinizi alacaktır. Kışladan müzeye dönüştürülen ve içerisinde arkeoloji, etnografya, inanç ve yakın tarih bölümlerinin yer aldığı Müze ilginç bir gezi durağı olacaktır. Buradan çıkıldıktan sonra kent merkezinde bulunan Dar Sokak’ta yer alan yöresel gıda ürünleri satan dükkânlardan ihtiyacınıza göre veya hediyelik bal, peynir, kurut, meyve kuruları, kultik çekirdeği vb. ürünler satın alabilir, ardından ikinci gün için dinlenmeye başlayabilirsiniz.</item>
+        <item>Sabah erkenden kalkıp kahvaltı yaptıktan sonra Munzur Vadisi içerisinde Munzur Suyu eşliğinde eşsiz doğa manzaraları ile dolu âdeta macera dolu bir yolculuk sizi beklemektedir. Ovacık Yolu yedinci km’de Munzur Suyu’nun hemen kenarında Ana Fatma Ziyareti adı verilen mekânda kısa bir mola verdikten sonra Munzur Vadisi Millî Parkı içerisindeki yolculuğunuz süresince sık sık durmak isteyeceksiniz çünkü göreceğiniz her güzellik sizi alıp farklı bir ruh âlemine götürecektir. Kimi yerde suyun hırçın akışı, kimi yerde şelaleler, kimi yerde birbirinden güzel yaban çiçekleri kimi yerlerde ise şansınız varsa dağ keçileri, sincaplar, tilkiler göreceksiniz. Enfes doğal güzelliklerle dolu yaklaşık 1-1,5 saat süren bir yolculuktan sonra şehre 65 km uzaklıkta bulunan Ovacık ilçesine varacaksınız. Mevsimine göre ilçe merkezindeki telesiyej ve teleski bulunan kayak tesisinde kayak yapabilir yazın ise dağ kızağı heyecanını yaşayabilirsiniz. İlçe merkezinde tamamen doğal ortamda beslenmiş hayvanların yağından ve etinden yapılmış yemeklerle hizmet veren lokantalarda açlığınızı giderdikten sonra Munzur Suyu’nun ana kaynağının bulunduğu ilçeye 15 km uzaklıktaki Gözelere gidebilirsiniz. Aynı zamanda kutsal bir mekân olan gözelerde, Munzur Baba Efsanesi’ni öğrendikten sonra çıranızı yakarak dilekte bulunabilir, sonra efsaneye göre Munzur Baba’nın sağdığı sütleri koyduğu kabın sallandıkça her döküldüğü yerden süt gibi fışkıran suların oluşturduğu gözeleri gezip görebilir, efsanenin dünyasına siz de dâhil olabilirsiniz.</item>
+    </string-array>
+
+
+    <string-array name="usak">
+        <item>Uşak</item>
+        <item>Muhteşem bir Ege kahvaltısı ile günün açılışını yaptıktan sonra Dünya’nın en büyük kanyonları arasında gösterilen doğa harikası Ulubey Kanyonları ilk günün ilk durağı olmayı sonuna kadar hakeden bir nokta. Kanyon içerisinde yer alan Tabiat Parkında yorgunluk giderildikten sonra Karun (Lydia Kralı Croesos) Hazineleri’nin sergilendiği Uşak Arkeoloji Müzesi ziyaret edilmelidir. Arkeoloji Müzesini takiben Atatürk ve Etnoğrafya Müzesi ziyaret edilmelidir. Zamanında Atatürk’ün de yaşadığı bu müzede, kendisinin kullandığı pek çok eşyayı görmek sizi o dönemde uzun bir yolculuğa çıkaracaktır. Günü batırmak için eşsiz manzaraya sahip olan Helenistik Döneme ait Clandıras Su Kemeri yada Taşyaran Vadisi tercih edilmesi gereken noktalardandır. Gün sonunda ise Uşak’ın yöresel lezzetlerinin keyfini çıkarabileceğiniz restoranlarda tadım yapıp ertesi gün için enerji toplayabilirsiniz.</item>
+        <item>kici güne, Blaundus, Akmonia, Sebaste, Pepouza Antik kentleri serisi ile devam edilebilir. Antik kent ziyaretlerinden sonra otantik halı ve kilim dokumacılığının en gözde eserlerinin sergilendiği Uşak Dokur Evi ve Dokuyan Eller gezilmelidir. Gün Tarihi Uşak Evleri arasında gezerek kapatılabilir ve buradan çeşitli hediyelik eşyalar alınabilir. Eğer mevsimiyse Lavanta Bahçeleri de mutlaka ziyaret edilmelidir.</item>
+    </string-array>
+
+
+    <string-array name="van">
+        <item>Van</item>
+        <item>Güne geleneksel Van kahvaltısı salonlarından birinde meşhur Van kahvaltısı ile başlanabilir.
+
+Kahvaltıdan sonra şehir merkezine 10 dakika mesafede bulunan, başta Urartular olmak üzere Osmanlı ve Selçuklu eserlerinin sergilendiği, birçok değerli arkeolojik ve etnografik esere ev sahipliği yapan, ayrıca Urartu eserleri sayısı açısından dünyadaki en zengin müze olan Van Müzesi gezilebilir. Ardından Van Kalesi ziyaret edilip eski Van şehrine geçilebilir. Hüsrevpaşa Külliyesi, Kayaçelebi Camii, Horhor Camii, Kızıl Minareli Cami kalıntıları gezilebilir.
+
+Şehir merkezindeki Yabancılar (Rus) Çarşısı\'na geçilerek hediyelik eşya ve savatlı gümüş takı dükkânlarından alışveriş yapılabilir. Buradan dünyaca ünlü Van Kilimi’nin satıldığı kilimcilere uğranabilir, kilimcilere beş dakika mesafedeki Tarihî Peynirciler Çarşısı’nda Van Otlu Peyniri tadılabilir. Eski Van Evleri’ni görmek için 20 dakika mesafedeki Kalecik Mahallesi’ne gidilebilir.
+
+Öğle yemeğinde Van\'ın yöresel yemeklerinden olan Keledoş, Ayran Aşı, Sengeser, Kürt Köftesi, Acem Köftesi, Van Balığı yenebilir.
+
+Öğle yemeğinden sonra iki gözü farklı renkte olan (biri kehribar diğeri mavi) yüzlerce Van Kedisi’nin bulunduğu, Van Kedi Villası\'nı ziyaret etmek için 10 dakika mesafedeki Yüzüncü Yıl Üniversitesi Merkez Kampüsü’ne geçilebilir.
+
+Daha sonra 40 dakika mesafede bulunan Muradiye Şelalesi ve Erciş ilçesindeki Deliçay ziyaret edilerek burada üreme zamanında nehirlerden yukarı sıçrayarak ilerleyen inci kefalleri görülebilir.
+
+45 dakikalık bir yolculuktan sonra Erçek Gölü\'ne geçerek hazirandan ekim ayına kadar burada konaklayan, beslenen ve üreyen flamingolar ve yüzlerce kuş çeşidi görülebilir.
+
+Akşam yemeğinde Van Oturma Gecesi ekibi tarafından seslendirilen yöresel müzikler dinlenerek gün tamamlanabilir.</item>
+        <item>Sabah yapılacak Van kahvaltısından sonra Gürpınar ilçesi yolu üzerinde yer alan ve 45 dakikalık mesafede bulunan Çavuştepe Kalesi\'ne gidilebilir, Burada üç bin yıl önce tahıl ambarı olarak kullanılan küpler görülebilir.
+
+30 dakikalık bir yolculuk sonrasında muhteşem kale kapısı ve büyüleyici yüksek surları bulunan Hoşap Kalesi ziyaret edilebilir. Hemen aşağıda bulunan ve yüzyılların yükünü taşıyan Evliyabey Köprüsü’nden karşıya geçilebilir.
+
+Ardından 60 dakika mesafedeki Başkale ilçesine hareket edilebilir ve Yavuzlar Köyü’ndeki Vanadokya ve Dereiçi köyündeki travertenlerin eşsiz doğası keşfedilebilir.
+
+Buradan 50 dakikalık bir yolculukla Gevaş ilçesindeki Halime Hatun Kümbeti ve tarihî Selçuklu Mezarlığı gezilebilir. Ardından ilçe merkezindeki 500 yıllık İzzettin Şir Cami ve Türbesi ziyaret edilebilir.
+
+Zamanında büyük bir aşk hikâyesinin yaşandığı, adını da bu efsaneden alan Akdamar Adası\'na hareket edilebilir, 20 dakikalık bir tekne yolculuğuyla adaya varıldıktan sonra Akdamar Kilisesi’nin dış duvarlarındaki kutsal kitaplardan sahnelerin yer aldığı kabartmalar, müze içerisindeki dilek kuyusu ve iç duvarlardaki freskler görülebilir.
+
+Günün sonunda Edremit sahil bandında yürüyüş yapılarak meşhur Edremit Köftesi, Van Tandır Balığı ve Ayran Aşı yenilebilir. Akşam, Edremit Seyir Tepesi’nden veya Van Kalesi’nden gün batımı izlenebilir.</item>
+    </string-array>
+
+
+    <string-array name="yalova">
+        <item>Yalova</item>
+        <item>Mustafa Kemal Atatürk’ün de kaldığı deniz kıyısında bulunan Yürüyen Köşk’ü ziyaret ederek burada biraz dinlenin ve çay veya kahve içerek sahil manzarasının keyfini çıkarın.
+
+Yalova et ve hamuru bir araya getiren farklı lezzetleriyle meşhur bir kent. Ziyaretiniz esnasında Termal tatlısı, Termal sarma, kaburga dolması ve Termal çorba gibi yerel tatları denemeyi unutmayın.
+
+7 bin farklı bitki türünü görebileceğiniz Karaca Arboretum’unda doğaya hayran kalacaksınız. Ormana ve yeşile doyamayanları Yalova Kent Ormanı’na alalım. Doğa içinde sakin bir yürüyüş sonrası Erikli Şelale’sini görebilir ve güzel manzara fotoğrafları çekebilirsiniz. Yalova Kent Ormanı’na 2.5 km uzaktaki Dipsiz Göl’ü de ziyaret etmeyi unutmayın.</item>
+        <item>Atatürk’ün de dönem dönem konakladığı Termal Köşkü’ne giderek tarihi bir yolculuğa çıkın. Köşkte bulunan eserlere ve tamamen ahşaptan yapılan binaya bayılacaksınız.
+
+Termal, Yalova’nın en dinlendirici lokasyonlarından biri olarak kabul edilebilir. Orman ile iç içe, çeşitli kaplıca ve şifa alanlarıyla bitmesini istemeyeceğiniz bir ziyaret olacak. Termal’de Bizans döneminden kalma Kurşunlu Hamam’ı görebilir ve Yalova’nın meşhur Termal Kaplıcaları’nda rahatlayabilirsiniz.
+
+Kaplıca ziyaretiniz bittiğinde Yalova’ya özgü Çınarcık İşi, Yalova Çinisi gibi yerel el sanatları ürünlerine göz atmayı ihmal etmeyin.</item>
+    </string-array>
+
+
+    <string-array name="yozgat">
+        <item>Yozgat</item>
+        <item>Sabah yöresel lezzetlerden oluşan geleneksel bir kahvaltıyla güne başladıktan sonra ilk olarak Türk resim sanatı açısından son derece önemli olan resimlerin de olduğu Yozgat Arkeoloji Müzesi’ni (Nizamoğlu Konağı) ziyaret edebilirsiniz. Ardından Karslıoğlu Konağı’na uğrayıp bu görkemli konağı gördükten sonra Başçavuşoğlu Cami’sini görmelisiniz. Ardından Anadolu\'daki büyük boyutta resme sahip ilk cami olarak bilinen Çapanoğlu Cami ve Hamidiye Çeşmesi’ni gördükten sonra öğle yemeği için bir mola verebilirsiniz.
+
+Yozgat’ın geleneksel lezzetlerinden birini seçerek öğle yemeğinizi yedikten sonra Saat Kulesi’ni görerek şehir merkezindeki turunuzu Arkeoloji Müzesi ile bitirebilirsiniz. Buradan Sorgun üzerinden Sarıkaya\'ya hareket edebilir, Sarıkaya\'da Roma - Bizans döneminde kullanılan ve Aquae Sarvenea / Bazilika Therma adlarıyla tanınan kaplıca kalıntılarını görebilir ve ardından şehir merkezine dönebilirsiniz. Akşam yemeğinden önce çarşıda gezip Parmak Çörek almayı unutmayın!</item>
+
+    </string-array>
+
+
+    <string-array name="zonguldak">
+        <item>Zonguldak</item>
+        <item>Zonguldak sahilde yapacağınız bir kahvaltı ile başladığınız güne Devrek’teki Baston Müzesi’ni gezerek devam edebilirsiniz. Ardından Tios Antik Kenti ve Filyos Kalesi’ni ziyaret edip traverten, sarkıt, dikit sütunlar ve damla taşlar ile süslü Gökgöl Mağarası’nın büyüleyici atmosferinin keyfini çıkarabilirsiniz. Zonguldak Maden Müzesi ve Eğitim Ocağı’nda geçmişten günümüze kadar madencilikte kullanılan araç gereçler ve kömürün tarihi, yerin metrelerce altında çalışan işçilerin çeşitli simülasyonlarla anlatılan çalışma hayatlarını görebilirsiniz. Karaelmas Maden Şehitleri Müzesi madenlerde çalışan ve iş kazası sonucu yaşamını yitirmiş olan işçiler anısına yapılmıştır ve bir maden şehri olan Zonguldak’ta mutlaka ziyaret edilmesi gereken noktalardan biridir. Zonguldak’ın sembol adreslerinden biri olan Varagel Tüneli’ne giderken yürümeyi tercih etmelisiniz. Bir anıt ağaç tüneli denebilecek yolda her biri en az 200 yaşında olan anıt ağaçların gölgesinde keyifli bir yürüyüş yapabilir ve sonrasında güzel bir akşam yemeğinin ardından günü bitirebilirsiniz.</item>
+        <item>Zonguldak’taki ikinci gününüze doğa ile baş başa Harmankaya Şelaleleri’nde enerji toplayarak başlayabilirsiniz. Ardından Tas Gölü Kamp Alanı’nda yürüyüş yapabilir, akarsularda ayaklarınızı ıslatabilir, yanınızda götüreceğiniz sandviçlerinizi doğa içinde piknik masalarında yiyebilirsiniz. Doğa ile baş başa geçirilen saatlerin ardından Alemdar Gemi Müzesi ve Ereğli Müzesi’ni ziyaret edebilir, ardından şehrin en ünlü noktalarından biri olan Roma ve Bizans dönemlerinde ibadet yapmak için kullanılmış Kilise Mağarası, Herkül ve Ayazma Mağaraları olmak üzere üç adet mağaradan oluşan Cehennemağzı Mağaraları’nı ziyaret edebilirsiniz. Günün sonuna doğru iki günlük yorgunluğunuzu Köseağzı Plajı’nın serin sularında atabilirsiniz.</item>
+    </string-array>
+
+
+
+
+
+
+
+
+</resources>

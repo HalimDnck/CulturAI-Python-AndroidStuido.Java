@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main.SettingsActivity"
+    android:orientation="vertical"
+    android:background="@color/black">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp">
+
+        <ImageView
+            android:id="@+id/go_back_btn"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/go_back"
+            app:tint="@color/main_green"
+            tools:ignore="ContentDescription,HardcodedText" />
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/logo"
+            android:paddingTop="0dp"
+            android:layout_centerInParent="true"
+            tools:ignore="ContentDescription"
+            />
+
+        <ImageView
+            android:id="@+id/main_info"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/info"
+            android:layout_alignParentRight="true"
+            tools:ignore="ContentDescription,HardcodedText"
+            app:tint="@color/main_green"/>
+
+    </RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:text="@string/options"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"/>
+
+                <Spinner
+                    android:id="@+id/languageSpinner"
+                    android:layout_width="250dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/spinner_bg"
+                    android:popupBackground="@color/main_green"
+                    android:layout_gravity="center|top"
+                    android:dropDownWidth="250dp"
+                    android:layout_marginTop="30dp"
+                    >
+                </Spinner>
+
+                <Button
+                    android:id="@+id/privacy_btn"
+                    android:layout_width="250dp"
+                    android:layout_height="30dp"
+                    android:background="@drawable/options_bg"
+                    android:layout_gravity="center|top"
+                    android:text="@string/privacy_policy"
+                    android:textColor="@color/white"
+                    android:textAllCaps="false"
+                    android:layout_marginTop="30dp"
+                    android:textAlignment="viewStart"
+                    android:paddingLeft="10dp"
+                    tools:ignore="RtlCompat" />
+
+                <Button
+                    android:id="@+id/program_btn"
+                    android:layout_width="250dp"
+                    android:layout_height="30dp"
+                    android:background="@drawable/options_bg"
+                    android:layout_gravity="center|top"
+                    android:text="@string/sustainable_program"
+                    android:textColor="@color/white"
+                    android:textAllCaps="false"
+                    android:layout_marginTop="30dp"
+                    android:textAlignment="viewStart"
+                    android:paddingLeft="10dp"
+                    tools:ignore="RtlCompat" />
+
+                <TextView
+                    android:text="@string/social_meadia"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    android:paddingTop="50dp"
+                    android:layout_gravity="center"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    >
+
+                    <ImageView
+                        android:id="@+id/instagram"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/instagram_logo"
+                        app:tint="@color/white"
+                        android:layout_margin="20dp"/>
+                    <ImageView
+                        android:id="@+id/twitter"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/twitter_logo"
+                        app:tint="@color/white"
+                        android:layout_margin="20dp"/>
+                    <ImageView
+                        android:id="@+id/facebook"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/facebook_logo"
+                        app:tint="@color/white"
+                        android:layout_margin="20dp"/>
+                    <ImageView
+                        android:id="@+id/youtube"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/youtube_logo"
+                        app:tint="@color/white"
+                        android:layout_margin="20dp"/>
+
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </RelativeLayout>
+
+</LinearLayout>

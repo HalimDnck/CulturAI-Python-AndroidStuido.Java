@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main.PlaceActivity"
+    android:orientation="vertical"
+    android:background="@color/black">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp">
+
+        <ImageView
+            android:id="@+id/go_back_btn"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/go_back"
+            app:tint="@color/main_green"
+            tools:ignore="ContentDescription,HardcodedText" />
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_centerInParent="true"
+            android:paddingTop="0dp"
+            android:src="@drawable/logo"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/main_info"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/info"
+            app:tint="@color/main_green"
+            tools:ignore="ContentDescription,HardcodedText" />
+
+    </RelativeLayout>
+
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="20dp"
+                >
+
+                <ImageView
+                    android:id="@+id/city_image"
+                    android:layout_width="350dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/place_adana"
+                    android:layout_gravity="center" />
+
+                <TextView
+                    android:id="@+id/city_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Value"
+                    android:textColor="@color/main_green"
+                    android:gravity="center"
+                    android:layout_gravity="center"
+                    android:textSize="24sp"
+                    android:paddingTop="20dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/day_one"
+                    android:textColor="@color/main_green"
+                    android:gravity="left"
+                    android:textSize="20sp"
+                    android:paddingTop="20dp"/>
+
+                <TextView
+                    android:id="@+id/city_one"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Day One Text"
+                    android:textColor="@color/white"
+                    android:paddingTop="10dp"
+                    android:textSize="14sp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/day_two"
+                    android:textColor="@color/main_green"
+                    android:gravity="left"
+                    android:textSize="20sp"
+                    android:paddingTop="20dp"/>
+
+                <TextView
+                    android:id="@+id/city_two"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Day Two Text"
+                    android:textColor="@color/white"
+                    android:paddingTop="10dp"
+                    android:textSize="14sp"
+                    android:layout_marginBottom="50dp"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:textColor="@color/black"
+                    android:paddingTop="10dp"
+                    android:textSize="14sp"/>
+
+
+
+            </LinearLayout>
+        </ScrollView>
+
+
+
+
+</LinearLayout>
